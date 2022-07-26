@@ -1,0 +1,4985 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!641289076 &-6813155811121257701
+AudioBuildInfo:
+  m_IsAudioDisabled: 0
+  m_AudioClipCount: 0
+  m_AudioMixerCount: 0
+--- !u!668709126 &-3579849358156409117
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: scene-standalonewindows64-openscene.vrcw
+    bundleArchiveFile: 2
+    packagedFileIndices: 0000000001000000
+  - bundleName: Sandbox
+    bundleArchiveFile: 5
+    packagedFileIndices: 04000000
+--- !u!382020655 &-3391861874372719346
+PluginBuildInfo:
+  m_RuntimePlugins:
+  - Unity.Burst.Unsafe
+  - OVRPlugin
+  - MeshExtension
+  - System.Threading.Tasks.Extensions
+  - VRC.Udon.ClientBindings
+  - openvr_api
+  - portmidi
+  - VRC.Udon.VRCWrapperModules
+  - VRCSDK3
+  - VRC.Udon.VM
+  - nunit.framework
+  - librsync.net
+  - VRC.Udon.Common
+  - Collections.Pooled
+  - System.Collections.Immutable
+  - System.Numerics.Vectors
+  - MeshDecimator
+  - System.Buffers
+  - VRC.Udon.Wrapper
+  - VRC.Utility
+  - VRC.Udon.Security
+  - clipper_library
+  - uDesktopDuplication
+  - VRC.Collections
+  - VRCSDKBase
+  - System.Runtime.CompilerServices.Unsafe
+  - libopenvr_api
+  - Blake2Sharp
+  - System.Memory
+  - VRCCore-Editor
+  - AudioPluginOculusSpatializer
+  m_EditorPlugins:
+  - lmrebake
+  - VRCSDK3-Editor
+  - uvrepack
+  - Microsoft.CodeAnalysis
+  - VRC.Udon.VRCTypeResolverModules
+  - AppleEventIntegration
+  - liblz4Plastic
+  - optix_denoiser.6.0.0
+  - cudart32_91
+  - cudart64_91
+  - alphabuffergen
+  - simpleProgressBar
+  - JMOAssets_CartoonFXFreeWelcome
+  - OpenImageDenoise
+  - Unity.Plastic.Newtonsoft.Json
+  - unityplastic
+  - PackageManagerAssembly
+  - optix_denoiser.51
+  - tbbmalloc
+  - VRC.Udon.Compiler
+  - System.Reflection.Metadata
+  - tbb
+  - optix.51
+  - Microsoft.CodeAnalysis.CSharp
+  - VRC.Udon.UAssembly
+  - uvgbuffergen
+  - VRC.Udon.Graph
+  - cudnn64_7
+  - frender
+  - UnityEditor.VR
+  - 0Harmony
+  - JetBrains.Rider.Unity.Editor.Plugin.Repacked
+  - d3dcompiler_47
+  - VRCSDKBase-Editor
+  - VRC.Udon.VRCGraphModules
+  - halffloat2vb
+  - optix.6.0.0
+  - log4netPlastic
+  - VRC.Udon.EditorBindings
+  - xatlasLib
+  - zlib64Plastic
+  - Unity.Plastic.Antlr3.Runtime
+  - lz4x64Plastic
+  - optix.1
+  - cudart64_90
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LastBuild
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 637941125230043015
+    buildGUID: 00000000000000000000000000000000
+    platformName: Win64
+    platformGroupName: Standalone
+    options: 16
+    assetBundleOptions: 32
+    outputPath: C:/Users/natha/AppData/Local/Temp/DefaultCompany/Sandbox/scene-standalonewindows64-openscene.vrcw
+    crc: 2443838561
+    totalSize: 360257625
+    totalTimeTicks: 0
+    totalErrors: 0
+    totalWarnings: 2
+    buildType: 1
+    buildResult: 1
+  m_Files:
+  - path: C:/Users/natha/Documents/GitHub/PandorumVRC/scene-standalonewindows64-openscene.vrcw/BuildPlayer-OpenScene
+    role: Scene
+    id: 0
+    totalSize: 48097136
+  - path: C:/Users/natha/Documents/GitHub/PandorumVRC/scene-standalonewindows64-openscene.vrcw/BuildPlayer-OpenScene.sharedAssets
+    role: SharedAssets
+    id: 1
+    totalSize: 852316244
+  - path: C:/Users/natha/Documents/GitHub/PandorumVRC/scene-standalonewindows64-openscene.vrcw
+    role: AssetBundle
+    id: 2
+    totalSize: 360251718
+  - path: C:/Users/natha/Documents/GitHub/PandorumVRC/scene-standalonewindows64-openscene.vrcw.manifest
+    role: AssetBundleTextManifest
+    id: 3
+    totalSize: 4687
+  - path: C:/Users/natha/Documents/GitHub/PandorumVRC/Sandbox/CAB-a7b33ddf04da51a7de27255f7eb54528
+    role: ResourcesFile
+    id: 4
+    totalSize: 4308
+  - path: C:/Users/natha/Documents/GitHub/PandorumVRC/Sandbox
+    role: ManifestAssetBundle
+    id: 5
+    totalSize: 1053
+  - path: C:/Users/natha/Documents/GitHub/PandorumVRC/Sandbox.manifest
+    role: AssetBundleTextManifest
+    id: 6
+    totalSize: 167
+  m_BuildSteps:
+  - stepName: Build Asset Bundles
+    durationTicks: 5925342320
+    depth: 0
+    messages: []
+  - stepName: Calculate asset bundles to be built
+    durationTicks: 4089388
+    depth: 1
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 41262677
+    depth: 1
+    messages: []
+  - stepName: Build player
+    durationTicks: 5810301520
+    depth: 1
+    messages:
+    - type: 3
+      content: HTTPFormUseage:UrlEncoded
+  - stepName: Prepare assets for target platform
+    durationTicks: 3375021
+    depth: 2
+    messages:
+    - type: 2
+      content: 'Assets/Tiki Torch/torch.c4d: Unity no longer supports importing Cinema
+        4D files directly, but we''re working with Maxon to make the experience better.
+        To import Cinema 4D files, install Maxon''s external importer. You can find
+        more information on the Unity Forum: https://on.unity.com/c4d.
+
+
+        Please
+        note that FBX files exported from Cinema4D are still supported.'
+  - stepName: Building scenes
+    durationTicks: 1253250801
+    depth: 2
+    messages: []
+  - stepName: Building scene Assets/Scenes/OpenScene.unity
+    durationTicks: 1253226741
+    depth: 3
+    messages: []
+  - stepName: Writing asset files
+    durationTicks: 2732006146
+    depth: 2
+    messages: []
+  - stepName: Packaging assets - archive:/BuildPlayer-OpenScene/BuildPlayer-OpenScene.sharedAssets
+    durationTicks: 2731908561
+    depth: 3
+    messages:
+    - type: 2
+      content: 'Shader warning in ''Nature/SpeedTree'': floating point division by
+        zero at SpeedTreeVertex.cginc(101) (on d3d11)
+
+
+        Compiling Vertex
+        program with UNITY_PASS_SHADOWCASTER SHADOWS_CUBE STEREO_INSTANCING_ON LOD_FADE_PERCENTAGE
+        GEOM_TYPE_LEAF
+
+        Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS
+        UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION
+        UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP
+        UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR'
+  - stepName: Creating compressed player package
+    durationTicks: 1798361536
+    depth: 2
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 1409437
+    depth: 2
+    messages: []
+  m_Appendices:
+  - {fileID: -3579849358156409117}
+  - {fileID: 4125546978679848501}
+  - {fileID: -3391861874372719346}
+  - {fileID: -6813155811121257701}
+  - {fileID: 3157284402620165338}
+--- !u!1126 &3157284402620165338
+PackedAssets:
+  m_File: 4
+  m_ShortPath: CAB-a7b33ddf04da51a7de27255f7eb54528
+  m_Overhead: 4096
+  m_Contents:
+  - fileID: 1
+    classID: 142
+    packedSize: 104
+    offset: 4096
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: AssetBundle Object
+  - fileID: 2
+    classID: 290
+    packedSize: 108
+    offset: 4200
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
+--- !u!1126 &4125546978679848501
+PackedAssets:
+  m_File: 1
+  m_ShortPath: BuildPlayer-OpenScene.sharedAssets
+  m_Overhead: 185078
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 109
+    offset: 187016
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 142
+    packedSize: 156
+    offset: 187128
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 3
+    classID: 21
+    packedSize: 900
+    offset: 187288
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 4
+    classID: 21
+    packedSize: 900
+    offset: 188192
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 5
+    classID: 21
+    packedSize: 892
+    offset: 189096
+    sourceAssetGUID: 17896aa281ce20c419f27e20162121bd
+    buildTimeAssetPath: Assets/Tiki Torch/tikiTorch.obj
+  - fileID: 6
+    classID: 21
+    packedSize: 908
+    offset: 189992
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 7
+    classID: 21
+    packedSize: 908
+    offset: 190904
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 8
+    classID: 21
+    packedSize: 892
+    offset: 191816
+    sourceAssetGUID: 17896aa281ce20c419f27e20162121bd
+    buildTimeAssetPath: Assets/Tiki Torch/tikiTorch.obj
+  - fileID: 9
+    classID: 21
+    packedSize: 1052
+    offset: 192712
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 10
+    classID: 21
+    packedSize: 196
+    offset: 193768
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 11
+    classID: 21
+    packedSize: 1384
+    offset: 193968
+    sourceAssetGUID: 2a8f9a878cb7cff45b00339938d945ce
+    buildTimeAssetPath: Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Materials/LowPoly
+      - TreeTrunk.mat
+  - fileID: 12
+    classID: 21
+    packedSize: 896
+    offset: 195352
+    sourceAssetGUID: 5ce3f161bf76eda4fab94c4146c83818
+    buildTimeAssetPath: Assets/Bakery/examples/content/Materials/01 - Default.mat
+  - fileID: 13
+    classID: 21
+    packedSize: 588
+    offset: 196248
+    sourceAssetGUID: 01350d0549253a9459d2bb2295a44e18
+    buildTimeAssetPath: Assets/Bark_PBR_Textures/Bark02.mat
+  - fileID: 14
+    classID: 21
+    packedSize: 588
+    offset: 196840
+    sourceAssetGUID: 487c7d8bf7fb7cd42a2f25b49e388e22
+    buildTimeAssetPath: Assets/Bark_PBR_Textures/Bark06.mat
+  - fileID: 15
+    classID: 21
+    packedSize: 952
+    offset: 197432
+    sourceAssetGUID: 87fd05c3bc665e54688efcc008b008b2
+    buildTimeAssetPath: Assets/Bark_PBR_Textures/Bark07.mat
+  - fileID: 16
+    classID: 21
+    packedSize: 708
+    offset: 198384
+    sourceAssetGUID: b19f572b2b9e1ec4aaa478d72f7427da
+    buildTimeAssetPath: Assets/Blink/Art/Textures/RealisticForestTextures/Grass_Rocks/Grass_Rocks_ForBaked.mat
+  - fileID: 17
+    classID: 21
+    packedSize: 952
+    offset: 199096
+    sourceAssetGUID: 00736a371178a97418fb6bf3ac2f016e
+    buildTimeAssetPath: Assets/DekuPlacehold/material_0.mat
+  - fileID: 18
+    classID: 21
+    packedSize: 592
+    offset: 200048
+    sourceAssetGUID: 776677ab3818fb249adaca05f4e04545
+    buildTimeAssetPath: Assets/EffectExamples/FireExplosionEffects/Materials/EmbersParticle.mat
+  - fileID: 19
+    classID: 21
+    packedSize: 1340
+    offset: 200640
+    sourceAssetGUID: d7f098ed9997e714193be5e86df013f4
+    buildTimeAssetPath: Assets/EffectExamples/FireExplosionEffects/Materials/FlameRoundYellowParticle.mat
+  - fileID: 20
+    classID: 21
+    packedSize: 1384
+    offset: 201984
+    sourceAssetGUID: 6f7eb092bd8c5744984d49b87e9aeafc
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Effects/FAE_AdditiveParticle.mat
+  - fileID: 21
+    classID: 21
+    packedSize: 1164
+    offset: 203368
+    sourceAssetGUID: 883bbd715dd7e2e428aa32e0c388722a
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Cliff_A_Mat.mat
+  - fileID: 22
+    classID: 21
+    packedSize: 1504
+    offset: 204536
+    sourceAssetGUID: 3fb461ac7c57a6a45a721f002c1fe26d
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Cliff_B_Mat.mat
+  - fileID: 23
+    classID: 21
+    packedSize: 560
+    offset: 206040
+    sourceAssetGUID: f6653cb4a7fc86c439e596edb503062b
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Cliff_C_Mat.mat
+  - fileID: 24
+    classID: 21
+    packedSize: 560
+    offset: 206600
+    sourceAssetGUID: 8860e9ce8f7069c47a0cd17fe89a34aa
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Cliff_D_Mat.mat
+  - fileID: 25
+    classID: 21
+    packedSize: 864
+    offset: 207160
+    sourceAssetGUID: d370d2b28db6b1242acde8161dfb3d35
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Cliff_E_Mat.mat
+  - fileID: 26
+    classID: 21
+    packedSize: 1368
+    offset: 208024
+    sourceAssetGUID: 691d9f20f9d2ef9468baa5728a775033
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Vegetation/FAE_IvyAtlas.mat
+  - fileID: 27
+    classID: 21
+    packedSize: 320
+    offset: 209392
+    sourceAssetGUID: 9153b2dbef5d0b0428e60c092d1b4a12
+    buildTimeAssetPath: Assets/Fantasy Skybox FREE/Cubemaps/FS017/FS017_Sunset_Cubemap.mat
+  - fileID: 28
+    classID: 21
+    packedSize: 700
+    offset: 209712
+    sourceAssetGUID: c25c85fb524f04ea5b7f96dd8eb6cebf
+    buildTimeAssetPath: Assets/Free_Rocks/_material/rocks.mat
+  - fileID: 29
+    classID: 21
+    packedSize: 616
+    offset: 210416
+    sourceAssetGUID: e0ad020915296c9468e50c36e20e65ae
+    buildTimeAssetPath: Assets/Hut/Materials/M_Fence.mat
+  - fileID: 30
+    classID: 21
+    packedSize: 588
+    offset: 211032
+    sourceAssetGUID: 462f883ea97008644bab51baf1e693b6
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/Bark01_SHD.mat
+  - fileID: 31
+    classID: 21
+    packedSize: 956
+    offset: 211624
+    sourceAssetGUID: 69fa901afedf63049823c419ded7d95d
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/Branch01_SHD.mat
+  - fileID: 32
+    classID: 21
+    packedSize: 588
+    offset: 212584
+    sourceAssetGUID: 5282e383767fc0b4bb2b677d3fe2524b
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/Clay01_SHD.mat
+  - fileID: 33
+    classID: 21
+    packedSize: 1628
+    offset: 213176
+    sourceAssetGUID: 106453769c7c90b4187e063933cc59ee
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/Flower01_su_SHD.mat
+  - fileID: 34
+    classID: 21
+    packedSize: 1628
+    offset: 214808
+    sourceAssetGUID: 0aafb5018ceb17b409645b47880c0d10
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/Flower2_su_SHD.mat
+  - fileID: 35
+    classID: 21
+    packedSize: 1012
+    offset: 216440
+    sourceAssetGUID: 13dbb1a5991612a409804f57f6147432
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/Leaf01_su_SHD.mat
+  - fileID: 36
+    classID: 21
+    packedSize: 588
+    offset: 217456
+    sourceAssetGUID: 5f74f3fa4612c67498319ad3246cc9a4
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/Soil01_SHD.mat
+  - fileID: 37
+    classID: 21
+    packedSize: 956
+    offset: 218048
+    sourceAssetGUID: 43b3f6f43097ec542a3f178e57798b54
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/Wood01_SHD.mat
+  - fileID: 38
+    classID: 21
+    packedSize: 940
+    offset: 219008
+    sourceAssetGUID: 1b6c30152cd1abf4a9961f0dabcc1088
+    buildTimeAssetPath: Assets/Labthe3rd/Party Zone Keypad/Materials/AtlasBake_Baked.mat
+  - fileID: 39
+    classID: 21
+    packedSize: 1080
+    offset: 219952
+    sourceAssetGUID: 953de7a60f0b1174f91fe55bd2dd06c1
+    buildTimeAssetPath: Assets/LionStatue/ModelAndTextures/LionStatue_mtl.mat
+  - fileID: 40
+    classID: 21
+    packedSize: 1544
+    offset: 221032
+    sourceAssetGUID: ddd8135beedb67a429550c706571fe7c
+    buildTimeAssetPath: Assets/Materials/BakeryAreaLight.mat
+  - fileID: 41
+    classID: 21
+    packedSize: 212
+    offset: 222576
+    sourceAssetGUID: 8fa2a751ad926744893f55ea79f9d291
+    buildTimeAssetPath: Assets/MeshCombineStudio/MCS Caves&Overhangs/Examples/Sources/Rocks/Materials/Rock.mat
+  - fileID: 42
+    classID: 21
+    packedSize: 2288
+    offset: 222792
+    sourceAssetGUID: c4d445086ac1aa1499673757fba1cfa6
+    buildTimeAssetPath: Assets/NOT_Lonely/Advanced Cable Creator/Materials/Vine.mat
+  - fileID: 43
+    classID: 21
+    packedSize: 1296
+    offset: 225080
+    sourceAssetGUID: eecc1166fea90a74db25ca9639f920fc
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Effects/M_Fire.mat
+  - fileID: 44
+    classID: 21
+    packedSize: 1444
+    offset: 226376
+    sourceAssetGUID: 07b6f3dac4023fc41a62f4a036fb5736
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Effects/M_Smoke.mat
+  - fileID: 45
+    classID: 21
+    packedSize: 1668
+    offset: 227824
+    sourceAssetGUID: ecbaa5667e5070a449fa7af51ec5f97d
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Foliage/M_Grass_Advanced.mat
+  - fileID: 46
+    classID: 21
+    packedSize: 1664
+    offset: 229496
+    sourceAssetGUID: 41ceaada64bf26f4c8b2428577d4dc09
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Foliage/M_Grass_glow.mat
+  - fileID: 47
+    classID: 21
+    packedSize: 936
+    offset: 231160
+    sourceAssetGUID: 40a0c2b2c1ffbaf45930f6b0c7c5158c
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Foliage/M_Mushrooms.mat
+  - fileID: 48
+    classID: 21
+    packedSize: 932
+    offset: 232096
+    sourceAssetGUID: 293677401a21b2a44bbf3fa63b5b3587
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Props/M_Ash.mat
+  - fileID: 49
+    classID: 21
+    packedSize: 948
+    offset: 233032
+    sourceAssetGUID: a1a6cfd28ac74be43863deae20494c72
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Props/M_Campsite_Rocks_Unity.mat
+  - fileID: 50
+    classID: 21
+    packedSize: 752
+    offset: 233984
+    sourceAssetGUID: d61fad7402b523a4e9af749f8c648602
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Props/M_Fence_01.mat
+  - fileID: 51
+    classID: 21
+    packedSize: 936
+    offset: 234736
+    sourceAssetGUID: c25974af07bf16945bc5250f91549602
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Props/M_Fence_02.mat
+  - fileID: 52
+    classID: 21
+    packedSize: 752
+    offset: 235672
+    sourceAssetGUID: 33272793e2126554d9bb38d45ca28945
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Props/M_Fence_03.mat
+  - fileID: 53
+    classID: 21
+    packedSize: 936
+    offset: 236424
+    sourceAssetGUID: 131a70dfece960a4db25f459a95d0114
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Props/M_Firewood.mat
+  - fileID: 54
+    classID: 21
+    packedSize: 940
+    offset: 237360
+    sourceAssetGUID: 43efaec7f2854a44eb4e583caec484c2
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Props/M_SleepingBag_01.mat
+  - fileID: 55
+    classID: 21
+    packedSize: 932
+    offset: 238304
+    sourceAssetGUID: 7be7da06d04e9634a9be88817ddc4c1d
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Props/M_Tent.mat
+  - fileID: 56
+    classID: 21
+    packedSize: 728
+    offset: 239240
+    sourceAssetGUID: e582e7f5a77c84b46942aaa29ae93c5e
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Props/M_TreeFallen.mat
+  - fileID: 57
+    classID: 21
+    packedSize: 1448
+    offset: 239968
+    sourceAssetGUID: 714b16584915f5648b15a6c191bc5dc0
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Props/M_TreeStump_Cover.mat
+  - fileID: 58
+    classID: 21
+    packedSize: 1456
+    offset: 241416
+    sourceAssetGUID: 8dd3d5d4200d56c4db3dc79b53d459cd
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Rocks/M_RockFormation_01.mat
+  - fileID: 59
+    classID: 21
+    packedSize: 1440
+    offset: 242872
+    sourceAssetGUID: 465f70d5ff5ad5e45949120c7fc9c75c
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Rocks/M_RockFormation_02.mat
+  - fileID: 60
+    classID: 21
+    packedSize: 1456
+    offset: 244312
+    sourceAssetGUID: fa68cd243dfb20144a0c7e6d5f371d83
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Rocks/M_RockFormation_03.mat
+  - fileID: 61
+    classID: 21
+    packedSize: 1440
+    offset: 245768
+    sourceAssetGUID: 130969766deb1e949a59c401da77b8cb
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Rocks/M_RockFormation_04.mat
+  - fileID: 62
+    classID: 21
+    packedSize: 1928
+    offset: 247208
+    sourceAssetGUID: 443609c1a1fe7764393a3d2821622e7f
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Rocks/M_Rocks_Rune_01.mat
+  - fileID: 63
+    classID: 21
+    packedSize: 1928
+    offset: 249136
+    sourceAssetGUID: 3eeeb2782ffb9bb4a8e6d4ef714e4a1f
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Rocks/M_Rocks_Rune_02.mat
+  - fileID: 64
+    classID: 21
+    packedSize: 1196
+    offset: 251064
+    sourceAssetGUID: 351c6850aa5620944bc0d683179b15d4
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Trees/M_TreeBirch_Bark.mat
+  - fileID: 65
+    classID: 21
+    packedSize: 1272
+    offset: 252264
+    sourceAssetGUID: f07e7b29a5520b940bfcc4528607dac3
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Trees/M_TreeBirch_Leaves_Red.mat
+  - fileID: 66
+    classID: 21
+    packedSize: 1384
+    offset: 253536
+    sourceAssetGUID: 4863f36fbf7fbe740b49709e27b56f6e
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Trees/M_TreeLarge_Bark.mat
+  - fileID: 67
+    classID: 21
+    packedSize: 1208
+    offset: 254920
+    sourceAssetGUID: 256a7f8f4f010c545bf70c9bee77efde
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Trees/M_TreeLarge_Leaves.mat
+  - fileID: 68
+    classID: 21
+    packedSize: 1116
+    offset: 256128
+    sourceAssetGUID: a8643c41ab4c93241a07490553b3cf17
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Water/M_Dreamscape_Waterfall.mat
+  - fileID: 69
+    classID: 21
+    packedSize: 484
+    offset: 257248
+    sourceAssetGUID: 472a46a702f43e048ade032816cea39b
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Water/M_WaterfallFoam.mat
+  - fileID: 70
+    classID: 21
+    packedSize: 420
+    offset: 257736
+    sourceAssetGUID: 47597ed9ebcf31945b5fa50faa340cdd
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Materials/Water/M_WaterfallFoam_Volumetric.mat
+  - fileID: 71
+    classID: 21
+    packedSize: 708
+    offset: 258160
+    sourceAssetGUID: 3501b3c43e42cb742bee51c3354f081f
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity
+      5/Rock1.mat
+  - fileID: 72
+    classID: 21
+    packedSize: 708
+    offset: 258872
+    sourceAssetGUID: 520e490b117f8cc4bbfd41ec92292838
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity
+      5/Rock2.mat
+  - fileID: 73
+    classID: 21
+    packedSize: 708
+    offset: 259584
+    sourceAssetGUID: 4ec38644468fc2b47b9a0a6515c38542
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity
+      5/Rock3.mat
+  - fileID: 74
+    classID: 21
+    packedSize: 740
+    offset: 260296
+    sourceAssetGUID: 4f55ff57442728d46a34aa4aea8cb82c
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity
+      5/Rock4.mat
+  - fileID: 75
+    classID: 21
+    packedSize: 716
+    offset: 261040
+    sourceAssetGUID: b5df0d0c5fdf17849add10dec913d0ce
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity
+      5/Rock5.mat
+  - fileID: 76
+    classID: 21
+    packedSize: 708
+    offset: 261760
+    sourceAssetGUID: a757083ce9ed07240a5511e1c9d6e846
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Materials/Unity
+      5/Rock6.mat
+  - fileID: 77
+    classID: 21
+    packedSize: 912
+    offset: 262472
+    sourceAssetGUID: c9a5a9fb1a9488340b62053d9df18444
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/EnvironmentMaterials/GlowingSphere.mat
+  - fileID: 78
+    classID: 21
+    packedSize: 1120
+    offset: 263384
+    sourceAssetGUID: 66c73acb0e18efc48af28de817e00f1b
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Materials/BlueCrystal.mat
+  - fileID: 79
+    classID: 21
+    packedSize: 1124
+    offset: 264504
+    sourceAssetGUID: 4c9ff8457042dfc4dbca900597ce2d7d
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Materials/DarknessCrystal.mat
+  - fileID: 80
+    classID: 21
+    packedSize: 1128
+    offset: 265632
+    sourceAssetGUID: f7e3caa604e375c43b67f05ded4ec5ec
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Materials/LightSideCrystal
+      1.mat
+  - fileID: 81
+    classID: 21
+    packedSize: 1124
+    offset: 266760
+    sourceAssetGUID: 994968136bfddac4b81212a9414b6672
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Materials/LightSideCrystal.mat
+  - fileID: 82
+    classID: 21
+    packedSize: 1292
+    offset: 267888
+    sourceAssetGUID: 7dc61041e72c10b4c84ff3c93efbc5bf
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Materials/TranslucentCrystalv07.mat
+  - fileID: 83
+    classID: 21
+    packedSize: 628
+    offset: 269184
+    sourceAssetGUID: 481a860f6e18aaa4987377d42db93e02
+    buildTimeAssetPath: Assets/Stylized Mushroom/Materials/MushRoom1.mat
+  - fileID: 84
+    classID: 21
+    packedSize: 628
+    offset: 269816
+    sourceAssetGUID: e654a3066dff72f4c92bcf01157d85d0
+    buildTimeAssetPath: Assets/Stylized Mushroom/Materials/MushRoom2.mat
+  - fileID: 85
+    classID: 21
+    packedSize: 628
+    offset: 270448
+    sourceAssetGUID: 42931dbfc018339448e37d7c7dfc35dd
+    buildTimeAssetPath: Assets/Stylized Mushroom/Materials/MushRoom3.mat
+  - fileID: 86
+    classID: 21
+    packedSize: 628
+    offset: 271080
+    sourceAssetGUID: 2c1621ae5a3fea649bcb4366ae3bf283
+    buildTimeAssetPath: Assets/Stylized Mushroom/Materials/MushRoom4.mat
+  - fileID: 87
+    classID: 21
+    packedSize: 628
+    offset: 271712
+    sourceAssetGUID: 686f568a9276c6c48a8c39ae6be1f26c
+    buildTimeAssetPath: Assets/Stylized Mushroom/Materials/MushRoom5.mat
+  - fileID: 88
+    classID: 21
+    packedSize: 712
+    offset: 272344
+    sourceAssetGUID: 31dec9f109a3ab342a1137a9f0508959
+    buildTimeAssetPath: Assets/TsunaMoo/Store/Simple Water/Materials/SpawnWater.mat
+  - fileID: 89
+    classID: 21
+    packedSize: 708
+    offset: 273056
+    sourceAssetGUID: 66a082066b8ae664f8d44734164b9229
+    buildTimeAssetPath: Assets/TsunaMoo/Store/Simple Water/Materials/Water.mat
+  - fileID: 90
+    classID: 21
+    packedSize: 680
+    offset: 273768
+    sourceAssetGUID: 81b404ac6aad07044b3a90fe1ae63e21
+    buildTimeAssetPath: Assets/VRCSDK/Examples3/Dynamics/Robot Avatar/Materials/Base.mat
+  - fileID: 91
+    classID: 21
+    packedSize: 680
+    offset: 274448
+    sourceAssetGUID: 885232a00fcf2d8408ef16596a203d24
+    buildTimeAssetPath: Assets/VRCSDK/Examples3/Dynamics/Robot Avatar/Materials/Body.mat
+  - fileID: 92
+    classID: 21
+    packedSize: 1004
+    offset: 275128
+    sourceAssetGUID: 03abafa4b768df94a9b4437cefc3a465
+    buildTimeAssetPath: Assets/WorldMaterialsFree/Built-In_RPMaterials/AgedDarkWood_StandardShader
+      1.mat
+  - fileID: 93
+    classID: 21
+    packedSize: 620
+    offset: 276136
+    sourceAssetGUID: 808e6047c73239f46ac7425fc704306c
+    buildTimeAssetPath: Assets/WorldMaterialsFree/Built-In_RPMaterials/ClumpMud_StandardShader.mat
+  - fileID: 94
+    classID: 21
+    packedSize: 1588
+    offset: 276760
+    sourceAssetGUID: eca8519735ab55d438d136a79542228c
+    buildTimeAssetPath: Assets/glowing-mushroom/BlueShroom.mat
+  - fileID: 95
+    classID: 21
+    packedSize: 1048
+    offset: 278352
+    sourceAssetGUID: bb570020a8c3bad4bbf803af20e78937
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Materials/body.mat
+  - fileID: 96
+    classID: 21
+    packedSize: 1004
+    offset: 279400
+    sourceAssetGUID: 4987862c1c195e74c86994ba4bcbd812
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Materials/eye_L1.mat
+  - fileID: 97
+    classID: 21
+    packedSize: 1004
+    offset: 280408
+    sourceAssetGUID: a87def7cf3654cc43add52e645fee2ce
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Materials/eye_R1.mat
+  - fileID: 98
+    classID: 21
+    packedSize: 1004
+    offset: 281416
+    sourceAssetGUID: 9bec51fc47eda6047ba5cc01addbf46f
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Materials/eyebase.mat
+  - fileID: 99
+    classID: 21
+    packedSize: 1004
+    offset: 282424
+    sourceAssetGUID: 407f97b032a277c44b753ed1c256a3b8
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Materials/eyeline.mat
+  - fileID: 100
+    classID: 21
+    packedSize: 1024
+    offset: 283432
+    sourceAssetGUID: 4d83bd267b90e934e88637afcd02cb8a
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Materials/face.mat
+  - fileID: 101
+    classID: 21
+    packedSize: 1048
+    offset: 284456
+    sourceAssetGUID: 5ebb6caef8207d243a588a574971408c
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Materials/hair.mat
+  - fileID: 102
+    classID: 21
+    packedSize: 1092
+    offset: 285504
+    sourceAssetGUID: 5f9d44654b83160428d7c4cf276b3572
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Materials/mat_cheek.mat
+  - fileID: 103
+    classID: 21
+    packedSize: 1028
+    offset: 286600
+    sourceAssetGUID: ca131910d5c9a634dbdd38e77111033f
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Materials/skin1.mat
+  - fileID: 104
+    classID: 21
+    packedSize: 136
+    offset: 287632
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 105
+    classID: 21
+    packedSize: 1576
+    offset: 287768
+    sourceAssetGUID: 013108b7829f0b44fb6dd24260d12a79
+    buildTimeAssetPath: Assets/Labthe3rd/Party Zone Keypad/Font/Roboto Bold Keypad.asset
+  - fileID: 106
+    classID: 21
+    packedSize: 2004
+    offset: 289344
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 107
+    classID: 21
+    packedSize: 944
+    offset: 291352
+    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF.asset
+  - fileID: 108
+    classID: 21
+    packedSize: 904
+    offset: 292296
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 109
+    classID: 21
+    packedSize: 904
+    offset: 293200
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 110
+    classID: 21
+    packedSize: 892
+    offset: 294104
+    sourceAssetGUID: 17896aa281ce20c419f27e20162121bd
+    buildTimeAssetPath: Assets/Tiki Torch/tikiTorch.obj
+  - fileID: 111
+    classID: 28
+    packedSize: 1398208
+    offset: 295000
+    sourceAssetGUID: 84a0e137e36f87f4cad7fce281b7734a
+    buildTimeAssetPath: Assets/New Terrain 2.asset
+  - fileID: 112
+    classID: 28
+    packedSize: 21956
+    offset: 1693208
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 113
+    classID: 28
+    packedSize: 1398244
+    offset: 1715168
+    sourceAssetGUID: 0103cb456503c8d4ba432f0ca1c22b68
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Firewood_01_Base_N.png
+  - fileID: 114
+    classID: 28
+    packedSize: 1398244
+    offset: 3113416
+    sourceAssetGUID: 0110f8674e98a8c45a6e939882259ba8
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Foliage/T_Leaves_Clump_02.png
+  - fileID: 115
+    classID: 28
+    packedSize: 2796336
+    offset: 4511664
+    sourceAssetGUID: 01a1e8e5d16b868458825f89a4ab2112
+    buildTimeAssetPath: Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Roughness.png
+  - fileID: 116
+    classID: 28
+    packedSize: 4204
+    offset: 7308000
+    sourceAssetGUID: 02c0a84bd64c6f044954d8bde9b46ec8
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_28.png
+  - fileID: 117
+    classID: 28
+    packedSize: 1048696
+    offset: 7312208
+    sourceAssetGUID: 0374c7fbe6edd244c90decadef42733f
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA21_final.hdr
+  - fileID: 118
+    classID: 28
+    packedSize: 13544
+    offset: 8360904
+    sourceAssetGUID: 0407d0937b6005246b416856a64d4f90
+    buildTimeAssetPath: Assets/TsunaMoo/Store/Simple Water/Textures/BlackWhite.png
+  - fileID: 119
+    classID: 28
+    packedSize: 1398248
+    offset: 8374448
+    sourceAssetGUID: 06bdf21e154425948b0978955fd687b4
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Textures/FAE_Rock_DetailNormals.png
+  - fileID: 120
+    classID: 28
+    packedSize: 174892
+    offset: 9772696
+    sourceAssetGUID: 091d3c6300b7beb479fca4b4419854cf
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Branch01_dif_su.png
+  - fileID: 121
+    classID: 28
+    packedSize: 2796320
+    offset: 9947592
+    sourceAssetGUID: 092dca7a8192dd548a017b0eb2af8d4e
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock4.tif
+  - fileID: 122
+    classID: 28
+    packedSize: 4204
+    offset: 12743912
+    sourceAssetGUID: 09f6c01f98a3ded4daf1afc52a3c260f
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_26.png
+  - fileID: 123
+    classID: 28
+    packedSize: 130844
+    offset: 12748120
+    sourceAssetGUID: 0a1ccb54ef5be5a47abf8216d752ce7a
+    buildTimeAssetPath: Assets/VRCSDK/Examples3/Dynamics/Robot Avatar/Textures/Tutorial_Robot_Avatar_Dynamics_Demo_v1_BASE.png
+  - fileID: 124
+    classID: 28
+    packedSize: 11056
+    offset: 12878968
+    sourceAssetGUID: 0a7522a83361cf046839bedbd9c386c7
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Textures/Ramps/Ramp03.png
+  - fileID: 125
+    classID: 28
+    packedSize: 4204
+    offset: 12890024
+    sourceAssetGUID: 0a79c155edf9b2d429d4736abee5acdb
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_35.png
+  - fileID: 126
+    classID: 28
+    packedSize: 24156
+    offset: 12894232
+    sourceAssetGUID: 0b6837a615cd6874fa457a29d9079504
+    buildTimeAssetPath: Assets/Labthe3rd/Party Zone Keypad/Textures/AtlasBake_Bake1_PBR_Diffuse.png
+  - fileID: 127
+    classID: 28
+    packedSize: 14792
+    offset: 12918392
+    sourceAssetGUID: 0d0f753e6e566934a93f45ab5a99e2aa
+    buildTimeAssetPath: Assets/Labthe3rd/Party Zone Keypad/Textures/AtlasBake_Bake1_PBR_Emission.png
+  - fileID: 128
+    classID: 28
+    packedSize: 89478596
+    offset: 12933184
+    sourceAssetGUID: 0d2bf45112eec204e96c6abe53b7601f
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Textures/Lights/T_lights_01_n.tga
+  - fileID: 129
+    classID: 28
+    packedSize: 2796332
+    offset: 102411784
+    sourceAssetGUID: 0f29ecfe6ba1cde4cae3262173461e90
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_SleepingBag_02_C.png
+  - fileID: 130
+    classID: 28
+    packedSize: 699180
+    offset: 105208120
+    sourceAssetGUID: 0f6abb86483689e4b9fe4ed74433c770
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Soil01_dif_su.png
+  - fileID: 131
+    classID: 28
+    packedSize: 65644
+    offset: 105907304
+    sourceAssetGUID: 0f8fa14b3731cda4e947062e734d5e1e
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_1.png
+  - fileID: 132
+    classID: 28
+    packedSize: 4204
+    offset: 105972952
+    sourceAssetGUID: 0fa10b21877c61b4db40ba5708815f81
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_30.png
+  - fileID: 133
+    classID: 28
+    packedSize: 349668
+    offset: 105977160
+    sourceAssetGUID: 1171bef2e6e024441b0036288e07e1a9
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Branch01_nml_su.png
+  - fileID: 134
+    classID: 28
+    packedSize: 4204
+    offset: 106326832
+    sourceAssetGUID: 119591e0bb084e848835d237546b3882
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_61.png
+  - fileID: 135
+    classID: 28
+    packedSize: 5592544
+    offset: 106331040
+    sourceAssetGUID: 119e2368108bab0458d245b8981da45d
+    buildTimeAssetPath: Assets/Bark_PBR_Textures/Textures/Bark07/Bark07_NORMAL.tga
+  - fileID: 136
+    classID: 28
+    packedSize: 2796344
+    offset: 111923584
+    sourceAssetGUID: 1206ec3b97ff9e043bab9ed180f8a4d7
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Water/T_Waterfall_Directional_Noise.png
+  - fileID: 137
+    classID: 28
+    packedSize: 349668
+    offset: 114719928
+    sourceAssetGUID: 1314f0a9d4ff43c428940dd642b6e305
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Vegetation/Textures/FAE_IvyAtlas_Normal.png
+  - fileID: 138
+    classID: 28
+    packedSize: 4204
+    offset: 115069600
+    sourceAssetGUID: 1378a33cdd085d64c9da863d2484ff21
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_47.png
+  - fileID: 139
+    classID: 28
+    packedSize: 4204
+    offset: 115073808
+    sourceAssetGUID: 153f7d6dfbe713d4884df0f1e243ba92
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_16.png
+  - fileID: 140
+    classID: 28
+    packedSize: 4204
+    offset: 115078016
+    sourceAssetGUID: 15e54aa23a938444389469d53765d741
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_44.png
+  - fileID: 141
+    classID: 28
+    packedSize: 2796320
+    offset: 115082224
+    sourceAssetGUID: 162c810bf5419394188c1c46a5db065e
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock2.tif
+  - fileID: 142
+    classID: 28
+    packedSize: 1048696
+    offset: 117878544
+    sourceAssetGUID: 1813b2c79fc02f04f88ffe349e9a4c95
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA13_final.hdr
+  - fileID: 143
+    classID: 28
+    packedSize: 5592544
+    offset: 118927240
+    sourceAssetGUID: 184d6a203cd3af44397cedb44de6cfed
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Textures/Cliff_B_Normal.png
+  - fileID: 144
+    classID: 28
+    packedSize: 5592544
+    offset: 124519784
+    sourceAssetGUID: 18598d793c2af26458f7b6e2d158c02d
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_RuneRock_01_N.png
+  - fileID: 145
+    classID: 28
+    packedSize: 699176
+    offset: 130112328
+    sourceAssetGUID: 18e250c9901b40f4590c895fcf986053
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Effects/T_FireTexture_03.png
+  - fileID: 146
+    classID: 28
+    packedSize: 5592540
+    offset: 130811504
+    sourceAssetGUID: 1a484f6e204288d4da90c6e3938901ab
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Fence_03_C.png
+  - fileID: 147
+    classID: 28
+    packedSize: 4194424
+    offset: 136404048
+    sourceAssetGUID: 1a6ab7f21a6059944bb930b29a220628
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA10_final.hdr
+  - fileID: 148
+    classID: 28
+    packedSize: 4204
+    offset: 140598472
+    sourceAssetGUID: 1a9ce5640cde5934aae0022f020464a6
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_40.png
+  - fileID: 149
+    classID: 28
+    packedSize: 65644
+    offset: 140602680
+    sourceAssetGUID: 1abfe0e165ca1e9428b455ffc9a2d9ef
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_2.png
+  - fileID: 150
+    classID: 28
+    packedSize: 4194424
+    offset: 140668328
+    sourceAssetGUID: 1b03a2c40d31efc44970f7d3ffe50245
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA15_final.hdr
+  - fileID: 151
+    classID: 28
+    packedSize: 1398228
+    offset: 144862752
+    sourceAssetGUID: 1c4ac8a681604d642a01b3d6f41dfff4
+    buildTimeAssetPath: Assets/DekuPlacehold/0.png
+  - fileID: 152
+    classID: 28
+    packedSize: 4204
+    offset: 146260984
+    sourceAssetGUID: 1d6958e30e40a254dbe5a54c573eeb3c
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_37.png
+  - fileID: 153
+    classID: 28
+    packedSize: 4194424
+    offset: 146265192
+    sourceAssetGUID: 2034b131809823d48bf33e358574eb2c
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA18_final.hdr
+  - fileID: 154
+    classID: 28
+    packedSize: 2796332
+    offset: 150459616
+    sourceAssetGUID: 2111e868463b68941af27b5b33a429bf
+    buildTimeAssetPath: Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Albedo.png
+  - fileID: 155
+    classID: 28
+    packedSize: 1398252
+    offset: 153255952
+    sourceAssetGUID: 2137885ed498f1145a295dafd6771f20
+    buildTimeAssetPath: Assets/Fantasy Skybox FREE/Cubemaps/FS017/Images/FS017_Sunset_Cubemap_back.png
+  - fileID: 156
+    classID: 28
+    packedSize: 5592540
+    offset: 154654208
+    sourceAssetGUID: 213b9f53df31ca647aab3c410c756470
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Fence_03_N.png
+  - fileID: 157
+    classID: 28
+    packedSize: 5592540
+    offset: 160246752
+    sourceAssetGUID: 227fce4ad54a4ea489b767658f482d7b
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Fence_02_N.png
+  - fileID: 158
+    classID: 28
+    packedSize: 77108
+    offset: 165839296
+    sourceAssetGUID: 22fa206fa7813a041a12b281cfaee6ba
+    buildTimeAssetPath: Assets/Stylized Mushroom/MushRoom2.tga
+  - fileID: 159
+    classID: 28
+    packedSize: 699180
+    offset: 165916408
+    sourceAssetGUID: 24d8542dc25e66e4d9cd080f71cd0cba
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Firewood_01_Base_E.png
+  - fileID: 160
+    classID: 28
+    packedSize: 2796344
+    offset: 166615592
+    sourceAssetGUID: 26015f3ef5788b94dacfa5245a3022cc
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Water/T_Waterfall_Directional_Noise_N.png
+  - fileID: 161
+    classID: 28
+    packedSize: 699180
+    offset: 169411936
+    sourceAssetGUID: 26640f0654fe7314f8f2ae4e80e11037
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Campfire_Rocks_R.png
+  - fileID: 162
+    classID: 28
+    packedSize: 779624
+    offset: 170111120
+    sourceAssetGUID: 27cfd5114f148ff49acff242847ce022
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock3.tif
+  - fileID: 163
+    classID: 28
+    packedSize: 158592
+    offset: 170890744
+    sourceAssetGUID: 28eb0e1235144c1489ede6afbdf5ff25
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Terrain/T_Grass_Ground_C.png
+  - fileID: 164
+    classID: 28
+    packedSize: 1398232
+    offset: 171049336
+    sourceAssetGUID: 28f62d1adf493c14a9ae0c0079da8db0
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Effects/Smoke.tga
+  - fileID: 165
+    classID: 28
+    packedSize: 5592540
+    offset: 172447568
+    sourceAssetGUID: 2a0dc6caeaf9cb64dae4372302735b69
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock4_nmp.tif
+  - fileID: 166
+    classID: 28
+    packedSize: 24940
+    offset: 178040112
+    sourceAssetGUID: 2a261dfc0738c5c40929db40c7193c7b
+    buildTimeAssetPath: Assets/Labthe3rd/Party Zone Keypad/Textures/AtlasBake_Bake1_PBR_Normal.png
+  - fileID: 167
+    classID: 28
+    packedSize: 2796320
+    offset: 178065056
+    sourceAssetGUID: 2c14dee6b3a5fa4448cc7da72765ddde
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock6.tif
+  - fileID: 168
+    classID: 28
+    packedSize: 699204
+    offset: 180861376
+    sourceAssetGUID: 2d56497829d257e4982b6711ac4aa191
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Wood01_nml_su.png
+  - fileID: 169
+    classID: 28
+    packedSize: 4204
+    offset: 181560584
+    sourceAssetGUID: 2ee161d8945169243b5698fec114e1b7
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_15.png
+  - fileID: 170
+    classID: 28
+    packedSize: 1398252
+    offset: 181564792
+    sourceAssetGUID: 2f0be5e2b05a3ca4a9d559e1bb41da62
+    buildTimeAssetPath: Assets/Fantasy Skybox FREE/Cubemaps/FS017/Images/FS017_Sunset_Cubemap_left.png
+  - fileID: 171
+    classID: 28
+    packedSize: 4194424
+    offset: 182963048
+    sourceAssetGUID: 2fc1dbb6956c0584e85e7815c802e085
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA20_final.hdr
+  - fileID: 172
+    classID: 28
+    packedSize: 1398240
+    offset: 187157472
+    sourceAssetGUID: 300878dfaad9f8748af1edfc6f13c2c6
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Textures/Cliff_E_Normal.png
+  - fileID: 173
+    classID: 28
+    packedSize: 2796324
+    offset: 188555712
+    sourceAssetGUID: 30c194ec3a439fe49997cb3d693d9ae8
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Mushroom_R.png
+  - fileID: 174
+    classID: 28
+    packedSize: 2796320
+    offset: 191352040
+    sourceAssetGUID: 312c93ed564bd8840ab4818e3db14d8a
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock5.tif
+  - fileID: 175
+    classID: 28
+    packedSize: 4204
+    offset: 194148360
+    sourceAssetGUID: 319b8e66db3faa4438cf6982e9c89b2f
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_34.png
+  - fileID: 176
+    classID: 28
+    packedSize: 4204
+    offset: 194152568
+    sourceAssetGUID: 32c6a5f7143b86c44bd5cdee2ff3f8ad
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_24.png
+  - fileID: 177
+    classID: 28
+    packedSize: 140264
+    offset: 194156776
+    sourceAssetGUID: 345039ed55f8d784981195f0f9464f46
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Terrain/T_Grass_Ground_R.png
+  - fileID: 178
+    classID: 28
+    packedSize: 4204
+    offset: 194297040
+    sourceAssetGUID: 351e95d0e20a54849bd4ce5f9b498934
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_36.png
+  - fileID: 179
+    classID: 28
+    packedSize: 5592552
+    offset: 194301248
+    sourceAssetGUID: 35cbbd9fb8d568b4e8dbaca3199e4a6a
+    buildTimeAssetPath: Assets/Blink/Art/Textures/RealisticForestTextures/Grass_Rocks/Grass_Rocks_Base_Color.tga
+  - fileID: 180
+    classID: 28
+    packedSize: 4204
+    offset: 199893800
+    sourceAssetGUID: 373f9bf6b0841af4ebf26d25e4a3f4e2
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_3.png
+  - fileID: 181
+    classID: 28
+    packedSize: 5592540
+    offset: 199898008
+    sourceAssetGUID: 3a821c28b70b2b447ab3e66e3a2229e5
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock2_nmp.tif
+  - fileID: 182
+    classID: 28
+    packedSize: 4204
+    offset: 205490552
+    sourceAssetGUID: 3ac02e7e783571c468f9c086d2384ba7
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_7.png
+  - fileID: 183
+    classID: 28
+    packedSize: 699180
+    offset: 205494760
+    sourceAssetGUID: 3c008c76ced99a5438f3d32bd563325f
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Firewood_01_Base_C.png
+  - fileID: 184
+    classID: 28
+    packedSize: 4204
+    offset: 206193944
+    sourceAssetGUID: 3c2f1fb7e4b66e74191b7c328ada52d9
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_1.png
+  - fileID: 185
+    classID: 28
+    packedSize: 5592548
+    offset: 206198152
+    sourceAssetGUID: 3ce097bdef29d154ab5e6895a73886c1
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_SleepingBag_02_N.png
+  - fileID: 186
+    classID: 28
+    packedSize: 329464
+    offset: 211790704
+    sourceAssetGUID: 3cf2e516b5353d5499c41818747b4155
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Texture/face_00.tga
+  - fileID: 187
+    classID: 28
+    packedSize: 4204
+    offset: 212120168
+    sourceAssetGUID: 3f7c3687170b90e4a8d2ee6b142670f4
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_49.png
+  - fileID: 188
+    classID: 28
+    packedSize: 2796324
+    offset: 212124376
+    sourceAssetGUID: 401913f58b0476e46bf4bb9f7a245bc3
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Tent_03_R.png
+  - fileID: 189
+    classID: 28
+    packedSize: 4204
+    offset: 214920704
+    sourceAssetGUID: 404fa8def46b1c447817e1ebdaa7144e
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_60.png
+  - fileID: 190
+    classID: 28
+    packedSize: 2796336
+    offset: 214924912
+    sourceAssetGUID: 408718fd5f763de42b12f849570ddf58
+    buildTimeAssetPath: Assets/EffectExamples/FireExplosionEffects/Textures/FlameRoundParticleSheet.tif
+  - fileID: 191
+    classID: 28
+    packedSize: 2796332
+    offset: 217721248
+    sourceAssetGUID: 41ee5389a45424b4a80528258a4c236c
+    buildTimeAssetPath: Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_height.png
+  - fileID: 192
+    classID: 28
+    packedSize: 5592548
+    offset: 220517584
+    sourceAssetGUID: 429af1c44709aab47a20350761071b9d
+    buildTimeAssetPath: Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_Normal.png
+  - fileID: 193
+    classID: 28
+    packedSize: 5592540
+    offset: 226110136
+    sourceAssetGUID: 42c12cb55ddd98245a0b2c96121c8a5a
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock1_nmp.tif
+  - fileID: 194
+    classID: 28
+    packedSize: 2796328
+    offset: 231702680
+    sourceAssetGUID: 430e1717f2e82fa4c9985e0c1609abee
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_RuneRock_01_E.png
+  - fileID: 195
+    classID: 28
+    packedSize: 5592548
+    offset: 234499008
+    sourceAssetGUID: 43330c392e881e249bc6cc0299886c3a
+    buildTimeAssetPath: Assets/Blink/Art/Textures/RealisticForestTextures/Grass_Rocks/Grass_Rocks_Normal.tga
+  - fileID: 196
+    classID: 28
+    packedSize: 16777332
+    offset: 240091560
+    sourceAssetGUID: 448397ec64bd1394eb727aa1b93974a4
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA3_final.hdr
+  - fileID: 197
+    classID: 28
+    packedSize: 5592540
+    offset: 256868896
+    sourceAssetGUID: 45f6fbd33f62c5a499044cc4ef8d2339
+    buildTimeAssetPath: Assets/LionStatue/ModelAndTextures/LionStatue_n.tga
+  - fileID: 198
+    classID: 28
+    packedSize: 1398248
+    offset: 262461440
+    sourceAssetGUID: 463963cd6790673438853b0028fb8933
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Textures/Cliff_E_AlbedoRoughness.png
+  - fileID: 199
+    classID: 28
+    packedSize: 1398248
+    offset: 263859688
+    sourceAssetGUID: 48e1d6f40e814994fae4203c926e5b8a
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Textures/Cliff_D_AlbedoRoughness.png
+  - fileID: 200
+    classID: 28
+    packedSize: 4204
+    offset: 265257936
+    sourceAssetGUID: 4a11d65ce13d5f542a0ff136cc2f3fba
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_63.png
+  - fileID: 201
+    classID: 28
+    packedSize: 1398244
+    offset: 265262144
+    sourceAssetGUID: 4c704a0add6117f4caf408318ffcda2d
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Campfire_Rocks_N.png
+  - fileID: 202
+    classID: 28
+    packedSize: 1398248
+    offset: 266660392
+    sourceAssetGUID: 4cc5117dfac9f974cbdb39ceb28e5059
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Textures/Cliff_A_AlbedoRoughness.png
+  - fileID: 203
+    classID: 28
+    packedSize: 5592540
+    offset: 268058640
+    sourceAssetGUID: 4e1f3e7249bd7764aa7993a48695ab65
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock6_nmp.tif
+  - fileID: 204
+    classID: 28
+    packedSize: 3475392
+    offset: 273651184
+    sourceAssetGUID: 5048b8ba3627749ca97fb49b9bda9f00
+    buildTimeAssetPath: Assets/Free_Rocks/_textures/rocks_nm.PNG
+  - fileID: 205
+    classID: 28
+    packedSize: 4204
+    offset: 277126576
+    sourceAssetGUID: 50b54341495978843a6f85583ed4417d
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_0.png
+  - fileID: 206
+    classID: 28
+    packedSize: 1398252
+    offset: 277130784
+    sourceAssetGUID: 528c16267a381804d8f60399ed04802b
+    buildTimeAssetPath: Assets/Fantasy Skybox FREE/Cubemaps/FS017/Images/FS017_Sunset_Cubemap_front.png
+  - fileID: 207
+    classID: 28
+    packedSize: 16777332
+    offset: 278529040
+    sourceAssetGUID: 52f01374328ff7246b7f241bdaadceee
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LM0_final.hdr
+  - fileID: 208
+    classID: 28
+    packedSize: 2796336
+    offset: 295306376
+    sourceAssetGUID: 5356e9dc8156c0b41a1778e7b025e62f
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Trees/T_Tree_Birch_Rework_R.png
+  - fileID: 209
+    classID: 28
+    packedSize: 395556
+    offset: 298102712
+    sourceAssetGUID: 535b812327896d7488d2b1f5330a86df
+    buildTimeAssetPath: Assets/VRCSDK/Examples3/Dynamics/Robot Avatar/Textures/Tutorial_Robot_Avatar_Dynamics_Demo_v1_BODY.png
+  - fileID: 210
+    classID: 28
+    packedSize: 2796328
+    offset: 298498272
+    sourceAssetGUID: 53799aa991b29524bacab8ff96263318
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_FallenTree_C.png
+  - fileID: 211
+    classID: 28
+    packedSize: 4204
+    offset: 301294600
+    sourceAssetGUID: 547dbd5f858c74047ba3f213e4408307
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_39.png
+  - fileID: 212
+    classID: 28
+    packedSize: 5592552
+    offset: 301298808
+    sourceAssetGUID: 55139a80b19ae0a42ac9de20244971ce
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_03_N.png
+  - fileID: 213
+    classID: 28
+    packedSize: 5592540
+    offset: 306891360
+    sourceAssetGUID: 575efc2a028b7a54c9652f88a5dcda1d
+    buildTimeAssetPath: Assets/Bark_PBR_Textures/Textures/Bark02/Bark02_COLOR.tga
+  - fileID: 214
+    classID: 28
+    packedSize: 1048696
+    offset: 312483904
+    sourceAssetGUID: 57c244c40d2ee5249902892ff8ee2226
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA12_final.hdr
+  - fileID: 215
+    classID: 28
+    packedSize: 120332
+    offset: 313532600
+    sourceAssetGUID: 57d466a1374f5b4429b4ed7ad29337e1
+    buildTimeAssetPath: Assets/Stylized Mushroom/MushRoom3.tga
+  - fileID: 216
+    classID: 28
+    packedSize: 2796324
+    offset: 313652936
+    sourceAssetGUID: 5b8c5c7696a28c248bd52c592b4a7aad
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Fence_02_C.png
+  - fileID: 217
+    classID: 28
+    packedSize: 5592544
+    offset: 316449264
+    sourceAssetGUID: 5d23501e26536f746ac3ce3d9a0bdb5f
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Textures/Cliff_A_Normal.png
+  - fileID: 218
+    classID: 28
+    packedSize: 4204
+    offset: 322041808
+    sourceAssetGUID: 5e542d0126a2c7848b66bffc428905fd
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_55.png
+  - fileID: 219
+    classID: 28
+    packedSize: 4194424
+    offset: 322046016
+    sourceAssetGUID: 5f451bc30b3dd1643b7485ff7e9fdbbe
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA19_final.hdr
+  - fileID: 220
+    classID: 28
+    packedSize: 65644
+    offset: 326240440
+    sourceAssetGUID: 6017f374382d64245a0a4aab668e6f38
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_0.png
+  - fileID: 221
+    classID: 28
+    packedSize: 87524
+    offset: 326306088
+    sourceAssetGUID: 60cdcd0510300eb4bb464f5295510b18
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Flower02_nml_su.png
+  - fileID: 222
+    classID: 28
+    packedSize: 5592544
+    offset: 326393616
+    sourceAssetGUID: 633a71b14fe62f74881bd2adc08da367
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_FallenTree_N.png
+  - fileID: 223
+    classID: 28
+    packedSize: 2796324
+    offset: 331986160
+    sourceAssetGUID: 63c1d55ea5a201c49aea1b8312fc2bea
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Tent_03_C.png
+  - fileID: 224
+    classID: 28
+    packedSize: 2796336
+    offset: 334782488
+    sourceAssetGUID: 63d837c62357afa4b8912e3df2c113cc
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_03_R.png
+  - fileID: 225
+    classID: 28
+    packedSize: 349660
+    offset: 337578824
+    sourceAssetGUID: 6655de3a679f96645a91aa8062016b5c
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Wood01_dif_su.png
+  - fileID: 226
+    classID: 28
+    packedSize: 5592552
+    offset: 337928488
+    sourceAssetGUID: 6679008eed62c434084c6b44fad207fd
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_01_N.png
+  - fileID: 227
+    classID: 28
+    packedSize: 5592540
+    offset: 343521040
+    sourceAssetGUID: 66d59fd0268e3f44e863b2773a344408
+    buildTimeAssetPath: Assets/Bark_PBR_Textures/Textures/Bark07/Bark07_AO.tga
+  - fileID: 228
+    classID: 28
+    packedSize: 35764
+    offset: 349113584
+    sourceAssetGUID: 66f06726158899242adaf95180360b7b
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Texture/eye_iris_L_00.tga
+  - fileID: 229
+    classID: 28
+    packedSize: 4204
+    offset: 349149352
+    sourceAssetGUID: 68613e6a221be1a4b9f31d7fa1c2d1bf
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_13.png
+  - fileID: 230
+    classID: 28
+    packedSize: 4204
+    offset: 349153560
+    sourceAssetGUID: 6b0a189df0bd4d5448eaefb4e673ace8
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_31.png
+  - fileID: 231
+    classID: 28
+    packedSize: 4204
+    offset: 349157768
+    sourceAssetGUID: 6dda07f1420a968449cf4c6620c44d9f
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_20.png
+  - fileID: 232
+    classID: 28
+    packedSize: 2796336
+    offset: 349161976
+    sourceAssetGUID: 6f96a09b6c1b60544b69e9bd6cccfad4
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_04_R.png
+  - fileID: 233
+    classID: 28
+    packedSize: 4204
+    offset: 351958312
+    sourceAssetGUID: 6fa5cf178eaaa5f42b820f636bb6e0bd
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_4.png
+  - fileID: 234
+    classID: 28
+    packedSize: 5592540
+    offset: 351962520
+    sourceAssetGUID: 70bb077e3620fff4ca323d0d44768011
+    buildTimeAssetPath: Assets/Bark_PBR_Textures/Textures/Bark07/Bark7_COLOR.tga
+  - fileID: 235
+    classID: 28
+    packedSize: 65644
+    offset: 357555064
+    sourceAssetGUID: 70d0a1182b29d6347ac70374c3593bba
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_7.png
+  - fileID: 236
+    classID: 28
+    packedSize: 4204
+    offset: 357620712
+    sourceAssetGUID: 70f23eaf7d8ae9147aa542d20e93733b
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_56.png
+  - fileID: 237
+    classID: 28
+    packedSize: 2796324
+    offset: 357624920
+    sourceAssetGUID: 715109a4eb66ecf4183a1e9a005e4bba
+    buildTimeAssetPath: Assets/LionStatue/ModelAndTextures/LionStatue_d.tga
+  - fileID: 238
+    classID: 28
+    packedSize: 4204
+    offset: 360421248
+    sourceAssetGUID: 71583cfd8899717428d5b1a95fa39cda
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_9.png
+  - fileID: 239
+    classID: 28
+    packedSize: 5592540
+    offset: 360425456
+    sourceAssetGUID: 719e8d89a43aee049bb2482004025afe
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Mushroom_N.png
+  - fileID: 240
+    classID: 28
+    packedSize: 4204
+    offset: 366018000
+    sourceAssetGUID: 71bc1b6b66e8b784b972199b7e90204e
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_43.png
+  - fileID: 241
+    classID: 28
+    packedSize: 4204
+    offset: 366022208
+    sourceAssetGUID: 729a3ae164bcb3b4380459386adcf331
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_19.png
+  - fileID: 242
+    classID: 28
+    packedSize: 1048692
+    offset: 366026416
+    sourceAssetGUID: 73185ed11a3bc0d4baf6966d2e160ef8
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA1_final.hdr
+  - fileID: 243
+    classID: 28
+    packedSize: 11184944
+    offset: 367075112
+    sourceAssetGUID: 731d9a40ce7caf949ab7ec9a0eb8b45a
+    buildTimeAssetPath: Assets/Blink/Art/Textures/RealisticForestTextures/Grass_Flowers/Grass_Flowers_BaseColor.tga
+  - fileID: 244
+    classID: 28
+    packedSize: 268904
+    offset: 378260056
+    sourceAssetGUID: 73ec4ae984a0a0f44a2be737e41a6f2f
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/SMAA/AreaTex.tga
+  - fileID: 245
+    classID: 28
+    packedSize: 4204
+    offset: 378528960
+    sourceAssetGUID: 74aca53eb7273624baffc2bf5e5cc173
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_18.png
+  - fileID: 246
+    classID: 28
+    packedSize: 36420
+    offset: 378533168
+    sourceAssetGUID: 7521661d2d6cebb479dea03e7336e5de
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Texture/eye_iris_R_00.tga
+  - fileID: 247
+    classID: 28
+    packedSize: 2796324
+    offset: 378569592
+    sourceAssetGUID: 7570dbfad5ab21b41b035b420ce6058c
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Mushroom_C.png
+  - fileID: 248
+    classID: 28
+    packedSize: 43828
+    offset: 381365920
+    sourceAssetGUID: 75897596cf7feb2449eb504808133bc6
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Flower02Front_dif_su.png
+  - fileID: 249
+    classID: 28
+    packedSize: 174880
+    offset: 381409752
+    sourceAssetGUID: 764fff8be5c7dc3488919531b94ca54a
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Ash_R.png
+  - fileID: 250
+    classID: 28
+    packedSize: 22369760
+    offset: 381584632
+    sourceAssetGUID: 76e70d065cabc414c92d023718e176a9
+    buildTimeAssetPath: Assets/Blink/Art/Textures/RealisticForestTextures/Grass_1/Grass_1_Normal.tga
+  - fileID: 251
+    classID: 28
+    packedSize: 1048696
+    offset: 403954392
+    sourceAssetGUID: 76e836dfe6962a8469020d3579b33fcc
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA16_final.hdr
+  - fileID: 252
+    classID: 28
+    packedSize: 4204
+    offset: 405003088
+    sourceAssetGUID: 771903fe7b4674445829e52e91cff019
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_11.png
+  - fileID: 253
+    classID: 28
+    packedSize: 1398236
+    offset: 405007296
+    sourceAssetGUID: 778982456eb192b4f95cbe191da0f1cf
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Vegetation/Textures/FAE_IvyAtlas.png
+  - fileID: 254
+    classID: 28
+    packedSize: 461712
+    offset: 406405536
+    sourceAssetGUID: 78dbd2e2ed813e04dbbeab6d982981d0
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Textures/CrystalMaps/TranslucentCrystal01_MetallicSmoothness.png
+  - fileID: 255
+    classID: 28
+    packedSize: 2796324
+    offset: 406867248
+    sourceAssetGUID: 798399246fa158d43aa684588d8262c5
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Mushroom_E.png
+  - fileID: 256
+    classID: 28
+    packedSize: 4204
+    offset: 409663576
+    sourceAssetGUID: 79b86f3419b87f3429164a956da8cfab
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_6.png
+  - fileID: 257
+    classID: 28
+    packedSize: 2796328
+    offset: 409667784
+    sourceAssetGUID: 7c18a53d7be383649996a52bf625706b
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_RuneRock_01_C.png
+  - fileID: 258
+    classID: 28
+    packedSize: 699204
+    offset: 412464112
+    sourceAssetGUID: 7ed26f0eec8341f45b7473d1895bb7b4
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Leaf01_nml_su.png
+  - fileID: 259
+    classID: 28
+    packedSize: 2796328
+    offset: 413163320
+    sourceAssetGUID: 81810c6440aa6a040922247b15447cfb
+    buildTimeAssetPath: Assets/WorldMaterialsFree/Resource Files/AgedDarkWood/AgedDarkWood_AO.png
+  - fileID: 260
+    classID: 28
+    packedSize: 4204
+    offset: 415959648
+    sourceAssetGUID: 85a45a6d8b2ffb84987d2b028ecfb220
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_58.png
+  - fileID: 261
+    classID: 28
+    packedSize: 4204
+    offset: 415963856
+    sourceAssetGUID: 87a5e40cc271ea648b583616f6ebe7fe
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_32.png
+  - fileID: 262
+    classID: 28
+    packedSize: 11184940
+    offset: 415968064
+    sourceAssetGUID: 87b4e805faeb359459af85745daaa1d6
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Trees/T_TreeLarge_Bark_C.png
+  - fileID: 263
+    classID: 28
+    packedSize: 14604
+    offset: 427153008
+    sourceAssetGUID: 89ede59217e3847c39c444f223f4084e
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Texture/cheek_00.tga
+  - fileID: 264
+    classID: 28
+    packedSize: 2796328
+    offset: 427167616
+    sourceAssetGUID: 8a3ef1722a8fd3a4c8353e18116e7a19
+    buildTimeAssetPath: Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_albedo.png
+  - fileID: 265
+    classID: 28
+    packedSize: 2796336
+    offset: 429963944
+    sourceAssetGUID: 8d7382ca8e5f04544b5b72d05159c7fc
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_02_R.png
+  - fileID: 266
+    classID: 28
+    packedSize: 4204
+    offset: 432760280
+    sourceAssetGUID: 8ecbbcae4cc747a4abbc4adce795d25e
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_46.png
+  - fileID: 267
+    classID: 28
+    packedSize: 1577184
+    offset: 432764488
+    sourceAssetGUID: 9097a6a42d07fe2479d0545fcd6b6280
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock3_nmp.tif
+  - fileID: 268
+    classID: 28
+    packedSize: 699180
+    offset: 434341672
+    sourceAssetGUID: 90c15e788b01a3646a1f0b65505c9972
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Textures/FAE_Rock_GlobalColor.png
+  - fileID: 269
+    classID: 28
+    packedSize: 4204
+    offset: 435040856
+    sourceAssetGUID: 936dea238abb0864ab3985a995e16a29
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_54.png
+  - fileID: 270
+    classID: 28
+    packedSize: 46532
+    offset: 435045064
+    sourceAssetGUID: 941b0fadf8aa50547bf24e9dfe39b77d
+    buildTimeAssetPath: Assets/glowing-mushroom/textures/mushroom_emission.png
+  - fileID: 271
+    classID: 28
+    packedSize: 4204
+    offset: 435091600
+    sourceAssetGUID: 9660a4ca1ca8425408ac25c641932977
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_38.png
+  - fileID: 272
+    classID: 28
+    packedSize: 4204
+    offset: 435095808
+    sourceAssetGUID: 980acadb960f8424c94307ec0e585b4e
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_12.png
+  - fileID: 273
+    classID: 28
+    packedSize: 96400
+    offset: 435100016
+    sourceAssetGUID: 98b06f2f5ac214c42b99f89a7047e022
+    buildTimeAssetPath: Assets/glowing-mushroom/textures/mushroom_diffuse.png
+  - fileID: 274
+    classID: 28
+    packedSize: 5592540
+    offset: 435196416
+    sourceAssetGUID: 991af4cdf346882468c621c23a1dafcf
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Tent_03_N.png
+  - fileID: 275
+    classID: 28
+    packedSize: 4194420
+    offset: 440788960
+    sourceAssetGUID: 99544793c6289554683df320a42e8322
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA6_final.hdr
+  - fileID: 276
+    classID: 28
+    packedSize: 65644
+    offset: 444983384
+    sourceAssetGUID: 999434725cbc2be4eb54043b36efd4a8
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_6.png
+  - fileID: 277
+    classID: 28
+    packedSize: 107764
+    offset: 445049032
+    sourceAssetGUID: 9a7d924352030f6499cf318afee54125
+    buildTimeAssetPath: Assets/Stylized Mushroom/MushRoom1.tga
+  - fileID: 278
+    classID: 28
+    packedSize: 16777332
+    offset: 445156800
+    sourceAssetGUID: 9b09bb9b1ff4f5747821047093bae0d0
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA8_final.hdr
+  - fileID: 279
+    classID: 28
+    packedSize: 699168
+    offset: 461934136
+    sourceAssetGUID: 9ca959b7a074e9c42833c159db6cdf51
+    buildTimeAssetPath: Assets/Tiki Torch/tex/capColor.jpg
+  - fileID: 280
+    classID: 28
+    packedSize: 4194424
+    offset: 462633304
+    sourceAssetGUID: 9fc8fd247d027374e9d7c25055eca2e8
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA11_final.hdr
+  - fileID: 281
+    classID: 28
+    packedSize: 4204
+    offset: 466827728
+    sourceAssetGUID: a03c400b0e3959f428ee99dfc6cfc263
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_62.png
+  - fileID: 282
+    classID: 28
+    packedSize: 6477836
+    offset: 466831936
+    sourceAssetGUID: a06e975c1edee4db2bb4db5c585733f1
+    buildTimeAssetPath: Assets/Free_Rocks/_textures/rocks_diff_spec.PNG
+  - fileID: 283
+    classID: 28
+    packedSize: 1398248
+    offset: 473309776
+    sourceAssetGUID: a0e9a23a3c69a2d4da534663b350e533
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Textures/Cliff_C_AlbedoRoughness.png
+  - fileID: 284
+    classID: 28
+    packedSize: 24164
+    offset: 474708024
+    sourceAssetGUID: a10059d87e567864caca183f273818d8
+    buildTimeAssetPath: Assets/Labthe3rd/Party Zone Keypad/Textures/AtlasBake_Bake1_PBR_Roughness.png
+  - fileID: 285
+    classID: 28
+    packedSize: 4204
+    offset: 474732192
+    sourceAssetGUID: a1ae041906217ae44a774d4ca139af50
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_5.png
+  - fileID: 286
+    classID: 28
+    packedSize: 699204
+    offset: 474736400
+    sourceAssetGUID: a29daa982fdc23f4c839c061545b64e9
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Flower01_nml_su.png
+  - fileID: 287
+    classID: 28
+    packedSize: 1398244
+    offset: 475435608
+    sourceAssetGUID: a2ad996e66f54304d8ffe25139c6fcfb
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Foliage/T_Leaves_Clump_01.png
+  - fileID: 288
+    classID: 28
+    packedSize: 4204
+    offset: 476833856
+    sourceAssetGUID: a469f920b21fc7c4fb5b950917ce2fb2
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_2.png
+  - fileID: 289
+    classID: 28
+    packedSize: 5592552
+    offset: 476838064
+    sourceAssetGUID: a4a37f7a6ffedc448ad87a9046c1534f
+    buildTimeAssetPath: Assets/WorldMaterialsFree/Resource Files/ClumpMud/ClumpMud_YFliped_Normal.png
+  - fileID: 290
+    classID: 28
+    packedSize: 174880
+    offset: 482430616
+    sourceAssetGUID: a68934135ebe5e44a8029e8296f355d6
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Ash_E.png
+  - fileID: 291
+    classID: 28
+    packedSize: 5592552
+    offset: 482605496
+    sourceAssetGUID: a6d4c6e1694ad814685102f50af0a09b
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_03_C.png
+  - fileID: 292
+    classID: 28
+    packedSize: 174892
+    offset: 488198048
+    sourceAssetGUID: a708ec9958098f546ba2ed7dfdf35aec
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Bark01_dif_su.png
+  - fileID: 293
+    classID: 28
+    packedSize: 22369768
+    offset: 488372944
+    sourceAssetGUID: a731d3dbf18a84347b372979aea8c196
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Trees/T_Tree_Birch_Rework_C.png
+  - fileID: 294
+    classID: 28
+    packedSize: 91612
+    offset: 510742712
+    sourceAssetGUID: aa3f5c93e1b271345a875c5ef4ebf6f9
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Foliage/T_Grass_Blades_Final.png
+  - fileID: 295
+    classID: 28
+    packedSize: 4204
+    offset: 510834328
+    sourceAssetGUID: aa80dc44aa4fe4c43bb9d51d90cf2958
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_29.png
+  - fileID: 296
+    classID: 28
+    packedSize: 5592552
+    offset: 510838536
+    sourceAssetGUID: ab7f87b842319fc45a513b78df7099af
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_04_N.png
+  - fileID: 297
+    classID: 28
+    packedSize: 2796336
+    offset: 516431088
+    sourceAssetGUID: abc4a114b1d2776448b1c932411bdfb5
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_01_R.png
+  - fileID: 298
+    classID: 28
+    packedSize: 65644
+    offset: 519227424
+    sourceAssetGUID: acde5141d5f4f7a4188394bd52c4dc38
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_5.png
+  - fileID: 299
+    classID: 28
+    packedSize: 4204
+    offset: 519293072
+    sourceAssetGUID: afe1e502240079342a0a980484b6da8b
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_10.png
+  - fileID: 300
+    classID: 28
+    packedSize: 4204
+    offset: 519297280
+    sourceAssetGUID: aff59c63d25d43f4c938f248837c30fb
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_48.png
+  - fileID: 301
+    classID: 28
+    packedSize: 4204
+    offset: 519301488
+    sourceAssetGUID: b266511438fae724f9d3ce6bd26583e8
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_42.png
+  - fileID: 302
+    classID: 28
+    packedSize: 382544
+    offset: 519305696
+    sourceAssetGUID: b35398d99cae1e94cac729691a20fd8e
+    buildTimeAssetPath: Assets/TsunaMoo/Store/Simple Water/Textures/Water1.jpg
+  - fileID: 303
+    classID: 28
+    packedSize: 5592540
+    offset: 519688240
+    sourceAssetGUID: b356bba5a6398524ca935a42f0c291ed
+    buildTimeAssetPath: Assets/Bark_PBR_Textures/Textures/Bark06/Bark06_COLOR.tga
+  - fileID: 304
+    classID: 28
+    packedSize: 5592540
+    offset: 525280784
+    sourceAssetGUID: b376bc9037f633c40bc2dd3621bbae06
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Fence01_N.png
+  - fileID: 305
+    classID: 28
+    packedSize: 2796324
+    offset: 530873328
+    sourceAssetGUID: b4c2c7b2a10c89b4998d7d85c27c8314
+    buildTimeAssetPath: Assets/Tiki Torch/tex/torchColor.jpg
+  - fileID: 306
+    classID: 28
+    packedSize: 65644
+    offset: 533669656
+    sourceAssetGUID: b52d5033b68309943a2386c270a90f44
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_4.png
+  - fileID: 307
+    classID: 28
+    packedSize: 191960
+    offset: 533735304
+    sourceAssetGUID: b6394fdde63e88d439a2cd246b18c648
+    buildTimeAssetPath: Assets/Hut/Textures/Fence_Alb.tga
+  - fileID: 308
+    classID: 28
+    packedSize: 4204
+    offset: 533927264
+    sourceAssetGUID: b71bb466b71fd13449dd736f63caeb67
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_33.png
+  - fileID: 309
+    classID: 28
+    packedSize: 5592544
+    offset: 533931472
+    sourceAssetGUID: b7e0855ed0613724ab5adb6fa5f3ae16
+    buildTimeAssetPath: Assets/Bark_PBR_Textures/Textures/Bark02/Bark02_NORMAL.tga
+  - fileID: 310
+    classID: 28
+    packedSize: 4204
+    offset: 539524016
+    sourceAssetGUID: b7f000750830ddb4bbc80065b9314ce9
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_21.png
+  - fileID: 311
+    classID: 28
+    packedSize: 174880
+    offset: 539528224
+    sourceAssetGUID: b92bd1ca96e1b4345bd407ba085e87fc
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Ash_C.png
+  - fileID: 312
+    classID: 28
+    packedSize: 4204
+    offset: 539703104
+    sourceAssetGUID: b9960364038cbfa4aa49d7b2032d3110
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_45.png
+  - fileID: 313
+    classID: 28
+    packedSize: 1048692
+    offset: 539707312
+    sourceAssetGUID: bbd05d0d660e08541b1e3e664054e24a
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA7_final.hdr
+  - fileID: 314
+    classID: 28
+    packedSize: 22369764
+    offset: 540756008
+    sourceAssetGUID: bbf46766a4061b34d94dd469e1d6499b
+    buildTimeAssetPath: Assets/Blink/Art/Textures/RealisticForestTextures/Grass_Flowers/Grass_Flowers_Normal.tga
+  - fileID: 315
+    classID: 28
+    packedSize: 1048692
+    offset: 563125776
+    sourceAssetGUID: bc81af5bb6eb9f841a99995a8a94394a
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA5_final.hdr
+  - fileID: 316
+    classID: 28
+    packedSize: 4204
+    offset: 564174472
+    sourceAssetGUID: bdd06fb88ef36ed4a85dd506352c2d80
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_27.png
+  - fileID: 317
+    classID: 28
+    packedSize: 11184952
+    offset: 564178680
+    sourceAssetGUID: be66b27364aa38747bd16baf1cd1c251
+    buildTimeAssetPath: Assets/Blink/Art/Textures/RealisticForestTextures/Grass_Flowers/Grass_Flowers_AmbientOcclusion.tga
+  - fileID: 318
+    classID: 28
+    packedSize: 5592544
+    offset: 575363632
+    sourceAssetGUID: bf91bb712fa6a2447bd72fcbbe56c072
+    buildTimeAssetPath: Assets/Bark_PBR_Textures/Textures/Bark06/Bark06_NORMAL.tga
+  - fileID: 319
+    classID: 28
+    packedSize: 4204
+    offset: 580956176
+    sourceAssetGUID: bf95b6fdc179b0e4f890c841406193fc
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_17.png
+  - fileID: 320
+    classID: 28
+    packedSize: 4204
+    offset: 580960384
+    sourceAssetGUID: bfe953600e8fb1849a804ee08ace7b4c
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_23.png
+  - fileID: 321
+    classID: 28
+    packedSize: 65644
+    offset: 580964592
+    sourceAssetGUID: c072b653e98a06e40857d76ca8c7eecd
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise256px/LDR_LLL1_3.png
+  - fileID: 322
+    classID: 28
+    packedSize: 5592540
+    offset: 581030240
+    sourceAssetGUID: c208f128e624c474bb2241affee1c866
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock5_nmp.tif
+  - fileID: 323
+    classID: 28
+    packedSize: 334188
+    offset: 586622784
+    sourceAssetGUID: c27307a8c223e114dba47fa1631f8e42
+    buildTimeAssetPath: Assets/TsunaMoo/Store/Simple Water/Textures/Water2.jpg
+  - fileID: 324
+    classID: 28
+    packedSize: 1398248
+    offset: 586956976
+    sourceAssetGUID: c469316b0e200614daa4511fd0e1d512
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Materials/Rocks/Textures/Cliff_B_AlbedoRoughness.png
+  - fileID: 325
+    classID: 28
+    packedSize: 496776
+    offset: 588355224
+    sourceAssetGUID: c4cb56ed45fb93d428f0b362c9985f7c
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Textures/CrystalMaps/TranslucentCrystal01_Emission.png
+  - fileID: 326
+    classID: 28
+    packedSize: 4204
+    offset: 588852000
+    sourceAssetGUID: c55042318a938344ab23cd7f09dd0076
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_8.png
+  - fileID: 327
+    classID: 28
+    packedSize: 174880
+    offset: 588856208
+    sourceAssetGUID: c6e0767b1f8c34890ac245217f4b9731
+    buildTimeAssetPath: Assets/MeshCombineStudio/MCS Caves&Overhangs/Examples/Sources/Textures/Grass.psd
+  - fileID: 328
+    classID: 28
+    packedSize: 349668
+    offset: 589031088
+    sourceAssetGUID: c82dd1ed4d1bc2c4488545b4f7c57e38
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Flower01Front_dif_su.png
+  - fileID: 329
+    classID: 28
+    packedSize: 377224
+    offset: 589380760
+    sourceAssetGUID: c8b89f8bca5e3b948af74c8ac72fbaf7
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_TreeStump_R.png
+  - fileID: 330
+    classID: 28
+    packedSize: 5592552
+    offset: 589757984
+    sourceAssetGUID: c8fe5fc600b378543967677930f60f0b
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_04_C.png
+  - fileID: 331
+    classID: 28
+    packedSize: 4204
+    offset: 595350536
+    sourceAssetGUID: c94b57b5a32a22d43ade66e09f6a4bd2
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_53.png
+  - fileID: 332
+    classID: 28
+    packedSize: 2796324
+    offset: 595354744
+    sourceAssetGUID: c97fbc05030b93b499a2972a5ef1d3df
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Fence_02_M.png
+  - fileID: 333
+    classID: 28
+    packedSize: 352536
+    offset: 598151072
+    sourceAssetGUID: ca5e6f86d8960644c801c5eebbb5f071
+    buildTimeAssetPath: Assets/Hut/Textures/Fence_N.tga
+  - fileID: 334
+    classID: 28
+    packedSize: 137832
+    offset: 598503608
+    sourceAssetGUID: cbb65ec17f92eb44fb0dde6381b6a415
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Texture/hair_01.tga
+  - fileID: 335
+    classID: 28
+    packedSize: 699208
+    offset: 598641440
+    sourceAssetGUID: cc0ae2e3b39403d459d78554ee72eef5
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Leaf01Front_dif_su.png
+  - fileID: 336
+    classID: 28
+    packedSize: 35112
+    offset: 599340648
+    sourceAssetGUID: cc51a9a8397e3c5498dda60419ad3ec9
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Texture/skin_01.tga
+  - fileID: 337
+    classID: 28
+    packedSize: 4204
+    offset: 599375760
+    sourceAssetGUID: cd9006dc442cc244e89b3f492384d46a
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_41.png
+  - fileID: 338
+    classID: 28
+    packedSize: 2796332
+    offset: 599379968
+    sourceAssetGUID: cf11268b93bd8f54493cf5351e7d2a0a
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_SleepingBag_02_M.png
+  - fileID: 339
+    classID: 28
+    packedSize: 2796320
+    offset: 602176304
+    sourceAssetGUID: d0692a948ca573d4cb0b93ffb1c8a033
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Textures/Rock1.tif
+  - fileID: 340
+    classID: 28
+    packedSize: 2796324
+    offset: 604972624
+    sourceAssetGUID: d20d07d1f3d8ddf4381df74b54defaec
+    buildTimeAssetPath: Assets/Tiki Torch/tex/barkColor.jpg
+  - fileID: 341
+    classID: 28
+    packedSize: 4204
+    offset: 607768952
+    sourceAssetGUID: d2e8e90fac2e6a341a38e1c3963c218d
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_52.png
+  - fileID: 342
+    classID: 28
+    packedSize: 5592552
+    offset: 607773160
+    sourceAssetGUID: d47062ab7be5ef44baa1b0f11654500c
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_01_C.png
+  - fileID: 343
+    classID: 28
+    packedSize: 4204
+    offset: 613365712
+    sourceAssetGUID: d5a51525b27e3ee4aadbeb39cbcf0750
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_51.png
+  - fileID: 344
+    classID: 28
+    packedSize: 5592552
+    offset: 613369920
+    sourceAssetGUID: d621667cdcfa8f4469c51a34ee6a093a
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_02_C.png
+  - fileID: 345
+    classID: 28
+    packedSize: 359172
+    offset: 618962472
+    sourceAssetGUID: d6545aaaf3fe7644db0ce9cedba45f55
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Terrain/T_Grass_Ground_N.png
+  - fileID: 346
+    classID: 28
+    packedSize: 4204
+    offset: 619321648
+    sourceAssetGUID: d8c290e38ff0425409d0ae6a98c95e41
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_50.png
+  - fileID: 347
+    classID: 28
+    packedSize: 4204
+    offset: 619325856
+    sourceAssetGUID: d96974690c77f50489eb60ec84bd8dac
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_59.png
+  - fileID: 348
+    classID: 28
+    packedSize: 1132
+    offset: 619330064
+    sourceAssetGUID: d99701099481a2f489610e977df6dcbc
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/SMAA/SearchTex.tga
+  - fileID: 349
+    classID: 28
+    packedSize: 2796328
+    offset: 619331200
+    sourceAssetGUID: d9ccbba8389615b4792a4f21f6efbce4
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_RuneRock_02_E.png
+  - fileID: 350
+    classID: 28
+    packedSize: 4194420
+    offset: 622127528
+    sourceAssetGUID: da0dea717eba69548a5bbfcc25d016b2
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA4_final.hdr
+  - fileID: 351
+    classID: 28
+    packedSize: 2796332
+    offset: 626321952
+    sourceAssetGUID: db249081885257d419f23f5502eb63a5
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_SleepingBag_02_R.png
+  - fileID: 352
+    classID: 28
+    packedSize: 2796340
+    offset: 629118288
+    sourceAssetGUID: db56133bdb0993a40b90a1241d093e13
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Textures/CrystalMaps/TranslucentCrystal01_Mask.png
+  - fileID: 353
+    classID: 28
+    packedSize: 699180
+    offset: 631914632
+    sourceAssetGUID: dda3bc0ddc3e53f4cac867fe8e96373a
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Firewood_01_Base_R.png
+  - fileID: 354
+    classID: 28
+    packedSize: 4204
+    offset: 632613816
+    sourceAssetGUID: df01d03f056c6f445b4b8a0ae054207c
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_22.png
+  - fileID: 355
+    classID: 28
+    packedSize: 699184
+    offset: 632618024
+    sourceAssetGUID: e06a6bddce7c7ea4d9d2502fd26b5d22
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Campfire_Rocks_Lit_C.png
+  - fileID: 356
+    classID: 28
+    packedSize: 4204
+    offset: 633317208
+    sourceAssetGUID: e138166e7a7c70f49943be7edda35d35
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_57.png
+  - fileID: 357
+    classID: 28
+    packedSize: 1048696
+    offset: 633321416
+    sourceAssetGUID: e27b730ea0302ea429e05cea55d7b991
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA17_final.hdr
+  - fileID: 358
+    classID: 28
+    packedSize: 58332
+    offset: 634370112
+    sourceAssetGUID: e315db926a0705845b12da3cc80ea306
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Texture/eyeline_00.tga
+  - fileID: 359
+    classID: 28
+    packedSize: 108
+    offset: 634428448
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 360
+    classID: 28
+    packedSize: 4194420
+    offset: 634428560
+    sourceAssetGUID: e3eb4b04005b35849bd25840a29f9ece
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA9_final.hdr
+  - fileID: 361
+    classID: 28
+    packedSize: 174908
+    offset: 638622984
+    sourceAssetGUID: e451db282b93ce747bb83cff0ed235a3
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/AS09_Clay01_dif_su.png
+  - fileID: 362
+    classID: 28
+    packedSize: 1398236
+    offset: 638797896
+    sourceAssetGUID: eb28ee8466deab24abd7bd565ab614bd
+    buildTimeAssetPath: Assets/LionStatue/ModelAndTextures/LionStatue_s.tga
+  - fileID: 363
+    classID: 28
+    packedSize: 1398228
+    offset: 640196136
+    sourceAssetGUID: eb6742be59eb7174883f6b4f05b5116f
+    buildTimeAssetPath: Assets/MeshCombineStudio/MCS Caves&Overhangs/Examples/Sources/Rocks/Materials/Rock.tga
+  - fileID: 364
+    classID: 28
+    packedSize: 1398248
+    offset: 641594368
+    sourceAssetGUID: eb9cbd3937dcffc47a72742793e246bc
+    buildTimeAssetPath: Assets/Fantasy Skybox FREE/Cubemaps/FS017/Images/FS017_Sunset_Cubemap_up.png
+  - fileID: 365
+    classID: 28
+    packedSize: 454432
+    offset: 642992616
+    sourceAssetGUID: ec89c8e442d7222418c46ff1e457b087
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_TreeStump_C.png
+  - fileID: 366
+    classID: 28
+    packedSize: 1398252
+    offset: 643447048
+    sourceAssetGUID: ee393cb60de7bf142b65e8aa668b54e6
+    buildTimeAssetPath: Assets/Fantasy Skybox FREE/Cubemaps/FS017/Images/FS017_Sunset_Cubemap_down.png
+  - fileID: 367
+    classID: 28
+    packedSize: 4194424
+    offset: 644845304
+    sourceAssetGUID: eef184d2c52d2784781a7b26f26577b4
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA14_final.hdr
+  - fileID: 368
+    classID: 28
+    packedSize: 5592552
+    offset: 649039728
+    sourceAssetGUID: f05b6fe12d7ca3349a5ceb07178e6755
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Trees/T_Tree_Birch_Rework_N.png
+  - fileID: 369
+    classID: 28
+    packedSize: 15688
+    offset: 654632280
+    sourceAssetGUID: f3a1f84b44733e44e9e06b47e364540b
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Utility/T_Noise_03.png
+  - fileID: 370
+    classID: 28
+    packedSize: 16777332
+    offset: 654647968
+    sourceAssetGUID: f3bec9c102d5b7c40a57894de63b65af
+    buildTimeAssetPath: Assets/BakeryLightmaps/OpenScene_LMA2_final.hdr
+  - fileID: 371
+    classID: 28
+    packedSize: 5592552
+    offset: 671425304
+    sourceAssetGUID: f44cf7d11996b7147b215e282daabb3f
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_Rock_Formation_02_N.png
+  - fileID: 372
+    classID: 28
+    packedSize: 4204
+    offset: 677017856
+    sourceAssetGUID: f4b8ab78b57749d4e96d36f6d8a395d0
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_25.png
+  - fileID: 373
+    classID: 28
+    packedSize: 11184940
+    offset: 677022064
+    sourceAssetGUID: f50f48b940c7a414ebe5f272bef31e65
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Trees/T_TreeLarge_Bark_R.png
+  - fileID: 374
+    classID: 28
+    packedSize: 4204
+    offset: 688207008
+    sourceAssetGUID: f6439b54b28f3884eb67579dec0b6f21
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/BlueNoise64px/LDR_LLL1_14.png
+  - fileID: 375
+    classID: 28
+    packedSize: 22369764
+    offset: 688211216
+    sourceAssetGUID: f70e4e55eb0e6774db1b425d9cb43d52
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Trees/T_TreeLarge_Bark_N.png
+  - fileID: 376
+    classID: 28
+    packedSize: 1398252
+    offset: 710580984
+    sourceAssetGUID: f88176caefa96304eb645c1c278c20d5
+    buildTimeAssetPath: Assets/Fantasy Skybox FREE/Cubemaps/FS017/Images/FS017_Sunset_Cubemap_right.png
+  - fileID: 377
+    classID: 28
+    packedSize: 2796328
+    offset: 711979240
+    sourceAssetGUID: f8f99a7c9dd68cf49a747b2226e88540
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_RuneRock_02_C.png
+  - fileID: 378
+    classID: 28
+    packedSize: 160392
+    offset: 714775568
+    sourceAssetGUID: f9c6074c5a78e71448f9efd3013cadda
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Texture/body_01.tga
+  - fileID: 379
+    classID: 28
+    packedSize: 2796328
+    offset: 714935960
+    sourceAssetGUID: fa6a311ffa6b107419913dc856feff4e
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_RuneRock_02_R.png
+  - fileID: 380
+    classID: 28
+    packedSize: 5592544
+    offset: 717732288
+    sourceAssetGUID: fac1cf4303a1877428f0e7fc8f63dfa9
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Rocks/T_RuneRock_02_N.png
+  - fileID: 381
+    classID: 28
+    packedSize: 847124
+    offset: 723324832
+    sourceAssetGUID: fbacd829ce7fbb14ea63d4c6afcc5f06
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Textures/CrystalMaps/TranslucentCrystal01_Normal.png
+  - fileID: 382
+    classID: 28
+    packedSize: 949164
+    offset: 724171960
+    sourceAssetGUID: fbb712f2be73dfe42ac30d3e1c44e03b
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_TreeStump_N.png
+  - fileID: 383
+    classID: 28
+    packedSize: 2796324
+    offset: 725121128
+    sourceAssetGUID: fbdba8e49e4e4934eae305f5499989f1
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Fence_02_R.png
+  - fileID: 384
+    classID: 28
+    packedSize: 5592540
+    offset: 727917456
+    sourceAssetGUID: fef2850e9ad72ce448b5c9f81664ae7c
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Textures/Props/T_Fence01_C.png
+  - fileID: 385
+    classID: 28
+    packedSize: 67108976
+    offset: 733510000
+    sourceAssetGUID: fef29e59da6f0d649be7511cab261fda
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Textures/Lights/T_lights_01_d.tga
+  - fileID: 386
+    classID: 28
+    packedSize: 1048696
+    offset: 800618976
+    sourceAssetGUID: 013108b7829f0b44fb6dd24260d12a79
+    buildTimeAssetPath: Assets/Labthe3rd/Party Zone Keypad/Font/Roboto Bold Keypad.asset
+  - fileID: 387
+    classID: 28
+    packedSize: 120
+    offset: 801667672
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 388
+    classID: 28
+    packedSize: 1048696
+    offset: 801667792
+    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF.asset
+  - fileID: 389
+    classID: 43
+    packedSize: 21860
+    offset: 802716488
+    sourceAssetGUID: fdcd57e90442689469d65a7472a4d8a8
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_D.fbx
+  - fileID: 390
+    classID: 43
+    packedSize: 1624
+    offset: 802738352
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 391
+    classID: 43
+    packedSize: 65832
+    offset: 802739976
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 392
+    classID: 43
+    packedSize: 63992
+    offset: 802805808
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 393
+    classID: 43
+    packedSize: 117428
+    offset: 802869800
+    sourceAssetGUID: 1e67224959136b54180e3bf7271e8369
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_B.fbx
+  - fileID: 394
+    classID: 43
+    packedSize: 1624
+    offset: 802987232
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 395
+    classID: 43
+    packedSize: 1624
+    offset: 802988856
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 396
+    classID: 43
+    packedSize: 2248
+    offset: 802990480
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 397
+    classID: 43
+    packedSize: 3636928
+    offset: 802992728
+    sourceAssetGUID: 9e9a8ae45a839f84c922e36a47646917
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/FBX_AS09_JasminumOfficinale_1.fbx
+  - fileID: 398
+    classID: 43
+    packedSize: 1624
+    offset: 806629656
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 399
+    classID: 43
+    packedSize: 63032
+    offset: 806631280
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 400
+    classID: 43
+    packedSize: 62552
+    offset: 806694312
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 401
+    classID: 43
+    packedSize: 1936
+    offset: 806756864
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 402
+    classID: 43
+    packedSize: 1624
+    offset: 806758800
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 403
+    classID: 43
+    packedSize: 1936
+    offset: 806760424
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 404
+    classID: 43
+    packedSize: 64672
+    offset: 806762360
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 405
+    classID: 43
+    packedSize: 1624
+    offset: 806827032
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 406
+    classID: 43
+    packedSize: 1936
+    offset: 806828656
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 407
+    classID: 43
+    packedSize: 1624
+    offset: 806830592
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 408
+    classID: 43
+    packedSize: 1936
+    offset: 806832216
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 409
+    classID: 43
+    packedSize: 64112
+    offset: 806834152
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 410
+    classID: 43
+    packedSize: 64792
+    offset: 806898264
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 411
+    classID: 43
+    packedSize: 1624
+    offset: 806963056
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 412
+    classID: 43
+    packedSize: 1936
+    offset: 806964680
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 413
+    classID: 43
+    packedSize: 1624
+    offset: 806966616
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 414
+    classID: 43
+    packedSize: 1624
+    offset: 806968240
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 415
+    classID: 43
+    packedSize: 1936
+    offset: 806969864
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 416
+    classID: 43
+    packedSize: 83580
+    offset: 806971800
+    sourceAssetGUID: 0876c9ecc90143048925869a18eafa3a
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_C.fbx
+  - fileID: 417
+    classID: 43
+    packedSize: 108300
+    offset: 807055384
+    sourceAssetGUID: 1e67224959136b54180e3bf7271e8369
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_B.fbx
+  - fileID: 418
+    classID: 43
+    packedSize: 107348
+    offset: 807163688
+    sourceAssetGUID: 75de1873c2949c344b0d962c7e4437f2
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_A.fbx
+  - fileID: 419
+    classID: 43
+    packedSize: 1936
+    offset: 807271040
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 420
+    classID: 43
+    packedSize: 1624
+    offset: 807272976
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 421
+    classID: 43
+    packedSize: 1936
+    offset: 807274600
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 422
+    classID: 43
+    packedSize: 64432
+    offset: 807276536
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 423
+    classID: 43
+    packedSize: 67392
+    offset: 807340968
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 424
+    classID: 43
+    packedSize: 39008
+    offset: 807408360
+    sourceAssetGUID: 86eb85dba40382d4b9fad16e2d331a89
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_Group_02.fbx
+  - fileID: 425
+    classID: 43
+    packedSize: 166496
+    offset: 807447368
+    sourceAssetGUID: 75de1873c2949c344b0d962c7e4437f2
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_A.fbx
+  - fileID: 426
+    classID: 43
+    packedSize: 4768
+    offset: 807613864
+    sourceAssetGUID: 9e9a8ae45a839f84c922e36a47646917
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/FBX_AS09_JasminumOfficinale_1.fbx
+  - fileID: 427
+    classID: 43
+    packedSize: 44740
+    offset: 807618632
+    sourceAssetGUID: cd0d583352434c749b2bf7d3b624390a
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_E.fbx
+  - fileID: 428
+    classID: 43
+    packedSize: 1936
+    offset: 807663376
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 429
+    classID: 43
+    packedSize: 65712
+    offset: 807665312
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 430
+    classID: 43
+    packedSize: 23552
+    offset: 807731024
+    sourceAssetGUID: 86eb85dba40382d4b9fad16e2d331a89
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_Group_02.fbx
+  - fileID: 431
+    classID: 43
+    packedSize: 1624
+    offset: 807754576
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 432
+    classID: 43
+    packedSize: 1624
+    offset: 807756200
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 433
+    classID: 43
+    packedSize: 3694960
+    offset: 807757824
+    sourceAssetGUID: 4f3246f401d895d49a8f970db85512ee
+    buildTimeAssetPath: Assets/Baked Terrain/TerrainTest1.obj
+  - fileID: 434
+    classID: 43
+    packedSize: 45660
+    offset: 811452784
+    sourceAssetGUID: fdcd57e90442689469d65a7472a4d8a8
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_D.fbx
+  - fileID: 435
+    classID: 43
+    packedSize: 21376
+    offset: 811498448
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 436
+    classID: 43
+    packedSize: 1101884
+    offset: 811519824
+    sourceAssetGUID: 9e9a8ae45a839f84c922e36a47646917
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/FBX_AS09_JasminumOfficinale_1.fbx
+  - fileID: 437
+    classID: 43
+    packedSize: 80900
+    offset: 812621712
+    sourceAssetGUID: 0876c9ecc90143048925869a18eafa3a
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_C.fbx
+  - fileID: 438
+    classID: 43
+    packedSize: 119888
+    offset: 812702616
+    sourceAssetGUID: 0876c9ecc90143048925869a18eafa3a
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_C.fbx
+  - fileID: 439
+    classID: 43
+    packedSize: 1624
+    offset: 812822504
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 440
+    classID: 43
+    packedSize: 14672
+    offset: 812824128
+    sourceAssetGUID: 9e9a8ae45a839f84c922e36a47646917
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/FBX_AS09_JasminumOfficinale_1.fbx
+  - fileID: 441
+    classID: 43
+    packedSize: 65512
+    offset: 812838800
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 442
+    classID: 43
+    packedSize: 65592
+    offset: 812904312
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 443
+    classID: 43
+    packedSize: 1624
+    offset: 812969904
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 444
+    classID: 43
+    packedSize: 1624
+    offset: 812971528
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 445
+    classID: 43
+    packedSize: 1624
+    offset: 812973152
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 446
+    classID: 43
+    packedSize: 76468
+    offset: 812974776
+    sourceAssetGUID: 09d7480794017b24bb74b50fc337a3e7
+    buildTimeAssetPath: Assets/LionStatue/ModelAndTextures/LionStatue.FBX
+  - fileID: 447
+    classID: 43
+    packedSize: 35336
+    offset: 813051248
+    sourceAssetGUID: 0b7e04496e1704097823924870e74e6d
+    buildTimeAssetPath: Assets/Free_Rocks/_models/rock4.fbx
+  - fileID: 448
+    classID: 43
+    packedSize: 65652
+    offset: 813086584
+    sourceAssetGUID: 119a5d19cd3ae714dac637eeadee91cc
+    buildTimeAssetPath: Assets/Hut/Meshes/Fence_03.fbx
+  - fileID: 449
+    classID: 43
+    packedSize: 60256
+    offset: 813152240
+    sourceAssetGUID: 19750d5bac51de747bf2425c4f3a98db
+    buildTimeAssetPath: Assets/Stylized Mushroom/mushroom_All3.obj
+  - fileID: 450
+    classID: 43
+    packedSize: 31060
+    offset: 813212496
+    sourceAssetGUID: 19ada405e483e2e42b3568b712163648
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock3.fbx
+  - fileID: 451
+    classID: 43
+    packedSize: 1792
+    offset: 813243560
+    sourceAssetGUID: 1d4d66ba1084d9f4385248aab8cc1601
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Props/SM_Campsite_Ash.fbx
+  - fileID: 452
+    classID: 43
+    packedSize: 49380
+    offset: 813245352
+    sourceAssetGUID: 1e3f5eee0b7e2a54195a2a32bf7fcf20
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock5A.fbx
+  - fileID: 453
+    classID: 43
+    packedSize: 2496
+    offset: 813294736
+    sourceAssetGUID: 1ef63c9e36fd9ae47867f4bb79c7cbb3
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock1E.fbx
+  - fileID: 454
+    classID: 43
+    packedSize: 60620
+    offset: 813297232
+    sourceAssetGUID: 203b2b8f3a2ab7a4589ca5e13eecd9f9
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Props/SM_Fence_03.fbx
+  - fileID: 455
+    classID: 43
+    packedSize: 18268
+    offset: 813357856
+    sourceAssetGUID: 24713146f35be974ab53288063b68613
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Props/SM_Campsite_Firewood_Used.fbx
+  - fileID: 456
+    classID: 43
+    packedSize: 19040
+    offset: 813376128
+    sourceAssetGUID: 2e63748b1771f4d9f85197f8244d4bbd
+    buildTimeAssetPath: Assets/Free_Rocks/_models/rock2.fbx
+  - fileID: 457
+    classID: 43
+    packedSize: 5396
+    offset: 813395168
+    sourceAssetGUID: 3b6e1a04dd0ff3f408c43f0eb6cb7f70
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock6B.fbx
+  - fileID: 458
+    classID: 43
+    packedSize: 8272
+    offset: 813400568
+    sourceAssetGUID: 3ef8684d8b49f4d189bd2824374f328a
+    buildTimeAssetPath: Assets/Free_Rocks/_models/rock3_collider.fbx
+  - fileID: 459
+    classID: 43
+    packedSize: 22324
+    offset: 813408840
+    sourceAssetGUID: 415a1cc574249824c902b084a5dc6096
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock4A.fbx
+  - fileID: 460
+    classID: 43
+    packedSize: 12428
+    offset: 813431168
+    sourceAssetGUID: 48f988a8c9fe7954a90094b6b506ef3e
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_02_Unity.fbx
+  - fileID: 461
+    classID: 43
+    packedSize: 10732
+    offset: 813443600
+    sourceAssetGUID: 51368a5ba8a38f740baa9f2a132a2321
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock5B.fbx
+  - fileID: 462
+    classID: 43
+    packedSize: 14244
+    offset: 813454336
+    sourceAssetGUID: 553d9789b73b4f44b8326e2e6918d951
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock4B.fbx
+  - fileID: 463
+    classID: 43
+    packedSize: 99476
+    offset: 813468584
+    sourceAssetGUID: 5affa7e903710d24b94e5df319d5c1a1
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Props/SM_Tree_Fallen.fbx
+  - fileID: 464
+    classID: 43
+    packedSize: 73128
+    offset: 813568064
+    sourceAssetGUID: 671d2214b6a3486428045a590582de31
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Props/SM_Tent.fbx
+  - fileID: 465
+    classID: 43
+    packedSize: 79920
+    offset: 813641192
+    sourceAssetGUID: 721b104a13767e141baae21fbf69e1de
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_02.fbx
+  - fileID: 466
+    classID: 43
+    packedSize: 108048
+    offset: 813721112
+    sourceAssetGUID: 76a4663a496d6584ab5fb3442baf5ef5
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Props/SM_TreeStump_01.fbx
+  - fileID: 467
+    classID: 43
+    packedSize: 4124
+    offset: 813829160
+    sourceAssetGUID: 76e57a0571b404945a9f2a42d53ef500
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Water/Sm_Foam_Top.fbx
+  - fileID: 468
+    classID: 43
+    packedSize: 25392
+    offset: 813833288
+    sourceAssetGUID: 78666b157dd3af4408d100651b7b698a
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Props/SM_Campsite_Rocks.fbx
+  - fileID: 469
+    classID: 43
+    packedSize: 14976
+    offset: 813858680
+    sourceAssetGUID: 78ffc1ed5f72076498d0614872cf48ec
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Meshes/TranslucentCrystal01.obj
+  - fileID: 470
+    classID: 43
+    packedSize: 56352
+    offset: 813873656
+    sourceAssetGUID: 79b2dee84713f514188d509497aea431
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_03.fbx
+  - fileID: 471
+    classID: 43
+    packedSize: 7784
+    offset: 813930008
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 472
+    classID: 43
+    packedSize: 14428
+    offset: 813937792
+    sourceAssetGUID: 9551d23f5681244a5bf687feb1b45c62
+    buildTimeAssetPath: Assets/Free_Rocks/_models/rock4_collider.fbx
+  - fileID: 473
+    classID: 43
+    packedSize: 4196
+    offset: 813952224
+    sourceAssetGUID: 976e89866374b704f8eff32373bca69c
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock1B.fbx
+  - fileID: 474
+    classID: 43
+    packedSize: 2496
+    offset: 813956424
+    sourceAssetGUID: 983886d38a2dfa14fa5778c136ecbb9f
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock1D.fbx
+  - fileID: 475
+    classID: 43
+    packedSize: 9412
+    offset: 813958920
+    sourceAssetGUID: 9fc428eadf2be4fd4bcd7e09ee65c9b6
+    buildTimeAssetPath: Assets/Free_Rocks/_models/rock2_collider.fbx
+  - fileID: 476
+    classID: 43
+    packedSize: 56900
+    offset: 813968336
+    sourceAssetGUID: a3f6b9e3c4bfdde4bba0ba7407fe65f6
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Water/SM_Foam_Bottom_High.fbx
+  - fileID: 477
+    classID: 43
+    packedSize: 20668
+    offset: 814025240
+    sourceAssetGUID: ab3b6ce69db2a0646ab1f4a44cd5a413
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Water/SM_Waterfall_Main.fbx
+  - fileID: 478
+    classID: 43
+    packedSize: 38908
+    offset: 814045912
+    sourceAssetGUID: b1e72cbca989d4f4ba7d512a92e6903c
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Props/SM_Fence_01.fbx
+  - fileID: 479
+    classID: 43
+    packedSize: 93096
+    offset: 814084824
+    sourceAssetGUID: ba53360b4195cb542922626d94e36105
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_04.fbx
+  - fileID: 480
+    classID: 43
+    packedSize: 134844
+    offset: 814177920
+    sourceAssetGUID: bc6f26e2630dbdc40a09618786c628dc
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Props/SM_SleepingBag_01.fbx
+  - fileID: 481
+    classID: 43
+    packedSize: 25676
+    offset: 814312768
+    sourceAssetGUID: c6d85766e2e364d3fba28cab76d9bce5
+    buildTimeAssetPath: Assets/Free_Rocks/_models/cliff_collider.fbx
+  - fileID: 482
+    classID: 43
+    packedSize: 18544
+    offset: 814338448
+    sourceAssetGUID: cc032f9003b806b4e93ef66b27d4faf7
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Foliage/SM_Mushroom_05.fbx
+  - fileID: 483
+    classID: 43
+    packedSize: 60736
+    offset: 814356992
+    sourceAssetGUID: cda844cefe42f0f4db13995d26ff8541
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Props/SM_Fence_02.fbx
+  - fileID: 484
+    classID: 43
+    packedSize: 9152
+    offset: 814417728
+    sourceAssetGUID: d0d8b4fbb89e22a4b828c917e4eca660
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_03_Unity.fbx
+  - fileID: 485
+    classID: 43
+    packedSize: 2384
+    offset: 814426880
+    sourceAssetGUID: d1edb567dd56f994cbb75a74e047b18a
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock1C.fbx
+  - fileID: 486
+    classID: 43
+    packedSize: 44736
+    offset: 814429264
+    sourceAssetGUID: d4858c071646fad43803c0c1a10d1434
+    buildTimeAssetPath: Assets/Stylized Mushroom/mushroom_All2.obj
+  - fileID: 487
+    classID: 43
+    packedSize: 45904
+    offset: 814474000
+    sourceAssetGUID: d753f96404dfc7e439e32d9cfdf6d982
+    buildTimeAssetPath: Assets/Stylized Mushroom/mushroom_All1.obj
+  - fileID: 488
+    classID: 43
+    packedSize: 56036
+    offset: 814519904
+    sourceAssetGUID: db7394ca680dcd54d93ad50a2708b9de
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_01.fbx
+  - fileID: 489
+    classID: 43
+    packedSize: 14068
+    offset: 814575944
+    sourceAssetGUID: dc1f4dac88dde69438e5afb16fea1eb2
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_01_Unity.fbx
+  - fileID: 490
+    classID: 43
+    packedSize: 39160
+    offset: 814590016
+    sourceAssetGUID: dfb9706df9ac8264ebf1e58976096256
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock1A.fbx
+  - fileID: 491
+    classID: 43
+    packedSize: 8636
+    offset: 814629176
+    sourceAssetGUID: e396cb8d258c1ec499254be4c7cb9f91
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RuneRock_01.fbx
+  - fileID: 492
+    classID: 43
+    packedSize: 22056
+    offset: 814637816
+    sourceAssetGUID: e776f876d5dea4ac9b419e25457df3ee
+    buildTimeAssetPath: Assets/Free_Rocks/_models/rock3.fbx
+  - fileID: 493
+    classID: 43
+    packedSize: 3664
+    offset: 814659872
+    sourceAssetGUID: ef4dd147aed784fc2968d63b72857249
+    buildTimeAssetPath: Assets/Free_Rocks/_models/rock1_collider.fbx
+  - fileID: 494
+    classID: 43
+    packedSize: 32732
+    offset: 814663536
+    sourceAssetGUID: f26ba077fc0b44aa98ece4e68647d4e2
+    buildTimeAssetPath: Assets/Free_Rocks/_models/cliff.fbx
+  - fileID: 495
+    classID: 43
+    packedSize: 15912
+    offset: 814696272
+    sourceAssetGUID: 2ae50551232db43eabe801fa34dc0c42
+    buildTimeAssetPath: Assets/Free_Rocks/_models/rock1.fbx
+  - fileID: 496
+    classID: 43
+    packedSize: 7656
+    offset: 814712184
+    sourceAssetGUID: 48f988a8c9fe7954a90094b6b506ef3e
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_02_Unity.fbx
+  - fileID: 497
+    classID: 43
+    packedSize: 45204
+    offset: 814719840
+    sourceAssetGUID: 721b104a13767e141baae21fbf69e1de
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_02.fbx
+  - fileID: 498
+    classID: 43
+    packedSize: 30588
+    offset: 814765048
+    sourceAssetGUID: 79b2dee84713f514188d509497aea431
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_03.fbx
+  - fileID: 499
+    classID: 43
+    packedSize: 5124
+    offset: 814795640
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 500
+    classID: 43
+    packedSize: 48972
+    offset: 814800768
+    sourceAssetGUID: ba53360b4195cb542922626d94e36105
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_04.fbx
+  - fileID: 501
+    classID: 43
+    packedSize: 5680
+    offset: 814849744
+    sourceAssetGUID: d0d8b4fbb89e22a4b828c917e4eca660
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_03_Unity.fbx
+  - fileID: 502
+    classID: 43
+    packedSize: 45484
+    offset: 814855424
+    sourceAssetGUID: d11d8096e6b14aa43aa74d862d2d01f7
+    buildTimeAssetPath: Assets/Rocks and Boulders 2/Rocks/Source/Models/Rock2.fbx
+  - fileID: 503
+    classID: 43
+    packedSize: 29516
+    offset: 814900912
+    sourceAssetGUID: db7394ca680dcd54d93ad50a2708b9de
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_01.fbx
+  - fileID: 504
+    classID: 43
+    packedSize: 9168
+    offset: 814930432
+    sourceAssetGUID: dc1f4dac88dde69438e5afb16fea1eb2
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_01_Unity.fbx
+  - fileID: 505
+    classID: 43
+    packedSize: 4056
+    offset: 814939600
+    sourceAssetGUID: 48f988a8c9fe7954a90094b6b506ef3e
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_02_Unity.fbx
+  - fileID: 506
+    classID: 43
+    packedSize: 27888
+    offset: 814943656
+    sourceAssetGUID: 721b104a13767e141baae21fbf69e1de
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_02.fbx
+  - fileID: 507
+    classID: 43
+    packedSize: 16260
+    offset: 814971544
+    sourceAssetGUID: 79b2dee84713f514188d509497aea431
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_03.fbx
+  - fileID: 508
+    classID: 43
+    packedSize: 1880
+    offset: 814987808
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 509
+    classID: 43
+    packedSize: 26436
+    offset: 814989688
+    sourceAssetGUID: ba53360b4195cb542922626d94e36105
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_04.fbx
+  - fileID: 510
+    classID: 43
+    packedSize: 3832
+    offset: 815016128
+    sourceAssetGUID: d0d8b4fbb89e22a4b828c917e4eca660
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_03_Unity.fbx
+  - fileID: 511
+    classID: 43
+    packedSize: 10460
+    offset: 815019960
+    sourceAssetGUID: db7394ca680dcd54d93ad50a2708b9de
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Rocks/SM_RockFormation_01.fbx
+  - fileID: 512
+    classID: 43
+    packedSize: 4692
+    offset: 815030424
+    sourceAssetGUID: dc1f4dac88dde69438e5afb16fea1eb2
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_01_Unity.fbx
+  - fileID: 513
+    classID: 43
+    packedSize: 3336
+    offset: 815035120
+    sourceAssetGUID: 48f988a8c9fe7954a90094b6b506ef3e
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_02_Unity.fbx
+  - fileID: 514
+    classID: 43
+    packedSize: 1880
+    offset: 815038456
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 515
+    classID: 43
+    packedSize: 2404
+    offset: 815040336
+    sourceAssetGUID: d0d8b4fbb89e22a4b828c917e4eca660
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_03_Unity.fbx
+  - fileID: 516
+    classID: 43
+    packedSize: 3460
+    offset: 815042744
+    sourceAssetGUID: dc1f4dac88dde69438e5afb16fea1eb2
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_01_Unity.fbx
+  - fileID: 517
+    classID: 43
+    packedSize: 298064
+    offset: 815046208
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 518
+    classID: 43
+    packedSize: 34856
+    offset: 815344272
+    sourceAssetGUID: 2c406404c6b768848bbbb971e81c0e6b
+    buildTimeAssetPath: Assets/MeshCombineStudio/MCS Caves&Overhangs/Examples/Sources/Rocks/Meshes/Rocks.FBX
+  - fileID: 519
+    classID: 43
+    packedSize: 103892
+    offset: 815379128
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 520
+    classID: 43
+    packedSize: 43800
+    offset: 815483024
+    sourceAssetGUID: 2c406404c6b768848bbbb971e81c0e6b
+    buildTimeAssetPath: Assets/MeshCombineStudio/MCS Caves&Overhangs/Examples/Sources/Rocks/Meshes/Rocks.FBX
+  - fileID: 521
+    classID: 43
+    packedSize: 133744
+    offset: 815526824
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 522
+    classID: 43
+    packedSize: 12776
+    offset: 815660568
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 523
+    classID: 43
+    packedSize: 114676
+    offset: 815673344
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 524
+    classID: 43
+    packedSize: 54296
+    offset: 815788024
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 525
+    classID: 43
+    packedSize: 25324
+    offset: 815842320
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 526
+    classID: 43
+    packedSize: 69664
+    offset: 815867648
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 527
+    classID: 43
+    packedSize: 18172
+    offset: 815937312
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 528
+    classID: 43
+    packedSize: 231976
+    offset: 815955488
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 529
+    classID: 43
+    packedSize: 74432
+    offset: 816187464
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 530
+    classID: 43
+    packedSize: 96220
+    offset: 816261896
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 531
+    classID: 43
+    packedSize: 37892
+    offset: 816358120
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 532
+    classID: 43
+    packedSize: 94152
+    offset: 816396016
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 533
+    classID: 43
+    packedSize: 28012
+    offset: 816490168
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 534
+    classID: 43
+    packedSize: 20612
+    offset: 816518184
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 535
+    classID: 43
+    packedSize: 14556
+    offset: 816538800
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 536
+    classID: 43
+    packedSize: 2700
+    offset: 816553360
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 537
+    classID: 43
+    packedSize: 132288
+    offset: 816556064
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 538
+    classID: 43
+    packedSize: 8440
+    offset: 816688352
+    sourceAssetGUID: 2c406404c6b768848bbbb971e81c0e6b
+    buildTimeAssetPath: Assets/MeshCombineStudio/MCS Caves&Overhangs/Examples/Sources/Rocks/Meshes/Rocks.FBX
+  - fileID: 539
+    classID: 43
+    packedSize: 5596
+    offset: 816696792
+    sourceAssetGUID: a039687c4c69cba4db8a0b410e840351
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Vegetation/FAE_Vegetation.fbx
+  - fileID: 540
+    classID: 43
+    packedSize: 14880
+    offset: 816702392
+    sourceAssetGUID: a039687c4c69cba4db8a0b410e840351
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Vegetation/FAE_Vegetation.fbx
+  - fileID: 541
+    classID: 43
+    packedSize: 11156
+    offset: 816717272
+    sourceAssetGUID: a039687c4c69cba4db8a0b410e840351
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Vegetation/FAE_Vegetation.fbx
+  - fileID: 542
+    classID: 43
+    packedSize: 5348
+    offset: 816728432
+    sourceAssetGUID: a039687c4c69cba4db8a0b410e840351
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Vegetation/FAE_Vegetation.fbx
+  - fileID: 543
+    classID: 43
+    packedSize: 3180
+    offset: 816733784
+    sourceAssetGUID: a039687c4c69cba4db8a0b410e840351
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Vegetation/FAE_Vegetation.fbx
+  - fileID: 544
+    classID: 43
+    packedSize: 9532
+    offset: 816736968
+    sourceAssetGUID: a039687c4c69cba4db8a0b410e840351
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Vegetation/FAE_Vegetation.fbx
+  - fileID: 545
+    classID: 43
+    packedSize: 70688
+    offset: 816746504
+    sourceAssetGUID: fdcd57e90442689469d65a7472a4d8a8
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_D.fbx
+  - fileID: 546
+    classID: 43
+    packedSize: 64952
+    offset: 816817192
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 547
+    classID: 43
+    packedSize: 63992
+    offset: 816882144
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 548
+    classID: 43
+    packedSize: 12344
+    offset: 816946136
+    sourceAssetGUID: 86eb85dba40382d4b9fad16e2d331a89
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_Group_02.fbx
+  - fileID: 549
+    classID: 43
+    packedSize: 15344
+    offset: 816958480
+    sourceAssetGUID: 86eb85dba40382d4b9fad16e2d331a89
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_Group_02.fbx
+  - fileID: 550
+    classID: 43
+    packedSize: 1936
+    offset: 816973824
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 551
+    classID: 43
+    packedSize: 162520
+    offset: 816975760
+    sourceAssetGUID: 1e67224959136b54180e3bf7271e8369
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_B.fbx
+  - fileID: 552
+    classID: 43
+    packedSize: 67552
+    offset: 817138280
+    sourceAssetGUID: 989f2c027ccc06441b6fb91094fa36de
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_Group_01.fbx
+  - fileID: 553
+    classID: 43
+    packedSize: 22496
+    offset: 817205832
+    sourceAssetGUID: 989f2c027ccc06441b6fb91094fa36de
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_Group_01.fbx
+  - fileID: 554
+    classID: 43
+    packedSize: 116420
+    offset: 817228328
+    sourceAssetGUID: 75de1873c2949c344b0d962c7e4437f2
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_A.fbx
+  - fileID: 555
+    classID: 43
+    packedSize: 1624
+    offset: 817344752
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 556
+    classID: 43
+    packedSize: 64392
+    offset: 817346376
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 557
+    classID: 43
+    packedSize: 41836
+    offset: 817410768
+    sourceAssetGUID: 989f2c027ccc06441b6fb91094fa36de
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_Group_01.fbx
+  - fileID: 558
+    classID: 43
+    packedSize: 1624
+    offset: 817452608
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 559
+    classID: 43
+    packedSize: 561980
+    offset: 817454232
+    sourceAssetGUID: f81e8172c337a714894d6fdbd0900d8d
+    buildTimeAssetPath: Assets/VRCSDK/Examples3/Dynamics/Robot Avatar/Tutorial_Robot_Avatar_Dynamics_Demo_v1.fbx
+  - fileID: 560
+    classID: 43
+    packedSize: 1624
+    offset: 818016216
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 561
+    classID: 43
+    packedSize: 172936
+    offset: 818017840
+    sourceAssetGUID: e7efd0678db99f346a69506bd949c3b9
+    buildTimeAssetPath: Assets/DekuPlacehold/model.dae
+  - fileID: 562
+    classID: 43
+    packedSize: 1624
+    offset: 818190776
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 563
+    classID: 43
+    packedSize: 61780
+    offset: 818192400
+    sourceAssetGUID: ab8a60a98c135fe40a6d411b724e5cd4
+    buildTimeAssetPath: Assets/glowing-mushroom/source/mushroom_Final.fbx
+  - fileID: 564
+    classID: 43
+    packedSize: 1624
+    offset: 818254184
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 565
+    classID: 43
+    packedSize: 29992
+    offset: 818255808
+    sourceAssetGUID: cd0d583352434c749b2bf7d3b624390a
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_E.fbx
+  - fileID: 566
+    classID: 43
+    packedSize: 1624
+    offset: 818285800
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 567
+    classID: 43
+    packedSize: 67232
+    offset: 818287424
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 568
+    classID: 43
+    packedSize: 63952
+    offset: 818354656
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 569
+    classID: 43
+    packedSize: 1936
+    offset: 818418608
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 570
+    classID: 43
+    packedSize: 1936
+    offset: 818420544
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 571
+    classID: 43
+    packedSize: 63752
+    offset: 818422480
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 572
+    classID: 43
+    packedSize: 65552
+    offset: 818486232
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 573
+    classID: 43
+    packedSize: 1624
+    offset: 818551784
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 574
+    classID: 43
+    packedSize: 13056
+    offset: 818553408
+    sourceAssetGUID: 9e9a8ae45a839f84c922e36a47646917
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/FBX_AS09_JasminumOfficinale_1.fbx
+  - fileID: 575
+    classID: 43
+    packedSize: 1624
+    offset: 818566464
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 576
+    classID: 43
+    packedSize: 14756
+    offset: 818568088
+    sourceAssetGUID: cd0d583352434c749b2bf7d3b624390a
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Models/Rocks/Cliff_E.fbx
+  - fileID: 577
+    classID: 43
+    packedSize: 1624
+    offset: 818582848
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 578
+    classID: 43
+    packedSize: 1936
+    offset: 818584472
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 579
+    classID: 43
+    packedSize: 1624
+    offset: 818586408
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 580
+    classID: 43
+    packedSize: 1936
+    offset: 818588032
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 581
+    classID: 43
+    packedSize: 1624
+    offset: 818589968
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 582
+    classID: 43
+    packedSize: 62912
+    offset: 818591592
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 583
+    classID: 43
+    packedSize: 65712
+    offset: 818654504
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 584
+    classID: 43
+    packedSize: 15624
+    offset: 818720216
+    sourceAssetGUID: 989f2c027ccc06441b6fb91094fa36de
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Grass/SM_Grass_Group_01.fbx
+  - fileID: 585
+    classID: 43
+    packedSize: 21376
+    offset: 818735840
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 586
+    classID: 43
+    packedSize: 1936
+    offset: 818757216
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 587
+    classID: 43
+    packedSize: 64952
+    offset: 818759152
+    sourceAssetGUID: 2698ec240922d9a4883938a00ea02307
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Bar.fbx
+  - fileID: 588
+    classID: 43
+    packedSize: 63432
+    offset: 818824104
+    sourceAssetGUID: c86193f0fbf7b6e4c8d6f1b74ca1ce99
+    buildTimeAssetPath: Assets/EmranArt/Fuel Bar/Art/Meshes/SM_Lightstring_Wall.fbx
+  - fileID: 589
+    classID: 43
+    packedSize: 2655824
+    offset: 818887536
+    sourceAssetGUID: 9e9a8ae45a839f84c922e36a47646917
+    buildTimeAssetPath: Assets/JasminiumTrellis/source/FBX_AS09_JasminumOfficinale_1.fbx
+  - fileID: 590
+    classID: 43
+    packedSize: 1624
+    offset: 821543360
+    sourceAssetGUID: 8a2c8f0221b79d048a5c37147b126220
+    buildTimeAssetPath: Assets/WoodPangola/source/pergola-20180509-2.fbx
+  - fileID: 591
+    classID: 48
+    packedSize: 623904
+    offset: 821544984
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 592
+    classID: 48
+    packedSize: 3455572
+    offset: 822168888
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 593
+    classID: 48
+    packedSize: 767512
+    offset: 825624464
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 594
+    classID: 48
+    packedSize: 29948
+    offset: 826391976
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 595
+    classID: 48
+    packedSize: 8436
+    offset: 826421928
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 596
+    classID: 48
+    packedSize: 471776
+    offset: 826430368
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 597
+    classID: 48
+    packedSize: 70652
+    offset: 826902144
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 598
+    classID: 48
+    packedSize: 144
+    offset: 826972800
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 599
+    classID: 48
+    packedSize: 184244
+    offset: 826972944
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 600
+    classID: 48
+    packedSize: 210636
+    offset: 827157192
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 601
+    classID: 48
+    packedSize: 202608
+    offset: 827367832
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 602
+    classID: 48
+    packedSize: 1368180
+    offset: 827570440
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 603
+    classID: 48
+    packedSize: 462824
+    offset: 828938624
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 604
+    classID: 48
+    packedSize: 1409456
+    offset: 829401448
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 605
+    classID: 48
+    packedSize: 5500
+    offset: 830810904
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 606
+    classID: 48
+    packedSize: 5700
+    offset: 830816408
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 607
+    classID: 48
+    packedSize: 7124
+    offset: 830822112
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 608
+    classID: 48
+    packedSize: 7804
+    offset: 830829240
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 609
+    classID: 48
+    packedSize: 8976
+    offset: 830837048
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 610
+    classID: 48
+    packedSize: 6176
+    offset: 830846024
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 611
+    classID: 48
+    packedSize: 5508
+    offset: 830852200
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 612
+    classID: 48
+    packedSize: 1214756
+    offset: 830857712
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 613
+    classID: 48
+    packedSize: 1184752
+    offset: 832072472
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 614
+    classID: 48
+    packedSize: 456540
+    offset: 833257224
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 615
+    classID: 48
+    packedSize: 14416
+    offset: 833713768
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 616
+    classID: 48
+    packedSize: 21100
+    offset: 833728184
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 617
+    classID: 48
+    packedSize: 1814808
+    offset: 833749288
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 618
+    classID: 48
+    packedSize: 612712
+    offset: 835564096
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 619
+    classID: 48
+    packedSize: 22628
+    offset: 836176808
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 620
+    classID: 48
+    packedSize: 4992
+    offset: 836199440
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 621
+    classID: 48
+    packedSize: 5476
+    offset: 836204432
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 622
+    classID: 48
+    packedSize: 11584
+    offset: 836209912
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 623
+    classID: 48
+    packedSize: 5824
+    offset: 836221496
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 624
+    classID: 48
+    packedSize: 6052
+    offset: 836227320
+    sourceAssetGUID: 02d2da9bc88d25c4d878c1ed4e0b3854
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStdFromTexArray.shader
+  - fileID: 625
+    classID: 48
+    packedSize: 135132
+    offset: 836233376
+    sourceAssetGUID: 0b7113dea2069fc4e8943843eff19f70
+    buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-StandardLite.shader
+  - fileID: 626
+    classID: 48
+    packedSize: 11512
+    offset: 836368512
+    sourceAssetGUID: 0d8afcb51cc9f0349a6d190da929b838
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/GrainBaker.shader
+  - fileID: 627
+    classID: 48
+    packedSize: 70628
+    offset: 836380024
+    sourceAssetGUID: 0ef78d24e85a44f4da9d5b5eaa00e50b
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DepthOfField.shader
+  - fileID: 628
+    classID: 48
+    packedSize: 22384
+    offset: 836450656
+    sourceAssetGUID: 2c459b89a7c8b1a4fbefe0d81341651c
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MotionBlur.shader
+  - fileID: 629
+    classID: 48
+    packedSize: 30244
+    offset: 836473040
+    sourceAssetGUID: 2dcd9e0568e0a6f45b92c60ba2eb16a0
+    buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-Diffuse.shader
+  - fileID: 630
+    classID: 48
+    packedSize: 4280
+    offset: 836503288
+    sourceAssetGUID: 3020ac7ece79a7f4eb789a236f8bd6c5
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Waveform.shader
+  - fileID: 631
+    classID: 48
+    packedSize: 2815892
+    offset: 836507568
+    sourceAssetGUID: 3334d0a534d2dac45b2c1a9a7e0a6c64
+    buildTimeAssetPath: Assets/Bakery/shader/BakeryStandard.shader
+  - fileID: 632
+    classID: 48
+    packedSize: 7216
+    offset: 839323464
+    sourceAssetGUID: 34a819c9e33402547a81619693adc8d5
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Texture2DLerp.shader
+  - fileID: 633
+    classID: 48
+    packedSize: 4003880
+    offset: 839330680
+    sourceAssetGUID: 382151503e2a43a4ebb7366d1632731d
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Uber.shader
+  - fileID: 634
+    classID: 48
+    packedSize: 225464
+    offset: 843334560
+    sourceAssetGUID: 39fe729f5dcad0d41bc1d8df009668cb
+    buildTimeAssetPath: Assets/SineVFX/TranslucentCrystals/Resources/Shaders/Crystal.shader
+  - fileID: 635
+    classID: 48
+    packedSize: 8068
+    offset: 843560024
+    sourceAssetGUID: 4117fce9491711c4094d33a048e36e73
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DeferredFog.shader
+  - fileID: 636
+    classID: 48
+    packedSize: 146380
+    offset: 843568096
+    sourceAssetGUID: 494e6f52c615a4e428d3a5194ea227c1
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/Shaders/Dreamscape_WaterfallFoam_Volumetric.shader
+  - fileID: 637
+    classID: 48
+    packedSize: 6084
+    offset: 843714480
+    sourceAssetGUID: 4bf4cff0d0bac3d43894e2e8839feb40
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStd.shader
+  - fileID: 638
+    classID: 48
+    packedSize: 1501424
+    offset: 843720568
+    sourceAssetGUID: 4e923ccb8e9e00643bc6127460e918ad
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Shaders/FAE_Cliff.shader
+  - fileID: 639
+    classID: 48
+    packedSize: 11120
+    offset: 845221992
+    sourceAssetGUID: 51bcf79c50dc92e47ba87821b61100c3
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/TemporalAntialiasing.shader
+  - fileID: 640
+    classID: 48
+    packedSize: 3848
+    offset: 845233112
+    sourceAssetGUID: 5ab0816423f0dfe45841cab3b05ec9ef
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/DiscardAlpha.shader
+  - fileID: 641
+    classID: 48
+    packedSize: 107416
+    offset: 845236960
+    sourceAssetGUID: 66906d5c57c4a9c4eb411e5bca74e37c
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/Shaders/Dreamscape_Waterfall.shader
+  - fileID: 642
+    classID: 48
+    packedSize: 14444
+    offset: 845344376
+    sourceAssetGUID: 67f9497810829eb4791ec19e95781e51
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVO.shader
+  - fileID: 643
+    classID: 48
+    packedSize: 137244
+    offset: 845358824
+    sourceAssetGUID: 78af274e2e8a40b4487a223c82ab5048
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/Shaders/Dreamscape_WaterfallFoam.shader
+  - fileID: 644
+    classID: 48
+    packedSize: 21728
+    offset: 845496072
+    sourceAssetGUID: 7ad194cbe7d006f4bace915156972026
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut2DBaker.shader
+  - fileID: 645
+    classID: 48
+    packedSize: 23968
+    offset: 845517800
+    sourceAssetGUID: 81af42a93ade3dd46a9b583d4eec76d6
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/SubpixelMorphologicalAntialiasing.shader
+  - fileID: 646
+    classID: 48
+    packedSize: 217228
+    offset: 845541768
+    sourceAssetGUID: 82e95d87261d972419c3d3ac5425982f
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/Shaders/Dreamscape_Foliage.shader
+  - fileID: 647
+    classID: 48
+    packedSize: 242096
+    offset: 845759000
+    sourceAssetGUID: 92a542d49c0d1d0478c243e758b81084
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/Shaders/Dreamscape_Surface.shader
+  - fileID: 648
+    classID: 48
+    packedSize: 723660
+    offset: 846001096
+    sourceAssetGUID: 9e462be833276004095a6c0ca5194f33
+    buildTimeAssetPath: Assets/Polyart/PolyartStudio/Shaders/Dreamscape_Surface_Coverage.shader
+  - fileID: 649
+    classID: 48
+    packedSize: 4292
+    offset: 846724760
+    sourceAssetGUID: a71093f2a4fe26a40805c22739e10e4a
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Vectorscope.shader
+  - fileID: 650
+    classID: 48
+    packedSize: 15168
+    offset: 846729056
+    sourceAssetGUID: b34a29e523cb9d545881e193a079f2df
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/LightMeter.shader
+  - fileID: 651
+    classID: 48
+    packedSize: 26004
+    offset: 846744224
+    sourceAssetGUID: b958ad1c92bd3d64c9e61318b8681dab
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Overlays.shader
+  - fileID: 652
+    classID: 48
+    packedSize: 32708
+    offset: 846770232
+    sourceAssetGUID: c1e1d3119c6fd4646aea0b4b74cacc1a
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Bloom.shader
+  - fileID: 653
+    classID: 48
+    packedSize: 6740
+    offset: 846802944
+    sourceAssetGUID: cdbdb71de5f9c454b980f6d0e87f0afb
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Copy.shader
+  - fileID: 654
+    classID: 48
+    packedSize: 8032
+    offset: 846809688
+    sourceAssetGUID: d2be9324814567e43a90ff52afe6d371
+    buildTimeAssetPath: Assets/TsunaMoo/Store/Simple Water/Shaders/Simple Water FX.shader
+  - fileID: 655
+    classID: 48
+    packedSize: 37124
+    offset: 846817720
+    sourceAssetGUID: d7640629310e79646af0f46eb55ae466
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ScalableAO.shader
+  - fileID: 656
+    classID: 48
+    packedSize: 1842868
+    offset: 846854848
+    sourceAssetGUID: e27c26c0ecebef247ba69245490f2562
+    buildTimeAssetPath: Assets/Fantasy Adventure Environment/Shaders/FAE_Foliage.shader
+  - fileID: 657
+    classID: 48
+    packedSize: 6112
+    offset: 848697720
+    sourceAssetGUID: e8ce9961912f3214586fe8709b9012c1
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/CopyStdFromDoubleWide.shader
+  - fileID: 658
+    classID: 48
+    packedSize: 338560
+    offset: 848703832
+    sourceAssetGUID: ebe90bdbfc153dd449fbd514428435e0
+    buildTimeAssetPath: Assets/Stylized Mushroom/Shader/mushroom.shader
+  - fileID: 659
+    classID: 48
+    packedSize: 105396
+    offset: 849042392
+    sourceAssetGUID: f75014305794b3948a3c6d5ccd550e05
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/FinalPass.shader
+  - fileID: 660
+    classID: 48
+    packedSize: 5128
+    offset: 849147792
+    sourceAssetGUID: f7ea35cfb33fcad4ab8f2429ec103bef
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Histogram.shader
+  - fileID: 661
+    classID: 48
+    packedSize: 32928
+    offset: 849152920
+    sourceAssetGUID: f8c1f8ac363df824899534a0b30eef00
+    buildTimeAssetPath: Assets/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-BumpedDiffuse.shader
+  - fileID: 662
+    classID: 48
+    packedSize: 19200
+    offset: 849185848
+    sourceAssetGUID: f997a3dc9254c44459323cced085150c
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ScreenSpaceReflections.shader
+  - fileID: 663
+    classID: 48
+    packedSize: 19276
+    offset: 849205048
+    sourceAssetGUID: fe393ace9b354375a9cb14cdbbc28be4
+    buildTimeAssetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  - fileID: 664
+    classID: 72
+    packedSize: 1816
+    offset: 849224328
+    sourceAssetGUID: 18183ebfeeab97749b43e38b928604a7
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Histogram.compute
+  - fileID: 665
+    classID: 72
+    packedSize: 1456
+    offset: 849226144
+    sourceAssetGUID: 31e9175024adfd44aba2530ff9b77494
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Texture3DLerp.compute
+  - fileID: 666
+    classID: 72
+    packedSize: 95740
+    offset: 849227600
+    sourceAssetGUID: 34845e0ca016b7448842e965db5890a5
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/AutoExposure.compute
+  - fileID: 667
+    classID: 72
+    packedSize: 39828
+    offset: 849323344
+    sourceAssetGUID: 34a460e8a2e66c243a9c12024e5a798d
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVORender.compute
+  - fileID: 668
+    classID: 72
+    packedSize: 21116
+    offset: 849363176
+    sourceAssetGUID: 42496b74c071f5749950ca1abe33e945
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/Lut3DBaker.compute
+  - fileID: 669
+    classID: 72
+    packedSize: 5048
+    offset: 849384296
+    sourceAssetGUID: 4c63bc487e6c29a4a99f85a6c47b292b
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample1.compute
+  - fileID: 670
+    classID: 72
+    packedSize: 92224
+    offset: 849389344
+    sourceAssetGUID: 600d6212b59bb40409d19d750b5fd1e9
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVOUpsample.compute
+  - fileID: 671
+    classID: 72
+    packedSize: 6436
+    offset: 849481568
+    sourceAssetGUID: 6dba4103d23a7904fbc49099355aff3e
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/GaussianDownsample.compute
+  - fileID: 672
+    classID: 72
+    packedSize: 1640
+    offset: 849488008
+    sourceAssetGUID: 8c2fcbdf9bc58664f89917f7b9d79501
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/ExposureHistogram.compute
+  - fileID: 673
+    classID: 72
+    packedSize: 1824
+    offset: 849489648
+    sourceAssetGUID: 92c63830cd50c0b4fbb8233613839958
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Waveform.compute
+  - fileID: 674
+    classID: 72
+    packedSize: 1944
+    offset: 849491472
+    sourceAssetGUID: e1efca7c36fd01840aae0dd10378de5c
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Debug/Vectorscope.compute
+  - fileID: 675
+    classID: 72
+    packedSize: 1960
+    offset: 849493416
+    sourceAssetGUID: e4d3e4779e48a374f91d48d4c0aedb7b
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Shaders/Builtins/MultiScaleVODownsample2.compute
+  - fileID: 676
+    classID: 74
+    packedSize: 2868
+    offset: 849495376
+    sourceAssetGUID: 3808227c06628cd42920ae2ac935397f
+    buildTimeAssetPath: Assets/Animation/New Animation.anim
+  - fileID: 677
+    classID: 74
+    packedSize: 2400
+    offset: 849498248
+    sourceAssetGUID: f5846a744a9a74a45874d62d05c6daee
+    buildTimeAssetPath: Assets/Animations/GreenShroomPulse.anim
+  - fileID: 678
+    classID: 74
+    packedSize: 3484
+    offset: 849500648
+    sourceAssetGUID: 3555863ff4ef948e298b8d11ea795ec4
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/ASHAMED.anim
+  - fileID: 679
+    classID: 74
+    packedSize: 2684
+    offset: 849504136
+    sourceAssetGUID: aaf4f40e5f852472f9eb781bef3a2c17
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/MTH_A.anim
+  - fileID: 680
+    classID: 74
+    packedSize: 2684
+    offset: 849506824
+    sourceAssetGUID: 63e3bd86527074923b9dc38ddb715245
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/MTH_E.anim
+  - fileID: 681
+    classID: 74
+    packedSize: 2684
+    offset: 849509512
+    sourceAssetGUID: 5da03c4c995e34f35a8c17702e9d6012
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/MTH_I.anim
+  - fileID: 682
+    classID: 74
+    packedSize: 2684
+    offset: 849512200
+    sourceAssetGUID: 8564dc45968774e70ad835503fda627e
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/MTH_O.anim
+  - fileID: 683
+    classID: 74
+    packedSize: 2684
+    offset: 849514888
+    sourceAssetGUID: 69a5af149623d4592b3764b7cb6a7482
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/MTH_U.anim
+  - fileID: 684
+    classID: 74
+    packedSize: 3484
+    offset: 849517576
+    sourceAssetGUID: a20620e3db1a64f2f9a3e3339b884479
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/SURPRISE.anim
+  - fileID: 685
+    classID: 74
+    packedSize: 3492
+    offset: 849521064
+    sourceAssetGUID: 689da6f371ad8441395f39acaf2c7ae3
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/angry1@unitychan.anim
+  - fileID: 686
+    classID: 74
+    packedSize: 3492
+    offset: 849524560
+    sourceAssetGUID: 66c6a39c175f346f6b2e3016fa5ae35b
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/angry2@unitychan.anim
+  - fileID: 687
+    classID: 74
+    packedSize: 3492
+    offset: 849528056
+    sourceAssetGUID: 2d64a878e09fc46ce9d3079357ebb3a5
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/conf@unitychan.anim
+  - fileID: 688
+    classID: 74
+    packedSize: 3496
+    offset: 849531552
+    sourceAssetGUID: 6394472d24c9347e5bb789ec1f15e5bb
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/default@unitychan.anim
+  - fileID: 689
+    classID: 74
+    packedSize: 3496
+    offset: 849535048
+    sourceAssetGUID: fc07439899bf64b59b05471e3d59be6a
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/disstract1@unitychan.anim
+  - fileID: 690
+    classID: 74
+    packedSize: 3496
+    offset: 849538544
+    sourceAssetGUID: 4f32f4345ffde43aca2270c41dcf6e81
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/disstract2@unitychan.anim
+  - fileID: 691
+    classID: 74
+    packedSize: 3496
+    offset: 849542040
+    sourceAssetGUID: 73cb3ae8fc1de47a0a307cb5f95ec701
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/eye_close@unitychan.anim
+  - fileID: 692
+    classID: 74
+    packedSize: 3492
+    offset: 849545536
+    sourceAssetGUID: ff0ec808b24b748e482e13ebfc9305ad
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/sap@unitychan.anim
+  - fileID: 693
+    classID: 74
+    packedSize: 3492
+    offset: 849549032
+    sourceAssetGUID: 06b76ba9895174fc19d91c361e7c911b
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/smile1@unitychan.anim
+  - fileID: 694
+    classID: 74
+    packedSize: 3492
+    offset: 849552528
+    sourceAssetGUID: 901d9b98ec9a64ade8f264b6e32c1341
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/smile2@unitychan.anim
+  - fileID: 695
+    classID: 74
+    packedSize: 38004
+    offset: 849556024
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 696
+    classID: 74
+    packedSize: 36356
+    offset: 849594032
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 697
+    classID: 74
+    packedSize: 37220
+    offset: 849630392
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 698
+    classID: 74
+    packedSize: 36300
+    offset: 849667616
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 699
+    classID: 74
+    packedSize: 37668
+    offset: 849703920
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 700
+    classID: 74
+    packedSize: 36132
+    offset: 849741592
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 701
+    classID: 74
+    packedSize: 37444
+    offset: 849777728
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 702
+    classID: 74
+    packedSize: 35404
+    offset: 849815176
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 703
+    classID: 74
+    packedSize: 37892
+    offset: 849850584
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 704
+    classID: 74
+    packedSize: 37028
+    offset: 849888480
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 705
+    classID: 74
+    packedSize: 38564
+    offset: 849925512
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 706
+    classID: 74
+    packedSize: 35572
+    offset: 849964080
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 707
+    classID: 74
+    packedSize: 38116
+    offset: 849999656
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 708
+    classID: 74
+    packedSize: 36524
+    offset: 850037776
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 709
+    classID: 74
+    packedSize: 36100
+    offset: 850074304
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 710
+    classID: 74
+    packedSize: 36132
+    offset: 850110408
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 711
+    classID: 74
+    packedSize: 37668
+    offset: 850146544
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 712
+    classID: 74
+    packedSize: 35236
+    offset: 850184216
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 713
+    classID: 74
+    packedSize: 38340
+    offset: 850219456
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 714
+    classID: 74
+    packedSize: 35684
+    offset: 850257800
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 715
+    classID: 74
+    packedSize: 38564
+    offset: 850293488
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 716
+    classID: 74
+    packedSize: 36076
+    offset: 850332056
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 717
+    classID: 74
+    packedSize: 37892
+    offset: 850368136
+    sourceAssetGUID: e8397bfde2758f942a04edaaf7ad57ec
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose1.fbx
+  - fileID: 718
+    classID: 74
+    packedSize: 36804
+    offset: 850406032
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 719
+    classID: 74
+    packedSize: 37028
+    offset: 850442840
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 720
+    classID: 74
+    packedSize: 37420
+    offset: 850479872
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 721
+    classID: 74
+    packedSize: 37252
+    offset: 850517296
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 722
+    classID: 74
+    packedSize: 38956
+    offset: 850554552
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 723
+    classID: 74
+    packedSize: 40300
+    offset: 850593512
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 724
+    classID: 74
+    packedSize: 40804
+    offset: 850633816
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 725
+    classID: 74
+    packedSize: 40748
+    offset: 850674624
+    sourceAssetGUID: edd51f298e7994c498b99bd24c098f52
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/unitychan_ARpose2.fbx
+  - fileID: 726
+    classID: 90
+    packedSize: 65252
+    offset: 850715376
+    sourceAssetGUID: 8f0565f23a2b58541a475bd3c1393052
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Models/unitychan.fbx
+  - fileID: 727
+    classID: 90
+    packedSize: 47020
+    offset: 850780632
+    sourceAssetGUID: f81e8172c337a714894d6fdbd0900d8d
+    buildTimeAssetPath: Assets/VRCSDK/Examples3/Dynamics/Robot Avatar/Tutorial_Robot_Avatar_Dynamics_Demo_v1.fbx
+  - fileID: 728
+    classID: 91
+    packedSize: 432
+    offset: 850827656
+    sourceAssetGUID: d39bd72f15ac03e4eb69ed9c1776f711
+    buildTimeAssetPath: Assets/Animation/LifeCrystal.controller
+  - fileID: 729
+    classID: 91
+    packedSize: 432
+    offset: 850828088
+    sourceAssetGUID: 426732c173aa56e47aadb6bf91b4a5d3
+    buildTimeAssetPath: Assets/Animations/toBackstage.controller
+  - fileID: 730
+    classID: 91
+    packedSize: 18836
+    offset: 850828520
+    sourceAssetGUID: 3173dc991e314594abd6180b45c49c92
+    buildTimeAssetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanARPose.controller
+  - fileID: 731
+    classID: 115
+    packedSize: 96
+    offset: 183424
+    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCCore-Editor.dll
+  - fileID: 732
+    classID: 115
+    packedSize: 108
+    offset: 183520
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Assets/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 733
+    classID: 115
+    packedSize: 120
+    offset: 183632
+    sourceAssetGUID: 03afcff0c1e9bee4f8c9e97428da7b81
+    buildTimeAssetPath: Assets/MeshCombineStudio/Scripts/Misc/CachedComponents.cs
+  - fileID: 734
+    classID: 115
+    packedSize: 96
+    offset: 183752
+    sourceAssetGUID: 0cd44c1031e13a943bb63640046fad76
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
+  - fileID: 735
+    classID: 115
+    packedSize: 72
+    offset: 183848
+    sourceAssetGUID: 201619ebd3043794d8bc7322baa60e5f
+    buildTimeAssetPath: Assets/U#/DoorTP.cs
+  - fileID: 736
+    classID: 115
+    packedSize: 144
+    offset: 183920
+    sourceAssetGUID: 30f4b897495c7ad40b2d47143e02aaba
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessResources.cs
+  - fileID: 737
+    classID: 115
+    packedSize: 120
+    offset: 184064
+    sourceAssetGUID: 3b7e55015fbe3744194bad47f01e3786
+    buildTimeAssetPath: Assets/Labthe3rd/Party Zone Keypad/Script/TagDistribution.cs
+  - fileID: 738
+    classID: 115
+    packedSize: 120
+    offset: 184184
+    sourceAssetGUID: 3e72c6f397f46114ca26e357c0ff7e27
+    buildTimeAssetPath: Assets/MeshCombineStudio/Scripts/LODGroups/LODGroupSetup.cs
+  - fileID: 739
+    classID: 115
+    packedSize: 88
+    offset: 184304
+    sourceAssetGUID: 45115577ef41a5b4ca741ed302693907
+    buildTimeAssetPath: Assets/Udon/UdonBehaviour.cs
+  - fileID: 740
+    classID: 115
+    packedSize: 120
+    offset: 184392
+    sourceAssetGUID: 48a79b01ea5641d4aa6daa2e23605641
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/Bloom.cs
+  - fileID: 741
+    classID: 115
+    packedSize: 120
+    offset: 184512
+    sourceAssetGUID: 50cc209eadb3f1047910d65fb6470035
+    buildTimeAssetPath: Assets/MeshCombineStudio/Scripts/Mesh/MeshCombinerData.cs
+  - fileID: 742
+    classID: 115
+    packedSize: 96
+    offset: 184632
+    sourceAssetGUID: 57f24a4aaa0761b45ba25e7e5108e2c7
+    buildTimeAssetPath: Assets/Bakery/BakeryPointLight.cs
+  - fileID: 743
+    classID: 115
+    packedSize: 128
+    offset: 184728
+    sourceAssetGUID: 585afa5e7b5db2c42986fb8e6960e8d7
+    buildTimeAssetPath: Assets/MeshCombineStudio/Scripts/Misc/GarbageCollectMesh.cs
+  - fileID: 744
+    classID: 115
+    packedSize: 100
+    offset: 184856
+    sourceAssetGUID: 71c1514a6bd24e1e882cebbe1904ce04
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+  - fileID: 745
+    classID: 115
+    packedSize: 92
+    offset: 184960
+    sourceAssetGUID: 7b41ee064d6f3b94aa727cb2777a0949
+    buildTimeAssetPath: Assets/NOT_Lonely/Advanced Cable Creator/ACC_Cable.cs
+  - fileID: 746
+    classID: 115
+    packedSize: 92
+    offset: 185056
+    sourceAssetGUID: 81244ea4d5151c74d90f8acc04973911
+    buildTimeAssetPath: Assets/NOT_Lonely/Advanced Cable Creator/ACC_Trail.cs
+  - fileID: 747
+    classID: 115
+    packedSize: 108
+    offset: 185152
+    sourceAssetGUID: 898d88be1bf089b4c907a620a5acd53d
+    buildTimeAssetPath: Assets/Labthe3rd/Party Zone Keypad/Script/Keypad_Main.cs
+  - fileID: 748
+    classID: 115
+    packedSize: 92
+    offset: 185264
+    sourceAssetGUID: 89e3c0fe423d96242ac6f8c9cbd383be
+    buildTimeAssetPath: Assets/NOT_Lonely/Advanced Cable Creator/ACC_Sequence.cs
+  - fileID: 749
+    classID: 115
+    packedSize: 144
+    offset: 185360
+    sourceAssetGUID: 8b9a305e18de0c04dbd257a21cd47087
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessVolume.cs
+  - fileID: 750
+    classID: 115
+    packedSize: 144
+    offset: 185504
+    sourceAssetGUID: 8e6292b2c06870d4495f009f912b9600
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessProfile.cs
+  - fileID: 751
+    classID: 115
+    packedSize: 136
+    offset: 185648
+    sourceAssetGUID: 948f4100a11a5c24981795d21301da5c
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessLayer.cs
+  - fileID: 752
+    classID: 115
+    packedSize: 92
+    offset: 185784
+    sourceAssetGUID: 9541d86e2fd84c1d9990edf0852d74ab
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshPro.cs
+  - fileID: 753
+    classID: 115
+    packedSize: 96
+    offset: 185880
+    sourceAssetGUID: a28e27cacfc7e70479097f0a63c37217
+    buildTimeAssetPath: Assets/Bakery/BakeryLightMesh.cs
+  - fileID: 754
+    classID: 115
+    packedSize: 128
+    offset: 185976
+    sourceAssetGUID: adb84e30e02715445aeb9959894e3b4d
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/ColorGrading.cs
+  - fileID: 755
+    classID: 115
+    packedSize: 128
+    offset: 186104
+    sourceAssetGUID: b3f6f3f7c722b4544b97e3c75840aa33
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/AutoExposure.cs
+  - fileID: 756
+    classID: 115
+    packedSize: 104
+    offset: 186232
+    sourceAssetGUID: b7fa80e7116296f4eb4f49ec1544ee22
+    buildTimeAssetPath: Assets/Bakery/ftLightmapsStorage.cs
+  - fileID: 757
+    classID: 115
+    packedSize: 128
+    offset: 186336
+    sourceAssetGUID: bf61d954ecb803046953c666facfb904
+    buildTimeAssetPath: Assets/Udon/ProgramSources/SerializedUdonProgramAsset.cs
+  - fileID: 758
+    classID: 115
+    packedSize: 104
+    offset: 186464
+    sourceAssetGUID: c74ce2158ae608549902afb4112fd042
+    buildTimeAssetPath: Assets/Bakery/BakeryDirectLight.cs
+  - fileID: 759
+    classID: 115
+    packedSize: 112
+    offset: 186568
+    sourceAssetGUID: c7fb52db265e28e4eb22d6300d01e030
+    buildTimeAssetPath: Assets/MeshCombineStudio/Scripts/Mesh/MeshCombiner.cs
+  - fileID: 760
+    classID: 115
+    packedSize: 104
+    offset: 186680
+    sourceAssetGUID: dc42784cf147c0c48a680349fa168899
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
+  - fileID: 761
+    classID: 115
+    packedSize: 128
+    offset: 186784
+    sourceAssetGUID: f09961fe3bd68ac4a920d23d505174de
+    buildTimeAssetPath: Assets/MeshCombineStudio/Scripts/RemoveOverlap/RandomizeTransform.cs
+  - fileID: 762
+    classID: 115
+    packedSize: 100
+    offset: 186912
+    sourceAssetGUID: f4688fdb7df04437aeb418b961361dc5
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+  - fileID: 763
+    classID: 128
+    packedSize: 352462
+    offset: 850847360
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 764
+    classID: 258
+    packedSize: 45584
+    offset: 851199824
+    sourceAssetGUID: 25962d7650c0f914f84b44ca497992a5
+    buildTimeAssetPath: Assets/BakeryLightmaps/ForestClear_371857150_probes.asset
+  - fileID: 765
+    classID: 1
+    packedSize: 95
+    offset: 851245408
+    sourceAssetGUID: 66c2bee521d7aa84099472825a33310e
+    buildTimeAssetPath: Assets/MeshCombineStudio/Sources/InstantiatePrefab.prefab
+  - fileID: 766
+    classID: 4
+    packedSize: 68
+    offset: 851245504
+    sourceAssetGUID: 66c2bee521d7aa84099472825a33310e
+    buildTimeAssetPath: Assets/MeshCombineStudio/Sources/InstantiatePrefab.prefab
+  - fileID: 767
+    classID: 23
+    packedSize: 140
+    offset: 851245576
+    sourceAssetGUID: 66c2bee521d7aa84099472825a33310e
+    buildTimeAssetPath: Assets/MeshCombineStudio/Sources/InstantiatePrefab.prefab
+  - fileID: 768
+    classID: 33
+    packedSize: 24
+    offset: 851245720
+    sourceAssetGUID: 66c2bee521d7aa84099472825a33310e
+    buildTimeAssetPath: Assets/MeshCombineStudio/Sources/InstantiatePrefab.prefab
+  - fileID: 769
+    classID: 1953259897
+    packedSize: 156
+    offset: 851245744
+    sourceAssetGUID: 17357d732d5a25b45b82e09e2df921d1
+    buildTimeAssetPath: Assets/Blink/Art/Textures/RealisticForestTextures/Grass_Flowers/NewLayer.terrainlayer
+  - fileID: 770
+    classID: 114
+    packedSize: 5600
+    offset: 851245904
+    sourceAssetGUID: 013108b7829f0b44fb6dd24260d12a79
+    buildTimeAssetPath: Assets/Labthe3rd/Party Zone Keypad/Font/Roboto Bold Keypad.asset
+  - fileID: 771
+    classID: 114
+    packedSize: 88
+    offset: 851251504
+    sourceAssetGUID: 1008826e57bd81e43bf80fabe2ea2df9
+    buildTimeAssetPath: Assets/Post Processing/SilentProfile.asset
+  - fileID: 772
+    classID: 114
+    packedSize: 83228
+    offset: 851251592
+    sourceAssetGUID: 10987cbdb0cfaa346819d4f5c67cef81
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/2a3be3e66af13f24ea70ca72b490ec6e.asset
+  - fileID: 773
+    classID: 114
+    packedSize: 41636
+    offset: 851334824
+    sourceAssetGUID: 88a48abb535aa804c9f08d7ede5149c1
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/35441840598a2fc43882ae92968d313f.asset
+  - fileID: 774
+    classID: 114
+    packedSize: 13136
+    offset: 851376464
+    sourceAssetGUID: 6865d607ac51f56469ef42f4f66e09e0
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/51b2de1602266874da29c808d95bb478.asset
+  - fileID: 775
+    classID: 114
+    packedSize: 9616
+    offset: 851389600
+    sourceAssetGUID: 572414153bdfa4647b1b3c8964950409
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/8ab95e65c4d567a489749fa5e45b3413.asset
+  - fileID: 776
+    classID: 114
+    packedSize: 9616
+    offset: 851399216
+    sourceAssetGUID: 5bf272e50e9ee4c47913be280de5bd5e
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/afd3d1056d8be2343bca9e7852a4f740.asset
+  - fileID: 777
+    classID: 114
+    packedSize: 17068
+    offset: 851408832
+    sourceAssetGUID: d39a0a13a2e686740a328d05d8b0b058
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/c8df303ceb45ae84f85a11591f741734.asset
+  - fileID: 778
+    classID: 114
+    packedSize: 15264
+    offset: 851425904
+    sourceAssetGUID: a0cae384aa087f64c9e96412a7ae38df
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/d55fd8855e96d5742a15b8d21d8e6ca7.asset
+  - fileID: 779
+    classID: 114
+    packedSize: 1152
+    offset: 851441168
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 780
+    classID: 114
+    packedSize: 27760
+    offset: 851442320
+    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF.asset
+  - fileID: 781
+    classID: 114
+    packedSize: 1380
+    offset: 851470080
+    sourceAssetGUID: d82512f9c8e5d4a4d938b575d47f88d4
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/PostProcessResources.asset
+  - fileID: 782
+    classID: 114
+    packedSize: 156
+    offset: 851471464
+    sourceAssetGUID: 1008826e57bd81e43bf80fabe2ea2df9
+    buildTimeAssetPath: Assets/Post Processing/SilentProfile.asset
+  - fileID: 783
+    classID: 114
+    packedSize: 116
+    offset: 851471624
+    sourceAssetGUID: 1008826e57bd81e43bf80fabe2ea2df9
+    buildTimeAssetPath: Assets/Post Processing/SilentProfile.asset
+  - fileID: 784
+    classID: 114
+    packedSize: 4984
+    offset: 851471744
+    sourceAssetGUID: 1008826e57bd81e43bf80fabe2ea2df9
+    buildTimeAssetPath: Assets/Post Processing/SilentProfile.asset
+  - fileID: 785
+    classID: 114
+    packedSize: 92
+    offset: 851476728
+    sourceAssetGUID: 66c2bee521d7aa84099472825a33310e
+    buildTimeAssetPath: Assets/MeshCombineStudio/Sources/InstantiatePrefab.prefab
+  - fileID: 786
+    classID: 114
+    packedSize: 44
+    offset: 851476824
+    sourceAssetGUID: 66c2bee521d7aa84099472825a33310e
+    buildTimeAssetPath: Assets/MeshCombineStudio/Sources/InstantiatePrefab.prefab
+  - fileID: 787
+    classID: 156
+    packedSize: 839372
+    offset: 851476872
+    sourceAssetGUID: 84a0e137e36f87f4cad7fce281b7734a
+    buildTimeAssetPath: Assets/New Terrain 2.asset
