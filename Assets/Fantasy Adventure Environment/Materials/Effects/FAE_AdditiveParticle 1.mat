@@ -8,10 +8,10 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: FAE_AdditiveParticle 1
-  m_Shader: {fileID: 4800000, guid: ae33cd5657d97ea4198558b6c91d0e3e, type: 3}
+  m_Shader: {fileID: 4800000, guid: bfb57ac73abf48f4b95171f3c88fd46c, type: 3}
   m_ShaderKeywords: _ALPHABLEND_ON _EMISSION _FADING_ON
   m_LightmapFlags: 0
-  m_EnableInstancingVariants: 0
+  m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
@@ -73,7 +73,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _AudioHueShift: 0
-    - _Band: 3
+    - _Band: 0
     - _BlendOp: 0
     - _BumpScale: 1
     - _CameraFadingEnabled: 1
@@ -88,7 +88,7 @@ Material:
     - _DistortionStrength: 1
     - _DistortionStrengthScaled: 0
     - _DstBlend: 1
-    - _Emission: 20
+    - _Emission: 25
     - _EmissionEnabled: 1
     - _Fadedistance: 0.5
     - _FlipbookMode: 0
@@ -118,7 +118,7 @@ Material:
     m_Colors:
     - _CameraFadeParams: {r: 1, g: 1, b: 0, a: 0}
     - _Color: {r: 4, g: 4, b: 4, a: 1}
-    - _EmissionColor: {r: 0.3778152, g: 0, b: 3.9999995, a: 1}
+    - _EmissionColor: {r: 1.1921569, g: 0, b: 11.984314, a: 1}
     - _SoftParticleFadeParams: {r: 0, g: 1, b: 0, a: 0}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
     - _TintColor: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
