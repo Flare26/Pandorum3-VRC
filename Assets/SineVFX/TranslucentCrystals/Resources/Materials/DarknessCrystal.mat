@@ -122,8 +122,8 @@ Material:
     - _ZWrite: 1
     - __dirty: 0
     m_Colors:
-    - _Color: {r: 1, g: 0.25, b: 0.97727275, a: 1}
+    - _Color: {r: 0.46053314, g: 0, b: 1, a: 1}
     - _ColorTint: {r: 1, g: 0.13333334, b: 0.13333334, a: 1}
     - _ColorTint1: {r: 0.3602941, g: 0.036735874, b: 0, a: 1}
     - _ColorTint2: {r: 1, g: 0.10980393, b: 0.007843138, a: 1}
-    - _EmissionColor: {r: 1, g: 0.24999997, b: 0.9772727, a: 1}
+    - _EmissionColor: {r: 0.46053308, g: 0, b: 1, a: 1}

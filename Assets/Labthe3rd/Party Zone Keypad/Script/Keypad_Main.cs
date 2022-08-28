@@ -8,6 +8,8 @@ using TMPro;
 
 namespace Labthe3rd.Keypad.Keypad_Main
 {
+    // bugfixed and improved by n8bits
+    
     [UdonBehaviourSyncMode(BehaviourSyncMode.Manual)]
     public class Keypad_Main : UdonSharpBehaviour
     {
@@ -52,14 +54,15 @@ namespace Labthe3rd.Keypad.Keypad_Main
             {
                 if (!string.IsNullOrEmpty(inputString))
                 {
-                    if (inputString == adminPassword)
+                    if (inputString.Equals(adminPassword))
                     {
                         Debug.Log("Correct Admin Password Entered");
+
                         for (int i = 0; i < adminObjects.Length; i++)
                         {
                             if (Utilities.IsValid(adminObjects[i]))
                             {
-                                adminObjects[i].SetActive(true);
+                                adminObjects[i].SetActive(!adminObjects[i].activeSelf);
                             }
                         }
                         Debug.Log("Enabling Staff Objects");
@@ -67,7 +70,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                         {
                             if (Utilities.IsValid(staffObjects[i]))
                             {
-                                staffObjects[i].SetActive(true);
+                                staffObjects[i].SetActive(!staffObjects[i].activeSelf);
                             }
                         }
                         Debug.Log("Enabling DJ Objects");
@@ -75,7 +78,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                         {
                             if (Utilities.IsValid(dJObjects[i]))
                             {
-                                dJObjects[i].SetActive(true);
+                                dJObjects[i].SetActive(!dJObjects[i].activeSelf);
                             }
                         }
                         Debug.Log("Enabling VIP Objects");
@@ -83,16 +86,16 @@ namespace Labthe3rd.Keypad.Keypad_Main
                         {
                             if (Utilities.IsValid(vIPObjects[i]))
                             {
-                                vIPObjects[i].SetActive(true);
+                                vIPObjects[i].SetActive(!vIPObjects[i].activeSelf);
                             }
                         }
                         loggedIn = true;
-                        Networking.LocalPlayer.SetPlayerTag("Position", "Admin");
                         InputScreen.text = "ADMIN LOGGED IN";
+                        Networking.LocalPlayer.SetPlayerTag("Position", "Admin");
                         inputString = "";
                     }
 
-                    if (inputString == staffPassword)
+                    else if (inputString == staffPassword)
                     {
                         Debug.Log("Correct Staff Password Entered");
                         for (int i = 0; i < staffObjects.Length; i++)

@@ -162,7 +162,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 0.41911763, g: 0.7160129, b: 1, a: 1}
+  m_Color: {r: 0.46053308, g: 0, b: 1, a: 1}
   m_Intensity: 2
   m_Range: 10
   m_SpotAngle: 30
@@ -272,7 +272,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UID: 1664821076
-  color: {r: 0.7444401, g: 0, b: 1, a: 1}
+  color: {r: 0.46053308, g: 0, b: 1, a: 1}
   intensity: 1
   texture: {fileID: 0}
   cutoff: 100

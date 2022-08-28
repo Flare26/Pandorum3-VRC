@@ -67,7 +67,7 @@ Material:
     - _Float1: 1
     - _Float3: 0.2
     - _GlossMapScale: 1
-    - _Glossiness: 0.2
+    - _Glossiness: 0.083
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
