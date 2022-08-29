@@ -188,9 +188,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a28e27cacfc7e70479097f0a63c37217, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  UID: -2142983080
+  UID: -440634063
   color: {r: 0.9960785, g: 0.67058825, b: 0.30980393, a: 1}
-  intensity: 5
+  intensity: 4
   texture: {fileID: 0}
   cutoff: 20
   samples: 256
@@ -306,9 +306,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a28e27cacfc7e70479097f0a63c37217, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  UID: 80783794
+  UID: 1783669849
   color: {r: 0.9960785, g: 0.67058825, b: 0.30980393, a: 1}
-  intensity: 5
+  intensity: 4
   texture: {fileID: 0}
   cutoff: 20
   samples: 256
@@ -424,9 +424,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a28e27cacfc7e70479097f0a63c37217, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  UID: 2080763331
+  UID: -40543187
   color: {r: 0.9960785, g: 0.67058825, b: 0.30980393, a: 1}
-  intensity: 5
+  intensity: 4
   texture: {fileID: 0}
   cutoff: 20
   samples: 256

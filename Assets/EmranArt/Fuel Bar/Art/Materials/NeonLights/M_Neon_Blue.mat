@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: M_Neon_Blue
   m_Shader: {fileID: 4800000, guid: 0b7113dea2069fc4e8943843eff19f70, type: 3}
-  m_ShaderKeywords: _NORMALMAP_TANGENT_SPACE _SPECULARHIGHLIGHTS_OFF
+  m_ShaderKeywords: _EMISSION _NORMALMAP_TANGENT_SPACE _SPECULARHIGHLIGHTS_OFF
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -170,7 +170,7 @@ Material:
     - _EmissiveIntensity: 4
     - _EmissiveIntensityUnit: 1
     - _EnableBlendModePreserveSpecularLighting: 1
-    - _EnableEmission: 0
+    - _EnableEmission: 1
     - _EnableFogOnTransparent: 1
     - _EnableGeometricSpecularAA: 0
     - _EnergyConservingSpecularColor: 1
@@ -249,7 +249,7 @@ Material:
     - _Color: {r: 0, g: 0.6996205, b: 1, a: 1}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
-    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0.69803923, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 1.176588, b: 4, a: 4}
     - _EmissiveColorLDR: {r: 0, g: 0.294147, b: 1, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
