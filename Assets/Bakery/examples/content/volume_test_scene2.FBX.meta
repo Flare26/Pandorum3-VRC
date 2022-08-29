@@ -1,305 +1,111 @@
 fileFormatVersion: 2
 guid: a1bf24992630bed49853287954d9badd
+timeCreated: 1605883894
+licenseType: Store
 ModelImporter:
-  serializedVersion: 19301
-  internalIDToNameTable:
-  - first:
-      1: 100000
-    second: acid
-  - first:
-      1: 100002
-    second: cornellElevator
-  - first:
-      1: 100004
-    second: cornellLightMesh
-  - first:
-      1: 100006
-    second: door
-  - first:
-      1: 100008
-    second: door001
-  - first:
-      1: 100010
-    second: lava
-  - first:
-      1: 100012
-    second: lightMesh
-  - first:
-      1: 100014
-    second: lightMesh001
-  - first:
-      1: 100016
-    second: lightMesh002
-  - first:
-      1: 100018
-    second: lightMesh003
-  - first:
-      1: 100020
-    second: lightMesh004
-  - first:
-      1: 100022
-    second: roomAcid
-  - first:
-      1: 100024
-    second: roomGlobal
-  - first:
-      1: 100026
-    second: roomLava
-  - first:
-      1: 100028
-    second: roomLocal
-  - first:
-      1: 100030
-    second: roomLocal001
-  - first:
-      1: 100032
-    second: roomLocal002
-  - first:
-      1: 100034
-    second: //RootNode
-  - first:
-      1: 100036
-    second: main001
-  - first:
-      1: 100038
-    second: secondFloor
-  - first:
-      4: 400000
-    second: acid
-  - first:
-      4: 400002
-    second: cornellElevator
-  - first:
-      4: 400004
-    second: cornellLightMesh
-  - first:
-      4: 400006
-    second: door
-  - first:
-      4: 400008
-    second: door001
-  - first:
-      4: 400010
-    second: lava
-  - first:
-      4: 400012
-    second: lightMesh
-  - first:
-      4: 400014
-    second: lightMesh001
-  - first:
-      4: 400016
-    second: lightMesh002
-  - first:
-      4: 400018
-    second: lightMesh003
-  - first:
-      4: 400020
-    second: lightMesh004
-  - first:
-      4: 400022
-    second: roomAcid
-  - first:
-      4: 400024
-    second: roomGlobal
-  - first:
-      4: 400026
-    second: roomLava
-  - first:
-      4: 400028
-    second: roomLocal
-  - first:
-      4: 400030
-    second: roomLocal001
-  - first:
-      4: 400032
-    second: roomLocal002
-  - first:
-      4: 400034
-    second: //RootNode
-  - first:
-      4: 400036
-    second: main001
-  - first:
-      4: 400038
-    second: secondFloor
-  - first:
-      23: 2300000
-    second: acid
-  - first:
-      23: 2300002
-    second: cornellElevator
-  - first:
-      23: 2300004
-    second: cornellLightMesh
-  - first:
-      23: 2300006
-    second: door
-  - first:
-      23: 2300008
-    second: door001
-  - first:
-      23: 2300010
-    second: lava
-  - first:
-      23: 2300012
-    second: lightMesh
-  - first:
-      23: 2300014
-    second: lightMesh001
-  - first:
-      23: 2300016
-    second: lightMesh002
-  - first:
-      23: 2300018
-    second: lightMesh003
-  - first:
-      23: 2300020
-    second: lightMesh004
-  - first:
-      23: 2300022
-    second: roomAcid
-  - first:
-      23: 2300024
-    second: roomGlobal
-  - first:
-      23: 2300026
-    second: roomLava
-  - first:
-      23: 2300028
-    second: roomLocal
-  - first:
-      23: 2300030
-    second: roomLocal001
-  - first:
-      23: 2300032
-    second: roomLocal002
-  - first:
-      23: 2300034
-    second: main001
-  - first:
-      33: 3300000
-    second: acid
-  - first:
-      33: 3300002
-    second: cornellElevator
-  - first:
-      33: 3300004
-    second: cornellLightMesh
-  - first:
-      33: 3300006
-    second: door
-  - first:
-      33: 3300008
-    second: door001
-  - first:
-      33: 3300010
-    second: lava
-  - first:
-      33: 3300012
-    second: lightMesh
-  - first:
-      33: 3300014
-    second: lightMesh001
-  - first:
-      33: 3300016
-    second: lightMesh002
-  - first:
-      33: 3300018
-    second: lightMesh003
-  - first:
-      33: 3300020
-    second: lightMesh004
-  - first:
-      33: 3300022
-    second: roomAcid
-  - first:
-      33: 3300024
-    second: roomGlobal
-  - first:
-      33: 3300026
-    second: roomLava
-  - first:
-      33: 3300028
-    second: roomLocal
-  - first:
-      33: 3300030
-    second: roomLocal001
-  - first:
-      33: 3300032
-    second: roomLocal002
-  - first:
-      33: 3300034
-    second: main001
-  - first:
-      43: 4300000
-    second: roomGlobal
-  - first:
-      43: 4300002
-    second: roomLocal
-  - first:
-      43: 4300004
-    second: lightMesh
-  - first:
-      43: 4300006
-    second: cornellElevator
-  - first:
-      43: 4300008
-    second: cornellLightMesh
-  - first:
-      43: 4300010
-    second: door
-  - first:
-      43: 4300012
-    second: door001
-  - first:
-      43: 4300014
-    second: roomLocal001
-  - first:
-      43: 4300016
-    second: lightMesh001
-  - first:
-      43: 4300018
-    second: roomAcid
-  - first:
-      43: 4300020
-    second: acid
-  - first:
-      43: 4300022
-    second: lightMesh002
-  - first:
-      43: 4300024
-    second: roomLava
-  - first:
-      43: 4300026
-    second: lightMesh003
-  - first:
-      43: 4300028
-    second: lava
-  - first:
-      43: 4300030
-    second: roomLocal002
-  - first:
-      43: 4300032
-    second: lightMesh004
-  - first:
-      43: 4300034
-    second: main001
-  - first:
-      74: 7400000
-    second: Take 001
-  - first:
-      95: 9500000
-    second: //RootNode
-  - first:
-      111: 11100000
-    second: //RootNode
-  externalObjects: {}
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: acid
+    100002: cornellElevator
+    100004: cornellLightMesh
+    100006: door
+    100008: door001
+    100010: lava
+    100012: lightMesh
+    100014: lightMesh001
+    100016: lightMesh002
+    100018: lightMesh003
+    100020: lightMesh004
+    100022: roomAcid
+    100024: roomGlobal
+    100026: roomLava
+    100028: roomLocal
+    100030: roomLocal001
+    100032: roomLocal002
+    100034: //RootNode
+    100036: main001
+    100038: secondFloor
+    400000: acid
+    400002: cornellElevator
+    400004: cornellLightMesh
+    400006: door
+    400008: door001
+    400010: lava
+    400012: lightMesh
+    400014: lightMesh001
+    400016: lightMesh002
+    400018: lightMesh003
+    400020: lightMesh004
+    400022: roomAcid
+    400024: roomGlobal
+    400026: roomLava
+    400028: roomLocal
+    400030: roomLocal001
+    400032: roomLocal002
+    400034: //RootNode
+    400036: main001
+    400038: secondFloor
+    2300000: acid
+    2300002: cornellElevator
+    2300004: cornellLightMesh
+    2300006: door
+    2300008: door001
+    2300010: lava
+    2300012: lightMesh
+    2300014: lightMesh001
+    2300016: lightMesh002
+    2300018: lightMesh003
+    2300020: lightMesh004
+    2300022: roomAcid
+    2300024: roomGlobal
+    2300026: roomLava
+    2300028: roomLocal
+    2300030: roomLocal001
+    2300032: roomLocal002
+    2300034: main001
+    3300000: acid
+    3300002: cornellElevator
+    3300004: cornellLightMesh
+    3300006: door
+    3300008: door001
+    3300010: lava
+    3300012: lightMesh
+    3300014: lightMesh001
+    3300016: lightMesh002
+    3300018: lightMesh003
+    3300020: lightMesh004
+    3300022: roomAcid
+    3300024: roomGlobal
+    3300026: roomLava
+    3300028: roomLocal
+    3300030: roomLocal001
+    3300032: roomLocal002
+    3300034: main001
+    4300000: roomGlobal
+    4300002: roomLocal
+    4300004: lightMesh
+    4300006: cornellElevator
+    4300008: cornellLightMesh
+    4300010: door
+    4300012: door001
+    4300014: roomLocal001
+    4300016: lightMesh001
+    4300018: roomAcid
+    4300020: acid
+    4300022: lightMesh002
+    4300024: roomLava
+    4300026: lightMesh003
+    4300028: lava
+    4300030: roomLocal002
+    4300032: lightMesh004
+    4300034: main001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
   materials:
-    materialImportMode: 0
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -312,20 +118,16 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
-    importAnimatedCustomProperties: 0
-    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
       name: Take 001
       takeName: Take 001
-      internalID: 0
       firstFrame: 0
       lastFrame: 1000
       wrapMode: 2
@@ -397,24 +199,13 @@ ModelImporter:
     globalScale: 0.2
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
-    importVisibility: 0
     importBlendShapes: 1
-    importCameras: 0
-    importLights: 0
-    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 1
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    meshOptimizationFlags: -1
-    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
@@ -424,14 +215,10 @@ ModelImporter:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 0
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
-    blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -441,16 +228,14 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.2
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 1
   humanoidOversampling: 1
-  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

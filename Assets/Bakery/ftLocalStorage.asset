@@ -14,6 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   modifiedAssetPathList:
   - Assets/Bakery/examples/content/sponza/sponza.FBX
-  - Assets/Free_Rocks/_models/cliff.fbx
-  - Assets/SineVFX/TranslucentCrystals/Resources/Meshes/TranslucentCrystal01.obj
-  modifiedAssetPaddingHash: d6a958ff353fd3d91067e2a8
+  modifiedAssetPaddingHash: d6a958ff
