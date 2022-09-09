@@ -22822,3 +22822,615 @@ Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA11_fina
 Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA12_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA12_final.hdr" 1024
 Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA13_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA13_final.hdr" 1024
 Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA14_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA14_final.hdr" 1024
+2022-9-7
+Rendering UV GBuffer for MAIN_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup Trees 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering UV GBuffer for LMGroup DancerCouches 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 0 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1473036309_2" 4 0 2 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1367702051_2" 4 0 2 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_754389482_2" 4 0 2 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-795123530_2" 4 0 2 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-644178797_2" 4 0 2 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-692854178_2" 4 0 2 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_2" 4 0 2 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches" 4 0 2 comp_2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1473036309_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1367702051_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_754389482_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-795123530_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-644178797_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-692854178_1" 4 0 1 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 1 comp_1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1473036309_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1367702051_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_754389482_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-795123530_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-644178797_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-692854178_0" 4 0 0 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches_final" 4 16 2 "gi_LMGroup DancerCouches0.bin" "LMGroup DancerCouches_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final" 4 16 1 "gi_LMGroup Trees0.bin" "LMGroup Trees_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final" 4 16 0 "gi_MAIN_LM00.bin" "MAIN_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "MAIN_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Done
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Running ftrace.exe interactive "C:\Users\natha\AppData\Local\Temp\frender" a 4 0 0 preview.bin
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Rendering UV GBuffer for MAIN_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup DancerCouches 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering UV GBuffer for LMGroup Trees 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 0 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_2" 4 0 2 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_2" 4 0 2 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_2" 4 0 2 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_2" 4 0 2 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_2" 4 0 2 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_2" 4 0 2 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_2" 4 0 2 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 2 comp_2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_1" 4 0 1 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches" 4 0 1 comp_1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_0" 4 0 0 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final" 4 16 2 "gi_LMGroup Trees0.bin" "LMGroup Trees_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches_final" 4 16 1 "gi_LMGroup DancerCouches0.bin" "LMGroup DancerCouches_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final" 4 16 0 "gi_MAIN_LM00.bin" "MAIN_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "MAIN_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Done
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Rendering UV GBuffer for MAIN_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup DancerCouches 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering UV GBuffer for LMGroup Trees 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 0 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_2" 4 0 2 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_2" 4 0 2 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_2" 4 0 2 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_2" 4 0 2 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_2" 4 0 2 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_2" 4 0 2 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_2" 4 0 2 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 2 comp_2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_1" 4 0 1 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches" 4 0 1 comp_1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_0" 4 0 0 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final" 4 16 2 "gi_LMGroup Trees0.bin" "LMGroup Trees_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches_final" 4 16 1 "gi_LMGroup DancerCouches0.bin" "LMGroup DancerCouches_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final" 4 16 0 "gi_MAIN_LM00.bin" "MAIN_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "MAIN_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Done
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Rendering UV GBuffer for MAIN_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup DancerCouches 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering UV GBuffer for LMGroup Trees 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 0 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_2" 4 0 2 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_2" 4 0 2 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_2" 4 0 2 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_2" 4 0 2 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_2" 4 0 2 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_2" 4 0 2 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_2" 4 0 2 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 2 comp_2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_1" 4 0 1 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches" 4 0 1 comp_1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_0" 4 0 0 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final" 4 16 2 "gi_LMGroup Trees0.bin" "LMGroup Trees_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches_final" 4 16 1 "gi_LMGroup DancerCouches0.bin" "LMGroup DancerCouches_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final" 4 16 0 "gi_MAIN_LM00.bin" "MAIN_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "MAIN_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Done
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Rendering UV GBuffer for MAIN_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup Trees 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 0 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_1" 4 0 1 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 1 comp_1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_0" 4 0 0 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final" 4 16 1 "gi_LMGroup Trees0.bin" "LMGroup Trees_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final" 4 16 0 "gi_MAIN_LM00.bin" "MAIN_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "MAIN_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Rendering UV GBuffer for LMGroup DancerCouches 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup Trees 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_LMGroup DancerCouches.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 1 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_0" 4 0 0 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace add "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches_final_HDR.lz4" 4 0 0 comp_0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_2" 4 0 2 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_2" 4 0 2 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_2" 4 0 2 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_2" 4 0 2 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_2" 4 0 2 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_2" 4 0 2 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_2" 4 0 2 direct0.bin
+Running ftrace add "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final_HDR.lz4" 4 0 2 comp_2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_1" 4 0 1 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace add "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final_HDR.lz4" 4 0 1 comp_1.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "LMGroup DancerCouches_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "MAIN_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/LMGroup DancerCouches_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Rendering UV GBuffer for LMGroup DancerCouches 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup Trees 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_LMGroup DancerCouches.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 1 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_2" 4 0 2 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_2" 4 0 2 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_2" 4 0 2 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_2" 4 0 2 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_2" 4 0 2 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_2" 4 0 2 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_2" 4 0 2 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 2 comp_2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_0" 4 0 0 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches" 4 0 0 comp_0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_1" 4 0 1 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0" 4 0 1 comp_1.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final" 4 16 2 "gi_LMGroup Trees0.bin" "LMGroup Trees_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches_final" 4 16 0 "gi_LMGroup DancerCouches0.bin" "LMGroup DancerCouches_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final" 4 16 1 "gi_MAIN_LM00.bin" "MAIN_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" 1024 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "LMGroup DancerCouches_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "MAIN_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/LMGroup DancerCouches_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Rendering UV GBuffer for LMGroup DancerCouches 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup Trees 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_LMGroup DancerCouches.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 1 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_2" 4 0 2 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_2" 4 0 2 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_2" 4 0 2 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_2" 4 0 2 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_2" 4 0 2 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_2" 4 0 2 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_2" 4 0 2 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 2 comp_2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_0" 4 0 0 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches" 4 0 0 comp_0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_1" 4 0 1 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0" 4 0 1 comp_1.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final" 4 16 2 "gi_LMGroup Trees0.bin" "LMGroup Trees_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches_final" 4 16 0 "gi_LMGroup DancerCouches0.bin" "LMGroup DancerCouches_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final" 4 16 1 "gi_MAIN_LM00.bin" "MAIN_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "LMGroup DancerCouches_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "MAIN_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/LMGroup DancerCouches_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Rendering UV GBuffer for MAIN_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup DancerCouches 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering UV GBuffer for LMGroup Trees 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 0 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_2" 4 0 2 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_2" 4 0 2 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_2" 4 0 2 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_2" 4 0 2 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_2" 4 0 2 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_2" 4 0 2 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_2" 4 0 2 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 2 comp_2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_1" 4 0 1 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches" 4 0 1 comp_1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_0" 4 0 0 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final" 4 16 2 "gi_LMGroup Trees0.bin" "LMGroup Trees_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches_final" 4 16 1 "gi_LMGroup DancerCouches0.bin" "LMGroup DancerCouches_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final" 4 16 0 "gi_MAIN_LM00.bin" "MAIN_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "MAIN_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Done
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 1
+Done
+Rendering UV GBuffer for MAIN_LM0 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup DancerCouches 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering UV GBuffer for LMGroup Trees 51
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 0 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_2" 4 0 2 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_2" 4 0 2 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_2" 4 0 2 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_2" 4 0 2 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_2" 4 0 2 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_2" 4 0 2 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_2" 4 0 2 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 2 comp_2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_1" 4 0 1 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches" 4 0 1 comp_1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_0" 4 0 0 lights5.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0" 4 0 0 comp_0.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final" 4 16 2 "gi_LMGroup Trees0.bin" "LMGroup Trees_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches_final" 4 16 1 "gi_LMGroup DancerCouches0.bin" "LMGroup DancerCouches_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final" 4 16 0 "gi_MAIN_LM00.bin" "MAIN_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "MAIN_LM0_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Compressing using quality level 127
+Compressing using quality level 127
+Compressing using quality level 127
+Compressing using quality level 127
+Done
+Done

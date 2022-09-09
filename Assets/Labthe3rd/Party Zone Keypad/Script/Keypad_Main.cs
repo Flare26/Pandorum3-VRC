@@ -102,7 +102,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                         {
                             if (Utilities.IsValid(staffObjects[i]))
                             {
-                                staffObjects[i].SetActive(true);
+                                staffObjects[i].SetActive(!staffObjects[i].activeSelf);
                             }
                         }
                         Debug.Log("Enabling DJ Objects");
@@ -110,7 +110,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                         {
                             if (Utilities.IsValid(dJObjects[i]))
                             {
-                                dJObjects[i].SetActive(true);
+                                dJObjects[i].SetActive(!dJObjects[i].activeSelf);
                             }
                         }
                         Debug.Log("Enabling VIP Objects");
@@ -118,7 +118,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                         {
                             if (Utilities.IsValid(vIPObjects[i]))
                             {
-                                vIPObjects[i].SetActive(true);
+                                vIPObjects[i].SetActive(!vIPObjects[i].activeSelf);
                             }
                         }
                         loggedIn = true;
@@ -134,7 +134,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                         {
                             if (Utilities.IsValid(dJObjects[i]))
                             {
-                                dJObjects[i].SetActive(true);
+                                dJObjects[i].SetActive(!dJObjects[i].activeSelf);
                             }
                         }
 
@@ -143,7 +143,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                         {
                             if (Utilities.IsValid(vIPObjects[i]))
                             {
-                                vIPObjects[i].SetActive(true);
+                                vIPObjects[i].SetActive(vIPObjects[i].activeSelf);
                             }
                         }
                         loggedIn = true;
@@ -159,7 +159,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                         {
                             if (Utilities.IsValid(vIPObjects[i]))
                             {
-                                vIPObjects[i].SetActive(true);
+                                vIPObjects[i].SetActive(!vIPObjects[i].activeSelf);
                             }
                         }
                         loggedIn = true;
@@ -188,7 +188,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                 {
                     if (Utilities.IsValid(adminObjects[i]))
                     {
-                        adminObjects[i].SetActive(true);
+                        adminObjects[i].SetActive(!adminObjects[i].activeSelf);
                     }
                 }
                 Debug.Log("Enabling Staff Objects For Admin");
@@ -196,7 +196,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                 {
                     if (Utilities.IsValid(staffObjects[i]))
                     {
-                        staffObjects[i].SetActive(true);
+                        staffObjects[i].SetActive(!staffObjects[i].activeSelf) ;
                     }
                 }
                 Debug.Log("Enabling dJ Objects For Staff Member");
@@ -204,7 +204,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                 {
                     if (Utilities.IsValid(dJObjects[i]))
                     {
-                        dJObjects[i].SetActive(true);
+                        dJObjects[i].SetActive(!dJObjects[i].activeSelf);
                     }
                 }
                 Debug.Log("Enabling VIP Objects");
@@ -212,7 +212,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                 {
                     if (Utilities.IsValid(vIPObjects[i]))
                     {
-                        vIPObjects[i].SetActive(true);
+                        vIPObjects[i].SetActive(vIPObjects[i].activeSelf);
                     }
                 }
 
@@ -233,7 +233,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                 {
                     if (Utilities.IsValid(staffObjects[i]))
                     {
-                        staffObjects[i].SetActive(true);
+                        staffObjects[i].SetActive(!staffObjects[i].activeSelf);
                     }
                 }
                 Debug.Log("Enabling dJ Objects For Staff Member");
@@ -241,7 +241,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                 {
                     if (Utilities.IsValid(dJObjects[i]))
                     {
-                        dJObjects[i].SetActive(true);
+                        dJObjects[i].SetActive(!dJObjects[i].activeSelf);
                     }
                 }
                 Debug.Log("Enabling VIP Objects");
@@ -249,7 +249,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                 {
                     if (Utilities.IsValid(vIPObjects[i]))
                     {
-                        vIPObjects[i].SetActive(true);
+                        vIPObjects[i].SetActive(!vIPObjects[i].activeSelf);
                     }
                 }
 
@@ -278,7 +278,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                 {
                     if (Utilities.IsValid(vIPObjects[i]))
                     {
-                        vIPObjects[i].SetActive(true);
+                        vIPObjects[i].SetActive(!vIPObjects[i].activeSelf);
                     }
                 }
                 loggedIn = true;
@@ -298,7 +298,7 @@ namespace Labthe3rd.Keypad.Keypad_Main
                 {
                     if (Utilities.IsValid(vIPObjects[i]))
                     {
-                        vIPObjects[i].SetActive(true);
+                        vIPObjects[i].SetActive(!vIPObjects[i].activeSelf);
                     }
                 }
 
