@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   resolution: 4096
   bitmask: 1
-  id: 1
+  id: 0
   sortingID: 1
   isImplicit: 0
   area: 0
@@ -24,7 +24,7 @@ MonoBehaviour:
   sceneName: MAIN
   containsTerrains: 0
   probes: 0
-  mode: 2
+  mode: 1
   renderMode: 1000
   renderDirMode: 0
   atlasPacker: 1
@@ -40,4 +40,4 @@ MonoBehaviour:
   overridePath: 
   fixPos3D: 0
   voxelSize: {x: 1, y: 1, z: 1}
-  passedFilter: 10
+  passedFilter: 1

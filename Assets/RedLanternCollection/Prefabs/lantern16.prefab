@@ -424,9 +424,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a28e27cacfc7e70479097f0a63c37217, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  UID: -1252500856
+  UID: 1162602784
   color: {r: 0.99607843, g: 0.902791, b: 0.49803922, a: 1}
-  intensity: 5
+  intensity: 7
   texture: {fileID: 0}
   cutoff: 20
   samples: 256
@@ -434,5 +434,5 @@ MonoBehaviour:
   bitmask: 1
   selfShadow: 1
   bakeToIndirect: 1
-  indirectIntensity: 3
+  indirectIntensity: 1
   lmid: -2

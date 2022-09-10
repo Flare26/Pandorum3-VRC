@@ -23434,3 +23434,1467 @@ Compressing using quality level 127
 Compressing using quality level 127
 Done
 Done
+2022-9-9
+Rendering UV GBuffer for MAIN_LM0 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA1 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA2 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA3 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA4 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA5 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA6 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA7 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA8 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA9 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA10 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup Trees 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering UV GBuffer for LMGroup DancerCouches 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA6.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA7.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA8.lz4" 2 0 8 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA9.lz4" 2 0 9 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA10.lz4" 2 0 10 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_996935115_11" 4 0 11 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_378659253_11" 4 0 11 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_545704910_11" 4 0 11 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-186223668_11" 4 0 11 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1319135689_11" 4 0 11 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1250680813_11" 4 0 11 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2135226940_11" 4 0 11 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_98601442_11" 4 0 11 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1321798885_11" 4 0 11 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2028285254_11" 4 0 11 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1031498503_11" 4 0 11 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1036389352_11" 4 0 11 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_50972336_11" 4 0 11 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-505208076_11" 4 0 11 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1687840422_11" 4 0 11 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1161115289_11" 4 0 11 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-332783995_11" 4 0 11 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-905731673_11" 4 0 11 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_871842204_11" 4 0 11 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1882328285_11" 4 0 11 lights20.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1567605227_11" 4 0 11 lights21.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1527251317_11" 4 0 11 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1606900548_11" 4 0 11 lights23.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-195538170_11" 4 0 11 lights24.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-850324379_11" 4 0 11 lights25.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1732690740_11" 4 0 11 lights26.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_323722940_11" 4 0 11 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-818804689_11" 4 0 11 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2073759395_11" 4 0 11 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1316164760_11" 4 0 11 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-323355230_11" 4 0 11 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_468865138_11" 4 0 11 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_978966685_11" 4 0 11 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-187823077_11" 4 0 11 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-60715596_11" 4 0 11 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1234862119_11" 4 0 11 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-898663041_11" 4 0 11 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_786174632_11" 4 0 11 lights38.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_523817171_11" 4 0 11 lights39.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-484590625_11" 4 0 11 lights40.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1452463584_11" 4 0 11 lights41.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-546681863_11" 4 0 11 lights42.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_211608712_11" 4 0 11 lights43.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1963789947_11" 4 0 11 lights44.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1527155314_11" 4 0 11 lights45.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1449044721_11" 4 0 11 lights46.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1978197550_11" 4 0 11 lights47.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1652907710_11" 4 0 11 lights48.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1146263995_11" 4 0 11 lights49.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1117084445_11" 4 0 11 lights50.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_582431787_11" 4 0 11 lights51.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1568167198_11" 4 0 11 lights52.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1575478014_11" 4 0 11 lights53.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-613066620_11" 4 0 11 lights54.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2131636088_11" 4 0 11 lights55.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_770691234_11" 4 0 11 lights56.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_589725011_11" 4 0 11 lights57.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1706845534_11" 4 0 11 lights58.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-388012966_11" 4 0 11 lights59.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-315554613_11" 4 0 11 lights60.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_683599625_11" 4 0 11 lights61.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_880901445_11" 4 0 11 lights62.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1505459110_11" 4 0 11 lights63.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1513545347_11" 4 0 11 lights64.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-601416108_11" 4 0 11 lights65.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49460691_11" 4 0 11 lights66.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_700518060_11" 4 0 11 lights67.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1658474674_11" 4 0 11 lights68.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-504665389_11" 4 0 11 lights69.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-455156590_11" 4 0 11 lights70.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-216051858_11" 4 0 11 lights71.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-578927353_11" 4 0 11 lights72.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1517318791_11" 4 0 11 lights73.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1921889458_11" 4 0 11 lights74.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-274145910_11" 4 0 11 lights75.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1701257718_11" 4 0 11 lights76.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-236409460_11" 4 0 11 lights77.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2054419328_11" 4 0 11 lights78.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-544410173_11" 4 0 11 lights79.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1738684543_11" 4 0 11 lights80.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_705162491_11" 4 0 11 lights81.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_356560369_11" 4 0 11 lights82.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2088075206_11" 4 0 11 lights83.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-463745236_11" 4 0 11 lights84.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1010998178_11" 4 0 11 lights85.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-455547788_11" 4 0 11 lights86.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1769461740_11" 4 0 11 lights87.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1320743233_11" 4 0 11 lights88.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-561305696_11" 4 0 11 lights89.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_923661562_11" 4 0 11 lights90.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-21895412_11" 4 0 11 lights92.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-436935751_11" 4 0 11 lights93.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-412098050_11" 4 0 11 lights94.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-340450759_11" 4 0 11 lights95.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1016778155_11" 4 0 11 lights96.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1354101776_11" 4 0 11 lights97.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1696810021_11" 4 0 11 lights98.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1692921819_11" 4 0 11 lights99.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1693798699_11" 4 0 11 lights100.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_729984311_11" 4 0 11 lights101.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-135175499_11" 4 0 11 lights102.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-800301334_11" 4 0 11 lights103.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1127928836_11" 4 0 11 lights104.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2095598978_11" 4 0 11 lights105.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1594210763_11" 4 0 11 lights106.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1828588417_11" 4 0 11 lights107.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1808498749_11" 4 0 11 lights108.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-973418938_11" 4 0 11 lights109.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2099950940_11" 4 0 11 lights110.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1169983337_11" 4 0 11 lights111.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-186212447_11" 4 0 11 lights112.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1252500856_11" 4 0 11 lights113.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1096908445_11" 4 0 11 lights114.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-753077034_11" 4 0 11 lights115.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1664821076_11" 4 0 11 lights116.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_939792953_11" 4 0 11 lights117.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1088267330_11" 4 0 11 lights118.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-622357641_11" 4 0 11 lights119.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1379273591_11" 4 0 11 lights120.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1646367723_11" 4 0 11 lights121.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1511895471_11" 4 0 11 lights122.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_881074848_11" 4 0 11 lights123.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1347275644_11" 4 0 11 lights124.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1294391593_11" 4 0 11 lights125.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-935901669_11" 4 0 11 lights126.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1591352156_11" 4 0 11 lights127.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-31184222_11" 4 0 11 lights128.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1568743561_11" 4 0 11 lights129.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-514778272_11" 4 0 11 lights130.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_11" 4 0 11 lights131.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_11" 4 0 11 lights132.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_11" 4 0 11 lights133.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_11" 4 0 11 lights134.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_11" 4 0 11 lights135.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_11" 4 0 11 lights136.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_11" 4 0 11 lights137.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_11" 4 0 11 lights138.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_11" 4 0 11 lights139.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_11" 4 0 11 lights140.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_11" 4 0 11 lights141.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_502183957_11" 4 0 11 lights142.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_11" 4 0 11 lights144.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_576112351_11" 4 0 11 lights145.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_609589925_11" 4 0 11 lights146.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-602411960_11" 4 0 11 lights147.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1763429186_11" 4 0 11 lights148.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_11" 4 0 11 lights149.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_11" 4 0 11 lights150.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_11" 4 0 11 lights151.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_11" 4 0 11 lights152.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-787586952_11" 4 0 11 lights153.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_11" 4 0 11 lights154.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_11" 4 0 11 lights155.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_11" 4 0 11 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 11 comp_11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_12" 4 0 12 lights131.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_12" 4 0 12 lights132.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_12" 4 0 12 lights134.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_12" 4 0 12 lights135.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_12" 4 0 12 lights136.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_12" 4 0 12 lights137.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_12" 4 0 12 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches" 4 0 12 comp_12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_996935115_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_378659253_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_545704910_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-186223668_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1319135689_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1250680813_0" 4 0 0 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2135226940_0" 4 0 0 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_98601442_0" 4 0 0 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1321798885_0" 4 0 0 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2028285254_0" 4 0 0 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1031498503_0" 4 0 0 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1036389352_0" 4 0 0 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_50972336_0" 4 0 0 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-505208076_0" 4 0 0 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_604139129_0" 4 0 0 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1687840422_0" 4 0 0 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1161115289_0" 4 0 0 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-332783995_0" 4 0 0 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-905731673_0" 4 0 0 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_871842204_0" 4 0 0 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1882328285_0" 4 0 0 lights20.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1567605227_0" 4 0 0 lights21.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1527251317_0" 4 0 0 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1606900548_0" 4 0 0 lights23.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-195538170_0" 4 0 0 lights24.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-850324379_0" 4 0 0 lights25.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1732690740_0" 4 0 0 lights26.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_323722940_0" 4 0 0 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-818804689_0" 4 0 0 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2073759395_0" 4 0 0 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1316164760_0" 4 0 0 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-323355230_0" 4 0 0 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_468865138_0" 4 0 0 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_978966685_0" 4 0 0 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-187823077_0" 4 0 0 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-60715596_0" 4 0 0 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1234862119_0" 4 0 0 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-898663041_0" 4 0 0 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_786174632_0" 4 0 0 lights38.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_523817171_0" 4 0 0 lights39.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-484590625_0" 4 0 0 lights40.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1452463584_0" 4 0 0 lights41.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-546681863_0" 4 0 0 lights42.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_211608712_0" 4 0 0 lights43.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1963789947_0" 4 0 0 lights44.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1527155314_0" 4 0 0 lights45.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1449044721_0" 4 0 0 lights46.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1978197550_0" 4 0 0 lights47.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1652907710_0" 4 0 0 lights48.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1146263995_0" 4 0 0 lights49.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1117084445_0" 4 0 0 lights50.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_582431787_0" 4 0 0 lights51.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1568167198_0" 4 0 0 lights52.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1575478014_0" 4 0 0 lights53.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-613066620_0" 4 0 0 lights54.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2131636088_0" 4 0 0 lights55.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_770691234_0" 4 0 0 lights56.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_589725011_0" 4 0 0 lights57.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1706845534_0" 4 0 0 lights58.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-388012966_0" 4 0 0 lights59.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-315554613_0" 4 0 0 lights60.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_683599625_0" 4 0 0 lights61.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_880901445_0" 4 0 0 lights62.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1505459110_0" 4 0 0 lights63.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1513545347_0" 4 0 0 lights64.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-601416108_0" 4 0 0 lights65.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49460691_0" 4 0 0 lights66.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_700518060_0" 4 0 0 lights67.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1658474674_0" 4 0 0 lights68.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-504665389_0" 4 0 0 lights69.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-455156590_0" 4 0 0 lights70.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-216051858_0" 4 0 0 lights71.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-578927353_0" 4 0 0 lights72.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1517318791_0" 4 0 0 lights73.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1921889458_0" 4 0 0 lights74.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-274145910_0" 4 0 0 lights75.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1701257718_0" 4 0 0 lights76.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-236409460_0" 4 0 0 lights77.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2054419328_0" 4 0 0 lights78.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-544410173_0" 4 0 0 lights79.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1738684543_0" 4 0 0 lights80.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_705162491_0" 4 0 0 lights81.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_356560369_0" 4 0 0 lights82.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2088075206_0" 4 0 0 lights83.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-463745236_0" 4 0 0 lights84.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1010998178_0" 4 0 0 lights85.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-455547788_0" 4 0 0 lights86.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1769461740_0" 4 0 0 lights87.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1320743233_0" 4 0 0 lights88.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-561305696_0" 4 0 0 lights89.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_923661562_0" 4 0 0 lights90.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1894358200_0" 4 0 0 lights91.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-21895412_0" 4 0 0 lights92.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-436935751_0" 4 0 0 lights93.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-412098050_0" 4 0 0 lights94.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-340450759_0" 4 0 0 lights95.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1016778155_0" 4 0 0 lights96.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1354101776_0" 4 0 0 lights97.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1696810021_0" 4 0 0 lights98.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1692921819_0" 4 0 0 lights99.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1693798699_0" 4 0 0 lights100.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_729984311_0" 4 0 0 lights101.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-135175499_0" 4 0 0 lights102.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-800301334_0" 4 0 0 lights103.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1127928836_0" 4 0 0 lights104.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2095598978_0" 4 0 0 lights105.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1594210763_0" 4 0 0 lights106.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1828588417_0" 4 0 0 lights107.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1808498749_0" 4 0 0 lights108.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-973418938_0" 4 0 0 lights109.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2099950940_0" 4 0 0 lights110.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1169983337_0" 4 0 0 lights111.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-186212447_0" 4 0 0 lights112.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1252500856_0" 4 0 0 lights113.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1096908445_0" 4 0 0 lights114.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-753077034_0" 4 0 0 lights115.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1664821076_0" 4 0 0 lights116.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_939792953_0" 4 0 0 lights117.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1088267330_0" 4 0 0 lights118.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-622357641_0" 4 0 0 lights119.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1379273591_0" 4 0 0 lights120.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1646367723_0" 4 0 0 lights121.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1511895471_0" 4 0 0 lights122.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_881074848_0" 4 0 0 lights123.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1347275644_0" 4 0 0 lights124.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1294391593_0" 4 0 0 lights125.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-935901669_0" 4 0 0 lights126.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1591352156_0" 4 0 0 lights127.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-31184222_0" 4 0 0 lights128.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1568743561_0" 4 0 0 lights129.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-514778272_0" 4 0 0 lights130.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights131.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights132.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_0" 4 0 0 lights133.bin
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Rendering UV GBuffer for MAIN_LM0 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA1 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA2 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA3 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA4 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA5 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA6 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA7 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA8 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA9 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA10 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup Trees 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering UV GBuffer for LMGroup DancerCouches 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA1.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA2.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA3.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA4.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA5.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA6.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA7.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA8.lz4" 2 0 8 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA9.lz4" 2 0 9 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA10.lz4" 2 0 10 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1710449122_11" 4 0 11 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_11" 4 0 11 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-13828747_11" 4 0 11 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1520163214_11" 4 0 11 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1733254971_11" 4 0 11 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-854821384_11" 4 0 11 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_423469969_11" 4 0 11 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1704190026_11" 4 0 11 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_407701104_11" 4 0 11 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-450050981_11" 4 0 11 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2103418290_11" 4 0 11 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-4465491_11" 4 0 11 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1915448824_11" 4 0 11 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_66203557_11" 4 0 11 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-849074420_11" 4 0 11 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_11" 4 0 11 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1579539441_11" 4 0 11 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_11" 4 0 11 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_11" 4 0 11 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1083039392_11" 4 0 11 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_11" 4 0 11 lights20.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_11" 4 0 11 lights21.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_11" 4 0 11 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_11" 4 0 11 lights23.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_11" 4 0 11 lights24.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_11" 4 0 11 lights25.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_11" 4 0 11 lights26.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_11" 4 0 11 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_11" 4 0 11 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_11" 4 0 11 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_11" 4 0 11 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_11" 4 0 11 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_11" 4 0 11 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_11" 4 0 11 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_11" 4 0 11 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_11" 4 0 11 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_11" 4 0 11 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_11" 4 0 11 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_11" 4 0 11 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 11 comp_11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_12" 4 0 12 lights20.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_12" 4 0 12 lights21.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_12" 4 0 12 lights23.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_12" 4 0 12 lights24.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_12" 4 0 12 lights25.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_12" 4 0 12 lights26.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_12" 4 0 12 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches" 4 0 12 comp_12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1710449122_0" 4 0 0 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_0" 4 0 0 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-13828747_0" 4 0 0 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1520163214_0" 4 0 0 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1733254971_0" 4 0 0 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-854821384_0" 4 0 0 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_423469969_0" 4 0 0 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1704190026_0" 4 0 0 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_407701104_0" 4 0 0 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-450050981_0" 4 0 0 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2103418290_0" 4 0 0 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-4465491_0" 4 0 0 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1915448824_0" 4 0 0 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_66203557_0" 4 0 0 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-849074420_0" 4 0 0 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_0" 4 0 0 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1579539441_0" 4 0 0 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_0" 4 0 0 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_0" 4 0 0 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1083039392_0" 4 0 0 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights20.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights21.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_0" 4 0 0 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_0" 4 0 0 lights23.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_0" 4 0 0 lights24.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_0" 4 0 0 lights25.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_0" 4 0 0 lights26.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_0" 4 0 0 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_0" 4 0 0 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_0" 4 0 0 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_0" 4 0 0 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_0" 4 0 0 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_0" 4 0 0 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_0" 4 0 0 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_0" 4 0 0 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_0" 4 0 0 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_0" 4 0 0 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_0" 4 0 0 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_0" 4 0 0 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0" 4 0 0 comp_0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1710449122_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-13828747_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1520163214_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1733254971_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-854821384_1" 4 0 1 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_423469969_1" 4 0 1 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_407701104_1" 4 0 1 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-450050981_1" 4 0 1 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2103418290_1" 4 0 1 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-4465491_1" 4 0 1 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1915448824_1" 4 0 1 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_66203557_1" 4 0 1 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_1" 4 0 1 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1579539441_1" 4 0 1 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_1" 4 0 1 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_1" 4 0 1 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1083039392_1" 4 0 1 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_1" 4 0 1 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_1" 4 0 1 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_1" 4 0 1 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_1" 4 0 1 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_1" 4 0 1 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_1" 4 0 1 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA1" 4 0 1 comp_1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_2" 4 0 2 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_2" 4 0 2 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_2" 4 0 2 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_2" 4 0 2 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_2" 4 0 2 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_2" 4 0 2 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_2" 4 0 2 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_2" 4 0 2 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_2" 4 0 2 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_2" 4 0 2 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_2" 4 0 2 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_2" 4 0 2 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_2" 4 0 2 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_2" 4 0 2 lights37.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_2" 4 0 2 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA2" 4 0 2 comp_2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1710449122_3" 4 0 3 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_3" 4 0 3 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-13828747_3" 4 0 3 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1520163214_3" 4 0 3 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1733254971_3" 4 0 3 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-854821384_3" 4 0 3 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_423469969_3" 4 0 3 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1704190026_3" 4 0 3 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_407701104_3" 4 0 3 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-450050981_3" 4 0 3 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2103418290_3" 4 0 3 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-4465491_3" 4 0 3 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1915448824_3" 4 0 3 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_66203557_3" 4 0 3 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-849074420_3" 4 0 3 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_3" 4 0 3 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1579539441_3" 4 0 3 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_3" 4 0 3 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_3" 4 0 3 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1083039392_3" 4 0 3 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_3" 4 0 3 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_3" 4 0 3 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_3" 4 0 3 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_3" 4 0 3 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_3" 4 0 3 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_3" 4 0 3 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_3" 4 0 3 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_3" 4 0 3 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_3" 4 0 3 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_3" 4 0 3 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_3" 4 0 3 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_3" 4 0 3 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_3" 4 0 3 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_3" 4 0 3 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA3" 4 0 3 comp_3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1710449122_4" 4 0 4 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_4" 4 0 4 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-13828747_4" 4 0 4 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1520163214_4" 4 0 4 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1733254971_4" 4 0 4 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-854821384_4" 4 0 4 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_407701104_4" 4 0 4 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-4465491_4" 4 0 4 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1915448824_4" 4 0 4 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-849074420_4" 4 0 4 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_4" 4 0 4 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1579539441_4" 4 0 4 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_4" 4 0 4 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_4" 4 0 4 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1083039392_4" 4 0 4 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_4" 4 0 4 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_4" 4 0 4 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_4" 4 0 4 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_4" 4 0 4 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_4" 4 0 4 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_4" 4 0 4 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_4" 4 0 4 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_4" 4 0 4 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_4" 4 0 4 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_4" 4 0 4 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_4" 4 0 4 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_4" 4 0 4 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_4" 4 0 4 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_4" 4 0 4 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA4" 4 0 4 comp_4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1710449122_5" 4 0 5 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_5" 4 0 5 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-13828747_5" 4 0 5 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1520163214_5" 4 0 5 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1733254971_5" 4 0 5 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-854821384_5" 4 0 5 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_423469969_5" 4 0 5 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1704190026_5" 4 0 5 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_407701104_5" 4 0 5 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-450050981_5" 4 0 5 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2103418290_5" 4 0 5 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-4465491_5" 4 0 5 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1915448824_5" 4 0 5 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_66203557_5" 4 0 5 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-849074420_5" 4 0 5 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_5" 4 0 5 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1579539441_5" 4 0 5 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_5" 4 0 5 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_5" 4 0 5 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1083039392_5" 4 0 5 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_5" 4 0 5 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_5" 4 0 5 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_5" 4 0 5 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_5" 4 0 5 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_5" 4 0 5 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_5" 4 0 5 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_5" 4 0 5 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_5" 4 0 5 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_5" 4 0 5 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_5" 4 0 5 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_5" 4 0 5 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_5" 4 0 5 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_5" 4 0 5 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_5" 4 0 5 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA5" 4 0 5 comp_5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1710449122_6" 4 0 6 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_6" 4 0 6 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-13828747_6" 4 0 6 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1520163214_6" 4 0 6 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1733254971_6" 4 0 6 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-854821384_6" 4 0 6 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_407701104_6" 4 0 6 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-4465491_6" 4 0 6 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1915448824_6" 4 0 6 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-849074420_6" 4 0 6 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_6" 4 0 6 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1579539441_6" 4 0 6 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_6" 4 0 6 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_6" 4 0 6 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1083039392_6" 4 0 6 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_6" 4 0 6 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_6" 4 0 6 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_6" 4 0 6 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_6" 4 0 6 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_6" 4 0 6 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_6" 4 0 6 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_6" 4 0 6 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_6" 4 0 6 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_6" 4 0 6 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_6" 4 0 6 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_6" 4 0 6 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_6" 4 0 6 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_6" 4 0 6 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_6" 4 0 6 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA6" 4 0 6 comp_6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1710449122_7" 4 0 7 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_7" 4 0 7 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-13828747_7" 4 0 7 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1520163214_7" 4 0 7 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1733254971_7" 4 0 7 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-854821384_7" 4 0 7 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_423469969_7" 4 0 7 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1704190026_7" 4 0 7 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_407701104_7" 4 0 7 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-450050981_7" 4 0 7 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2103418290_7" 4 0 7 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-4465491_7" 4 0 7 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1915448824_7" 4 0 7 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_66203557_7" 4 0 7 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-849074420_7" 4 0 7 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_7" 4 0 7 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1579539441_7" 4 0 7 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_7" 4 0 7 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_7" 4 0 7 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1083039392_7" 4 0 7 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_7" 4 0 7 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_7" 4 0 7 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_7" 4 0 7 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_7" 4 0 7 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_7" 4 0 7 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_7" 4 0 7 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_7" 4 0 7 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_7" 4 0 7 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_7" 4 0 7 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_7" 4 0 7 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_7" 4 0 7 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_7" 4 0 7 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_7" 4 0 7 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_7" 4 0 7 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA7" 4 0 7 comp_7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1710449122_8" 4 0 8 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_8" 4 0 8 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-13828747_8" 4 0 8 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1520163214_8" 4 0 8 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1733254971_8" 4 0 8 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-854821384_8" 4 0 8 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_423469969_8" 4 0 8 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1704190026_8" 4 0 8 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_407701104_8" 4 0 8 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-450050981_8" 4 0 8 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2103418290_8" 4 0 8 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-4465491_8" 4 0 8 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1915448824_8" 4 0 8 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_66203557_8" 4 0 8 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-849074420_8" 4 0 8 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_8" 4 0 8 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1579539441_8" 4 0 8 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_8" 4 0 8 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_8" 4 0 8 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1083039392_8" 4 0 8 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_8" 4 0 8 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_8" 4 0 8 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_8" 4 0 8 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_8" 4 0 8 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_8" 4 0 8 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_8" 4 0 8 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_8" 4 0 8 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_8" 4 0 8 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_8" 4 0 8 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_8" 4 0 8 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_8" 4 0 8 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_8" 4 0 8 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_8" 4 0 8 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_8" 4 0 8 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA8" 4 0 8 comp_8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1710449122_9" 4 0 9 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_9" 4 0 9 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-13828747_9" 4 0 9 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1520163214_9" 4 0 9 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1733254971_9" 4 0 9 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-854821384_9" 4 0 9 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_423469969_9" 4 0 9 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1704190026_9" 4 0 9 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_407701104_9" 4 0 9 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_66203557_9" 4 0 9 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-849074420_9" 4 0 9 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_9" 4 0 9 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1579539441_9" 4 0 9 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_9" 4 0 9 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_9" 4 0 9 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1083039392_9" 4 0 9 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_9" 4 0 9 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_9" 4 0 9 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_9" 4 0 9 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_9" 4 0 9 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_9" 4 0 9 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_9" 4 0 9 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_9" 4 0 9 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_9" 4 0 9 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_9" 4 0 9 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_9" 4 0 9 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_9" 4 0 9 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_9" 4 0 9 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA9" 4 0 9 comp_9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1710449122_10" 4 0 10 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1288239560_10" 4 0 10 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-13828747_10" 4 0 10 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1520163214_10" 4 0 10 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1733254971_10" 4 0 10 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-854821384_10" 4 0 10 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_423469969_10" 4 0 10 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1704190026_10" 4 0 10 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_407701104_10" 4 0 10 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-450050981_10" 4 0 10 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2103418290_10" 4 0 10 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-4465491_10" 4 0 10 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1915448824_10" 4 0 10 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_66203557_10" 4 0 10 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-849074420_10" 4 0 10 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1206207155_10" 4 0 10 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1579539441_10" 4 0 10 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1621693612_10" 4 0 10 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1337098154_10" 4 0 10 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1083039392_10" 4 0 10 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_10" 4 0 10 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_10" 4 0 10 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_10" 4 0 10 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_10" 4 0 10 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_10" 4 0 10 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_10" 4 0 10 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_10" 4 0 10 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_10" 4 0 10 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_10" 4 0 10 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_10" 4 0 10 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_10" 4 0 10 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_10" 4 0 10 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_10" 4 0 10 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_10" 4 0 10 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA10" 4 0 10 comp_10.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final" 4 16 11 "gi_LMGroup Trees0.bin" "LMGroup Trees_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches_final" 4 16 12 "gi_LMGroup DancerCouches0.bin" "LMGroup DancerCouches_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final" 4 16 0 "gi_MAIN_LM00.bin" "MAIN_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA1_final" 4 16 1 "gi_MAIN_LMA10.bin" "MAIN_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA2_final" 4 16 2 "gi_MAIN_LMA20.bin" "MAIN_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA3_final" 4 16 3 "gi_MAIN_LMA30.bin" "MAIN_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA4_final" 4 16 4 "gi_MAIN_LMA40.bin" "MAIN_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA5_final" 4 16 5 "gi_MAIN_LMA50.bin" "MAIN_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA6_final" 4 16 6 "gi_MAIN_LMA60.bin" "MAIN_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA7_final" 4 16 7 "gi_MAIN_LMA70.bin" "MAIN_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA8_final" 4 16 8 "gi_MAIN_LMA80.bin" "MAIN_LMA8_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA9_final" 4 16 9 "gi_MAIN_LMA90.bin" "MAIN_LMA9_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA10_final" 4 16 10 "gi_MAIN_LMA100.bin" "MAIN_LMA10_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "MAIN_LM0_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA1_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "MAIN_LMA1_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA2_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "2" "MAIN_LMA2_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA3_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "3" "MAIN_LMA3_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA4_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "4" "MAIN_LMA4_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA5_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA5_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "5" "MAIN_LMA5_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA6_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA6_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "6" "MAIN_LMA6_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA7_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA7_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "7" "MAIN_LMA7_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA8_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA8_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "8" "MAIN_LMA8_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA9_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA9_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "9" "MAIN_LMA9_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA10_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA10_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "10" "MAIN_LMA10_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA1_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA1_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA2_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA3_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA3_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA4_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA4_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA5_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA5_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA6_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA6_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA7_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA7_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA8_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA8_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA9_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA9_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA10_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA10_final.hdr" 1024
+Done
+Done
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Running ftrace.exe pointlight "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Running ftrace.exe pointlight "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Running ftrace.exe pointlight "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Running ftrace.exe pointlight "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Running ftrace.exe sun "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Running ftrace.exe pointlight "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Running ftrace.exe pointlight "C:\Users\natha\AppData\Local\Temp\frender" probes.dds 4 0 0
+Loaded vertex shader: quad.vso
+Loaded pixel shader: skyOutput.pso
+Loaded pixel shader: cookieOutput.pso
+initShaders done
+initScene done
+Num alphas of 256x256: 2
+Num alphas of 512x1024: 2
+Num alphas of 1024x1024: 3
+Num alphas of 2048x2048: 1
+Done
+Rendering UV GBuffer for LMGroup DancerCouches 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LM0 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA1 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA2 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA3 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA4 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA5 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA6 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for MAIN_LMA7 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Rendering smooth UV pos...
+Rendering UV GBuffer for LMGroup Trees 179
+RGBA32F...RGBA8...RGBA8_SRGB...RGBA16F...states...
+Rendering UV normal...
+Rendering faceted UV normal...
+Rendering UV pos...
+Done
+Done
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_LMGroup DancerCouches.lz4" 2 0 0 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LM0.lz4" 2 0 1 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA1.lz4" 2 0 2 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA2.lz4" 2 0 3 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA3.lz4" 2 0 4 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA4.lz4" 2 0 5 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA5.lz4" 2 0 6 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA6.lz4" 2 0 7 0
+Running ftrace fixpos12 "C:\Users\natha\AppData\Local\Temp\frender" "uvpos_MAIN_LMA7.lz4" 2 0 8 0
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_72598603_9" 4 0 9 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1421440558_9" 4 0 9 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-489310259_9" 4 0 9 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-663958109_9" 4 0 9 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-276370041_9" 4 0 9 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1034939457_9" 4 0 9 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1855312751_9" 4 0 9 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2116367983_9" 4 0 9 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1387853876_9" 4 0 9 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1393049180_9" 4 0 9 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1136471635_9" 4 0 9 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_914374262_9" 4 0 9 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_138085947_9" 4 0 9 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_789422793_9" 4 0 9 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_958550260_9" 4 0 9 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1708684047_9" 4 0 9 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-149654448_9" 4 0 9 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_649035025_9" 4 0 9 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_667248660_9" 4 0 9 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_495211497_9" 4 0 9 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_9" 4 0 9 lights20.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_9" 4 0 9 lights21.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_9" 4 0 9 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_9" 4 0 9 lights23.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_9" 4 0 9 lights24.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_9" 4 0 9 lights25.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_9" 4 0 9 lights26.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_9" 4 0 9 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_9" 4 0 9 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_9" 4 0 9 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_9" 4 0 9 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_9" 4 0 9 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_9" 4 0 9 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_9" 4 0 9 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_9" 4 0 9 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_9" 4 0 9 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_9" 4 0 9 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_9" 4 0 9 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_9" 4 0 9 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees" 4 0 9 comp_9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_0" 4 0 0 lights20.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_0" 4 0 0 lights21.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_0" 4 0 0 lights23.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_0" 4 0 0 lights24.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_0" 4 0 0 lights25.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_0" 4 0 0 lights26.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_0" 4 0 0 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches" 4 0 0 comp_0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_72598603_1" 4 0 1 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1421440558_1" 4 0 1 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-489310259_1" 4 0 1 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-663958109_1" 4 0 1 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-276370041_1" 4 0 1 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1034939457_1" 4 0 1 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1855312751_1" 4 0 1 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2116367983_1" 4 0 1 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1387853876_1" 4 0 1 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1393049180_1" 4 0 1 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1136471635_1" 4 0 1 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_914374262_1" 4 0 1 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_138085947_1" 4 0 1 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_789422793_1" 4 0 1 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_958550260_1" 4 0 1 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1708684047_1" 4 0 1 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-149654448_1" 4 0 1 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_649035025_1" 4 0 1 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_667248660_1" 4 0 1 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_495211497_1" 4 0 1 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1142539704_1" 4 0 1 lights20.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1755969599_1" 4 0 1 lights21.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_1" 4 0 1 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-685579562_1" 4 0 1 lights23.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1072238589_1" 4 0 1 lights24.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_892635606_1" 4 0 1 lights25.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-95759186_1" 4 0 1 lights26.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_1" 4 0 1 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_1" 4 0 1 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_1" 4 0 1 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_1" 4 0 1 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_1" 4 0 1 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_1" 4 0 1 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_1" 4 0 1 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_1" 4 0 1 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_1" 4 0 1 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_1" 4 0 1 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_1" 4 0 1 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_1" 4 0 1 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_1" 4 0 1 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0" 4 0 1 comp_1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_72598603_2" 4 0 2 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1421440558_2" 4 0 2 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-489310259_2" 4 0 2 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-663958109_2" 4 0 2 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-276370041_2" 4 0 2 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1034939457_2" 4 0 2 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1855312751_2" 4 0 2 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1387853876_2" 4 0 2 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1393049180_2" 4 0 2 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1136471635_2" 4 0 2 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_914374262_2" 4 0 2 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_138085947_2" 4 0 2 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_789422793_2" 4 0 2 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1708684047_2" 4 0 2 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-149654448_2" 4 0 2 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_649035025_2" 4 0 2 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_667248660_2" 4 0 2 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_495211497_2" 4 0 2 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_2" 4 0 2 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_2" 4 0 2 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_2" 4 0 2 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_2" 4 0 2 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_2" 4 0 2 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_2" 4 0 2 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_2" 4 0 2 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA1" 4 0 2 comp_2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1421440558_3" 4 0 3 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1708684047_3" 4 0 3 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_649035025_3" 4 0 3 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_667248660_3" 4 0 3 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_3" 4 0 3 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_3" 4 0 3 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_3" 4 0 3 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_3" 4 0 3 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_3" 4 0 3 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_3" 4 0 3 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_3" 4 0 3 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_3" 4 0 3 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_3" 4 0 3 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_3" 4 0 3 lights37.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_3" 4 0 3 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA2" 4 0 3 comp_3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_72598603_4" 4 0 4 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1421440558_4" 4 0 4 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-489310259_4" 4 0 4 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-663958109_4" 4 0 4 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-276370041_4" 4 0 4 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1034939457_4" 4 0 4 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1855312751_4" 4 0 4 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2116367983_4" 4 0 4 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1387853876_4" 4 0 4 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1393049180_4" 4 0 4 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1136471635_4" 4 0 4 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_914374262_4" 4 0 4 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_138085947_4" 4 0 4 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_789422793_4" 4 0 4 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_958550260_4" 4 0 4 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1708684047_4" 4 0 4 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-149654448_4" 4 0 4 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_649035025_4" 4 0 4 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_667248660_4" 4 0 4 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_495211497_4" 4 0 4 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_4" 4 0 4 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_4" 4 0 4 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_4" 4 0 4 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_4" 4 0 4 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_4" 4 0 4 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_4" 4 0 4 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_4" 4 0 4 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_4" 4 0 4 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_4" 4 0 4 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_4" 4 0 4 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_4" 4 0 4 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_4" 4 0 4 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_4" 4 0 4 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_4" 4 0 4 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA3" 4 0 4 comp_4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_72598603_5" 4 0 5 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1421440558_5" 4 0 5 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-489310259_5" 4 0 5 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-663958109_5" 4 0 5 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-276370041_5" 4 0 5 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1034939457_5" 4 0 5 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1855312751_5" 4 0 5 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2116367983_5" 4 0 5 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1387853876_5" 4 0 5 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1393049180_5" 4 0 5 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1136471635_5" 4 0 5 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_914374262_5" 4 0 5 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_138085947_5" 4 0 5 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_789422793_5" 4 0 5 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_958550260_5" 4 0 5 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1708684047_5" 4 0 5 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-149654448_5" 4 0 5 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_649035025_5" 4 0 5 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_667248660_5" 4 0 5 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_495211497_5" 4 0 5 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_5" 4 0 5 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_5" 4 0 5 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_5" 4 0 5 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_5" 4 0 5 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_5" 4 0 5 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_5" 4 0 5 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_5" 4 0 5 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_5" 4 0 5 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_5" 4 0 5 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_5" 4 0 5 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_5" 4 0 5 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_5" 4 0 5 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_5" 4 0 5 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_5" 4 0 5 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA4" 4 0 5 comp_5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_72598603_6" 4 0 6 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1421440558_6" 4 0 6 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-489310259_6" 4 0 6 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-663958109_6" 4 0 6 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-276370041_6" 4 0 6 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1034939457_6" 4 0 6 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1855312751_6" 4 0 6 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2116367983_6" 4 0 6 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1387853876_6" 4 0 6 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1393049180_6" 4 0 6 lights9.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1136471635_6" 4 0 6 lights10.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_914374262_6" 4 0 6 lights11.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_138085947_6" 4 0 6 lights12.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_789422793_6" 4 0 6 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_958550260_6" 4 0 6 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1708684047_6" 4 0 6 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-149654448_6" 4 0 6 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_649035025_6" 4 0 6 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_667248660_6" 4 0 6 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_495211497_6" 4 0 6 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_6" 4 0 6 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_6" 4 0 6 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_6" 4 0 6 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_6" 4 0 6 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_6" 4 0 6 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_6" 4 0 6 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_6" 4 0 6 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_6" 4 0 6 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_6" 4 0 6 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_6" 4 0 6 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_6" 4 0 6 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_6" 4 0 6 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_6" 4 0 6 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_6" 4 0 6 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA5" 4 0 6 comp_6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_72598603_7" 4 0 7 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1421440558_7" 4 0 7 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-663958109_7" 4 0 7 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-276370041_7" 4 0 7 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1034939457_7" 4 0 7 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1708684047_7" 4 0 7 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-149654448_7" 4 0 7 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_649035025_7" 4 0 7 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_667248660_7" 4 0 7 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_495211497_7" 4 0 7 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_7" 4 0 7 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_7" 4 0 7 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_7" 4 0 7 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_7" 4 0 7 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_7" 4 0 7 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_2079972936_7" 4 0 7 lights31.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_7" 4 0 7 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_7" 4 0 7 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2138887310_7" 4 0 7 lights34.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_7" 4 0 7 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_7" 4 0 7 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_7" 4 0 7 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_7" 4 0 7 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_7" 4 0 7 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA6" 4 0 7 comp_7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_72598603_8" 4 0 8 lights0.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1421440558_8" 4 0 8 lights1.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-489310259_8" 4 0 8 lights2.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-663958109_8" 4 0 8 lights3.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-276370041_8" 4 0 8 lights4.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1034939457_8" 4 0 8 lights5.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1855312751_8" 4 0 8 lights6.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2116367983_8" 4 0 8 lights7.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1387853876_8" 4 0 8 lights8.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_789422793_8" 4 0 8 lights13.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_958550260_8" 4 0 8 lights14.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1708684047_8" 4 0 8 lights15.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-149654448_8" 4 0 8 lights16.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_649035025_8" 4 0 8 lights17.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_667248660_8" 4 0 8 lights18.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_495211497_8" 4 0 8 lights19.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1125607027_8" 4 0 8 lights22.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1958181813_8" 4 0 8 lights27.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_606783394_8" 4 0 8 lights28.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1616805131_8" 4 0 8 lights29.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1872619272_8" 4 0 8 lights30.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-2115446604_8" 4 0 8 lights32.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_117164200_8" 4 0 8 lights33.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_1245226889_8" 4 0 8 lights35.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-49118022_8" 4 0 8 lights36.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-1155977273_8" 4 0 8 lights37.bin
+Running ftrace arealight "C:\Users\natha\AppData\Local\Temp\frender" "light_-759010182_8" 4 0 8 lights38.bin
+Running ftrace sun "C:\Users\natha\AppData\Local\Temp\frender" "light_-724523736_8" 4 0 8 direct0.bin
+Running ftrace addmul "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA7" 4 0 8 comp_8.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup Trees_final" 4 16 9 "gi_LMGroup Trees0.bin" "LMGroup Trees_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "LMGroup DancerCouches_final" 4 16 0 "gi_LMGroup DancerCouches0.bin" "LMGroup DancerCouches_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LM0_final" 4 16 1 "gi_MAIN_LM00.bin" "MAIN_LM0_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA1_final" 4 16 2 "gi_MAIN_LMA10.bin" "MAIN_LMA1_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA2_final" 4 16 3 "gi_MAIN_LMA20.bin" "MAIN_LMA2_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA3_final" 4 16 4 "gi_MAIN_LMA30.bin" "MAIN_LMA3_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA4_final" 4 16 5 "gi_MAIN_LMA40.bin" "MAIN_LMA4_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA5_final" 4 16 6 "gi_MAIN_LMA50.bin" "MAIN_LMA5_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA6_final" 4 16 7 "gi_MAIN_LMA60.bin" "MAIN_LMA6_lights_HDR.lz4" vbTraceTex.bin
+Running ftrace texgi "C:\Users\natha\AppData\Local\Temp\frender" "MAIN_LMA7_final" 4 16 8 "gi_MAIN_LMA70.bin" "MAIN_LMA7_lights_HDR.lz4" vbTraceTex.bin
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "0" "LMGroup DancerCouches_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "1" "MAIN_LM0_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA1_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA1_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "2" "MAIN_LMA1_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA2_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA2_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "3" "MAIN_LMA2_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA3_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA3_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "4" "MAIN_LMA3_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA4_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA4_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "5" "MAIN_LMA4_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA5_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA5_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "6" "MAIN_LMA5_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA6_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA6_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "7" "MAIN_LMA6_final_HDR.lz4"
+Running denoiserOIDN c "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA7_final_HDR.lz4" "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA7_final_HDR.lz4" 4096 0
+Running seamfixer "C:\Users\natha\AppData\Local\Temp\frender" "8" "MAIN_LMA7_final_HDR.lz4"
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/LMGroup DancerCouches_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/LMGroup DancerCouches_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LM0_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LM0_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA1_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA1_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA2_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA2_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA3_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA3_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA4_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA4_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA5_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA5_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA6_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA6_final.hdr" 1024
+Running halffloat2hdr "C:\Users\natha\AppData\Local\Temp\frender/MAIN_LMA7_final_HDR.lz4" "C:/Users/natha/Documents/GitHub/Pandorum3-VRC/Assets/Scenes/MAIN/MAIN_LMA7_final.hdr" 1024
+Done

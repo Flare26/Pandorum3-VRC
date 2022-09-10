@@ -14,17 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   resolution: 512
   bitmask: 1
-  id: 2
+  id: 9
   sortingID: 0
   isImplicit: 0
   area: 0
-  totalVertexCount: 64708
-  vertexCounter: 64708
+  totalVertexCount: 222390
+  vertexCounter: 222390
   sceneLodLevel: -1
   sceneName: MAIN
   containsTerrains: 0
   probes: 0
-  mode: 2
+  mode: 1
   renderMode: 1000
   renderDirMode: 1000
   atlasPacker: 1
@@ -40,4 +40,4 @@ MonoBehaviour:
   overridePath: 
   fixPos3D: 0
   voxelSize: {x: 1, y: 1, z: 1}
-  passedFilter: 10
+  passedFilter: 1
