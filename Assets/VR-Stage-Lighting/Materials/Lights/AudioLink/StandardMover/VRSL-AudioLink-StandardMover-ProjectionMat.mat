@@ -60,7 +60,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ProjectionMainTex:
-        m_Texture: {fileID: 2800000, guid: d442c6ef66e42204b9beb47ca297e21d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5a64773b5c3c9134f9dc375524641ab2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ProjectionTex2:
@@ -162,7 +162,7 @@ Material:
     - _ProjectionIntensity: 4.8
     - _ProjectionRange: 8
     - _ProjectionRotation: -180
-    - _ProjectionSelection: 2.11
+    - _ProjectionSelection: 1
     - _ProjectionShadowHarshness: 0.9
     - _ProjectionUVMod: 1.1
     - _ProjectionUVMod2: 1
@@ -194,7 +194,7 @@ Material:
     - _YOffset: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Emission: {r: 7.8000345, g: 7.8000345, b: 7.8000345, a: 1}
+    - _Emission: {r: 1.4980392, g: 1.4980392, b: 1.4980392, a: 2}
     - _EmissionColor: {r: 9.363626, g: 9.363626, b: 9.363626, a: 3}
     - _FixtureRotationOrigin: {r: 0, g: 0, b: 0, a: 0}
     - _LightColor: {r: 23.968628, g: 23.968628, b: 23.968628, a: 1}

@@ -25,7 +25,7 @@ namespace UdonSharp.Examples.Utilities
 
         public override void OnDeserialization()
         {
-            if (!Networking.IsOwner(gameObject))
+            //if (!Networking.IsOwner(gameObject))
                 toggleObject.SetActive(isEnabled);
         }
 

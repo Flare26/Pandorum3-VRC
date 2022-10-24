@@ -69,7 +69,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _ColorDepthFade: 0.43
-    - _DisplaceStrength: 0
+    - _DisplaceStrength: 1
     - _DisplaceStrength1: 0.469
     - _Float0: 0.84
     - _Line01ScaleX: 2
@@ -78,7 +78,7 @@ Material:
     - _Line02ScaleX: 6.75
     - _Line02ScaleY: 1
     - _Line02Speed: -1
-    - _LineAcceleration: 1.2
+    - _LineAcceleration: 0.5
     - _LineScaleWidth: 1
     - _LineTreshold: 0.672
     - _LineUVFade: 0.64

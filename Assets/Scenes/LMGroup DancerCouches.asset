@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   resolution: 4096
   bitmask: 1
-  id: 0
+  id: 1
   sortingID: 1
   isImplicit: 0
   area: 0
   totalVertexCount: 364328
   vertexCounter: 364328
   sceneLodLevel: -1
-  sceneName: MAIN
+  sceneName: MAIN 2
   containsTerrains: 0
   probes: 0
   mode: 1

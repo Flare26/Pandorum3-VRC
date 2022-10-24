@@ -160,7 +160,7 @@ Material:
     - _YOffset: 2.14
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Emission: {r: 18.164822, g: 18.164822, b: 18.164822, a: 1}
+    - _Emission: {r: 0, g: 0.28235295, b: 4, a: 2}
     - _EmissionColor: {r: 4.005236, g: 4.005236, b: 4.005236, a: 3}
     - _FixtureRotationOrigin: {r: 0, g: 0.014709, b: -1.02868, a: 0}
     - _ProjectionRangeOrigin: {r: 0, g: -0.23, b: 0, a: 0}

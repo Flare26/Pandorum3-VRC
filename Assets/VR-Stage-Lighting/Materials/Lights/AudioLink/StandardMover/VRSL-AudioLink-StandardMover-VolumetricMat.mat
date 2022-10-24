@@ -137,7 +137,7 @@ Material:
     - _FixtureBaseRotationY: 0
     - _FixtureMaxIntensity: 1
     - _FixtureRotationX: 0
-    - _GlobalIntensity: 1
+    - _GlobalIntensity: 0
     - _Glossiness: 1
     - _GoboBeamSplitEnable: 1
     - _GreenMultiplier: 1

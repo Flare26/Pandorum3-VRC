@@ -188,7 +188,7 @@ Material:
     - _YOffset: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Emission: {r: 0.69886, g: 0.69886, b: 0.69886, a: 3}
+    - _Emission: {r: 1.4869108, g: 0, b: 3.9999995, a: 2}
     - _EmissionColor: {r: 9.363626, g: 9.363626, b: 9.363626, a: 3}
     - _FixtureRotationOrigin: {r: 0, g: 0, b: 0, a: 0}
     - _LightColor: {r: 23.968628, g: 23.968628, b: 23.968628, a: 1}

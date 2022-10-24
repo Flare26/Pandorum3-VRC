@@ -44,9 +44,11 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    extraUserProperties: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["gwIvy012","gwIvy015","gwIvy011","gwIvy008","gwIvy016","gwIvy005","gwIvy017","gwIvy014","gwIvy001","gwIvy013","gwIvy006","gwIvy020","gwIvy003","gwIvy009","gwIvy019","gwIvy010","gwIvy004","Cylinder010","Cylinder015","gwIvy018","Arbor
+      Unwrapped","gwIvy002","gwIvy007"],"padding":[101,44,20,23,144,40,101,81,31,8,59,14,55,103,28,75,53,109,37,40,9,35,33],"unwrapper":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]}'
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1

@@ -34,7 +34,8 @@ public class PerformanceMode : UdonSharpBehaviour
 
         foreach (GameObject o in targets)
         {
-            o.SetActive(!isEnabled); // if mode is enabled, stuff will be disabled
+            //o.SetActive(!isEnabled); // if mode is enabled, stuff will be disabled
+            o.SetActive(!o.activeSelf);
         }
     }
 

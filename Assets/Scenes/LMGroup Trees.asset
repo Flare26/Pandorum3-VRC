@@ -14,14 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   resolution: 512
   bitmask: 1
-  id: 9
+  id: 0
   sortingID: 0
   isImplicit: 0
   area: 0
   totalVertexCount: 222390
   vertexCounter: 222390
   sceneLodLevel: -1
-  sceneName: MAIN
+  sceneName: 
   containsTerrains: 0
   probes: 0
   mode: 1
@@ -36,8 +36,8 @@ MonoBehaviour:
   fakeShadowBias: 0
   transparentSelfShadow: 0
   flipNormal: 0
-  parentName: 
+  parentName: '|'
   overridePath: 
   fixPos3D: 0
   voxelSize: {x: 1, y: 1, z: 1}
-  passedFilter: 1
+  passedFilter: 0

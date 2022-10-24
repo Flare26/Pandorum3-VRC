@@ -14,4 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   modifiedAssetPathList:
   - Assets/Bakery/examples/content/sponza/sponza.FBX
-  modifiedAssetPaddingHash: d6a958ff
+  - Assets/Meshes/Decorative plants/Meshes/Decorative plants.obj
+  - Assets/Curved Sofas/model0/model0.dae
+  - Assets/Polyart/PolyartStudio/DreamscapeMeadows/Meshes/Trees/SM_Birch_03_Unity.fbx
+  modifiedAssetPaddingHash: d6a958ffecb4d8ac7a57ca194ef25b83
